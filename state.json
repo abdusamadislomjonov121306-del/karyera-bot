@@ -1,6 +1,6 @@
 {
- "last_id": 116300,
- "offset": 596549751,
+ "last_id": 116324,
+ "offset": 596549753,
  "posts": {
   "116234": {
    "msg_id": 60,
@@ -115,9 +115,69 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "116324": {
+   "msg_id": 95,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOSH HISOBCHI\n\n🏢 \"orijam\" Mas'uliyati Cheklangan Jamiyat\n📍 Toshkent viloyati, Olmaliq shahar\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: 1–3 yil\n💰 Maosh: 3 000 000 dan 4 000 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n📞 Bog'lanish: osonish.uz orqali\n🗓 E'lon sanasi: 10.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116324\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 13,
+     "type": "bold"
+    },
+    {
+     "offset": 312,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 380,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 421,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 455,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116324,
+    "url": "https://osonish.uz/vacancies/116324",
+    "kasb": "Buxgalter",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Алмалык, улица Амира Темура, 4",
+    "title": "Bosh hisobchi",
+    "org": "\"orijam\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Olmaliq shahar",
+    "salary": "3 000 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "date": "10.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
   }
  },
- "awaiting": {},
+ "awaiting": {
+  "96": "116324",
+  "97": "116324"
+ },
  "regions": [
   "toshkent_sh",
   "toshkent_v",
