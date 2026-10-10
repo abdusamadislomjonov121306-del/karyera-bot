@@ -177,6 +177,15 @@ def parse_vacancy(html, vid, today=None):
     v["phones"] = phones
     v["contact_name"] = after("Mas'ul shaxs") or after("Aloqa uchun") or ""
 
+    # HR menejer (ba'zi e'lonlarda sahifada ochiq turadi)
+    def _val(label):
+        s = after(label)
+        return "" if s.endswith(":") else s
+    v["hr_name"] = _val("Vakansiya HR menejeri")
+    hp = _val("HR menejer telefon raqami")
+    d = re.sub(r"\D", "", hp)
+    v["hr_phone"] = f"+{d}" if len(d) == 12 else hp
+
     dl = next((ln for ln in lines if ln.lower().startswith("e'lon qilingan")), "")
     v["date"] = _rel_date(dl, today)
 

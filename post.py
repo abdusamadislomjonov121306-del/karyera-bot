@@ -22,7 +22,17 @@ def _place(v):
 
 def build_text(v):
     e = lambda s: html.escape(str(s), quote=False)
-    contact = ", ".join(x for x in [v.get("contact_name"), ", ".join(v.get("phones", [])[:2])] if x) or "osonish.uz orqali"
+    hr_name, hr_phone = v.get("hr_name"), v.get("hr_phone")
+    if hr_name or hr_phone:
+        parts = []
+        if hr_name:
+            parts += ["Vakansiya HR menejeri:", e(hr_name)]
+        if hr_phone:
+            parts += ["HR menejer telefon raqami:", e(hr_phone)]
+        contact_line = "📞 Bog'lanish:\n" + "\n".join(parts)
+    else:
+        contact = ", ".join(x for x in [v.get("contact_name"), ", ".join(v.get("phones", [])[:2])] if x) or "osonish.uz orqali"
+        contact_line = f"📞 Bog'lanish: {e(contact)}"
     lines = [
         f"🎓 <b>{e(v['title'].upper())}</b>",
         "",
@@ -34,7 +44,7 @@ def build_text(v):
         f"💰 Maosh: {e(v.get('salary') or 'Kelishiladi')}",
         f"📋 Ish turi: {e((v.get('employment') or 'doimiy').lower())}",
         f"🕗 Ish tartibi: {e(_sched(v.get('schedule')))}",
-        f"📞 Bog'lanish: {e(contact)}",
+        contact_line,
         f"🗓 E'lon sanasi: {e(v.get('date', ''))}",
         "",
         f"📝 Ariza topshirish: {e(v['url'])}",
