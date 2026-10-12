@@ -29,11 +29,19 @@ REGIONS = {
 ALLOWED_REGIONS = os.environ.get("REGIONS", "all").strip().lower() or "all"
 
 def detect_region(address, district=""):
-    a = address.lower()
+    """Manzilda ENG BIRINCHI uchragan viloyat nomi olinadi (manzil odatda viloyatdan boshlanadi).
+    Avval ro'yxat tartibida birinchi mosini olardi: 'Наманганская обл., ... ул. Андижанская'
+    Andijon bo'lib qolardi."""
+    a = _apos(address).lower()
+    best = None
     for key, (name, kws) in REGIONS.items():
-        if any(k in a for k in kws):
-            return key, name
-    if any(d in district.lower() for d in NAMANGAN_DISTRICTS):
+        for k in kws:
+            i = a.find(k)
+            if i >= 0 and (best is None or i < best[0]):
+                best = (i, key, name)
+    if best:
+        return best[1], best[2]
+    if any(d in _apos(district).lower() for d in NAMANGAN_DISTRICTS):
         return "namangan", REGIONS["namangan"][0]
     return None, ""
 
@@ -56,8 +64,14 @@ NAMANGAN_DISTRICTS = [
     "yangiqo'rg'on", "yangikurgan", "янгикурган", "янгиқўрғон",
 ]
 
+class NotFound(Exception):
+    """E'lon yo'q (o'chirilgan yoki hali chiqmagan) — o'tkazib yuborsa bo'ladi."""
+
 def _get(url):
     r = requests.get(url, headers=UA, timeout=30)
+    if r.status_code in (404, 410):
+        time.sleep(DELAY)
+        raise NotFound(url)
     r.raise_for_status()
     time.sleep(DELAY)
     return r.text
@@ -88,16 +102,20 @@ def listing_ids(stop_at=None, max_pages=15):
     return sorted(ids)
 
 def new_ids(last_id=None, initial=300):
-    """Yangi e'lonlar: avval vakansiyalar sahifasidan, keyin sitemap'dan (zaxira)."""
-    ids = set(listing_ids(stop_at=last_id, max_pages=15 if last_id else max(1, initial // 15)))
+    """Yangi e'lonlar ID'lari.
+    Saytdagi ro'yxat ID bo'yicha tartiblanmagan, shuning uchun undan faqat ENG KATTA ID olinadi,
+    keyin last_id dan shu ID gacha bo'lgan HAMMA raqamlar ketma-ket tekshiriladi (ID'lar ketma-ket beriladi).
+    Avvalgi usulda 1-sahifada bo'lmagan e'lonlar butunlay o'tkazib yuborilardi."""
+    known = set(listing_ids(max_pages=2))
     try:
-        ids |= set(sitemap_ids())
+        known |= set(sitemap_ids())
     except Exception as e:
         print(f"Sitemap: xato ({e})")
-    ids = sorted(ids)
-    if last_id is None:
-        return ids[-initial:]
-    return [i for i in ids if i > last_id]
+    if not known:
+        raise RuntimeError("osonish.uz'dan birorta ham ID olinmadi (sayt javob bermayapti yoki bloklagan)")
+    top = max(known)
+    start = (top - initial) if last_id is None else last_id
+    return list(range(start + 1, top + 1))
 
 def _clean(s):
     return re.sub(r"\s+", " ", s or "").strip()
