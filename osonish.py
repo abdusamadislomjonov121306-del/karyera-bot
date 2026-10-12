@@ -64,6 +64,9 @@ NAMANGAN_DISTRICTS = [
     "yangiqo'rg'on", "yangikurgan", "янгикурган", "янгиқўрғон",
 ]
 
+class NotReady(Exception):
+    """Sahifa bor, lekin e'lon hali ochiq emas ("Noma'lum lavozim" — moderatsiyada/yopiq)."""
+
 class NotFound(Exception):
     """E'lon yo'q (o'chirilgan yoki hali chiqmagan) — o'tkazib yuborsa bo'ladi."""
 
@@ -101,6 +104,8 @@ def listing_ids(stop_at=None, max_pages=15):
             break
     return sorted(ids)
 
+LAST_KNOWN = set()  # oxirgi new_ids() da saytda ko'ringan ID'lar
+
 def new_ids(last_id=None, initial=300):
     """Yangi e'lonlar ID'lari.
     Saytdagi ro'yxat ID bo'yicha tartiblanmagan, shuning uchun undan faqat ENG KATTA ID olinadi,
@@ -113,6 +118,8 @@ def new_ids(last_id=None, initial=300):
         print(f"Sitemap: xato ({e})")
     if not known:
         raise RuntimeError("osonish.uz'dan birorta ham ID olinmadi (sayt javob bermayapti yoki bloklagan)")
+    global LAST_KNOWN
+    LAST_KNOWN = known
     top = max(known)
     start = (top - initial) if last_id is None else last_id
     return list(range(start + 1, top + 1))
@@ -230,4 +237,9 @@ def parse_vacancy(html, vid, today=None):
     return v
 
 def fetch_vacancy(vid):
-    return parse_vacancy(_get(f"{BASE}/vacancies/{vid}"), vid)
+    html_ = _get(f"{BASE}/vacancies/{vid}")
+    v = parse_vacancy(html_, vid)
+    if "noma'lum lavozim" in v["title"].lower() or (not v["address"] and not v["kasb"]) \
+            or "yuklanmoqda" in v["title"].lower():
+        raise NotReady(vid)
+    return v
