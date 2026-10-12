@@ -1,9 +1,17 @@
 {
  "last_id": 116619,
- "offset": 0,
+ "offset": 596549816,
  "posts": {},
  "awaiting": {},
  "regions": [
   "namangan"
- ]
+ ],
+ "stats": {
+  "time": "12.10.2026 17:10",
+  "scanned": 0,
+  "sent": 0,
+  "errors": 0,
+  "total_sent": 0
+ },
+ "fails": {}
 }
