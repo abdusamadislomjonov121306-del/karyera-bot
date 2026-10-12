@@ -144,6 +144,20 @@ LABELS = {
     "address": "Ish joy manzili",
 }
 
+# O'zbekiston operator/shahar kodlari (998 dan keyingi 2 raqam)
+_CODES = {"20", "33", "50", "55", "61", "62", "65", "66", "67", "69", "70", "71", "72", "73", "74",
+          "75", "76", "77", "78", "79", "88", "90", "91", "93", "94", "95", "97", "98", "99"}
+_PHONE_RE = re.compile(r"(?<!\d)(?:\+?\s*998[\s\-()]*)?\(?(\d{2})\)?[\s\-]*(\d{3})[\s\-]*(\d{2})[\s\-]*(\d{2})(?!\d)")
+
+def _find_phones(text):
+    """+998 90 123 45 67, (90) 123-45-67, 90 123 45 67, 901234567 ko'rinishlarini topadi."""
+    out = []
+    for m in _PHONE_RE.finditer(text):
+        code = m.group(1)
+        if code in _CODES:
+            out.append(f"+998 {code} {m.group(2)} {m.group(3)} {m.group(4)}")
+    return out
+
 def _rel_date(s, today=None):
     today = today or dt.date.today()
     s = _apos(s).lower()
@@ -187,11 +201,11 @@ def parse_vacancy(html, vid, today=None):
 
     phones = []
     for ln in lines:
-        for p in re.findall(r"\+998[\s()\d-]{9,}", ln):
-            p = re.sub(r"\D", "", p)
-            if len(p) == 12:
-                f = f"+{p[:3]} {p[3:5]} {p[5:8]} {p[8:10]} {p[10:]}"
-                if f not in phones and f not in HOTLINES: phones.append(f)
+        if "so'm" in ln.lower():
+            continue  # maosh qatoridagi sonlar telefon emas
+        for p in _find_phones(ln):
+            if p not in phones and p not in HOTLINES:
+                phones.append(p)
     v["phones"] = phones
     v["contact_name"] = after("Mas'ul shaxs") or after("Aloqa uchun") or ""
 
@@ -201,8 +215,8 @@ def parse_vacancy(html, vid, today=None):
         return "" if s.endswith(":") else s
     v["hr_name"] = _val("Vakansiya HR menejeri")
     hp = _val("HR menejer telefon raqami")
-    d = re.sub(r"\D", "", hp)
-    v["hr_phone"] = f"+{d}" if len(d) == 12 else hp
+    hp_found = _find_phones(hp)
+    v["hr_phone"] = hp_found[0] if hp_found else hp
 
     dl = next((ln for ln in lines if ln.lower().startswith("e'lon qilingan")), "")
     v["date"] = _rel_date(dl, today)
