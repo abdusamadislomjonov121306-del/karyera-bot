@@ -12,6 +12,8 @@ Bot **GitHub Actions**'da bepul va uzluksiz ishlaydi: har ishga tushish oxirida 
   - ✏️ **Tahrirlash** — bot so'rov yuboradi, siz unga javob (reply) qilib yangi matnni yuborasiz;
   - 🔄 **Boshqa rasm** — rasmning boshqa varianti chiqadi.
 - `/start` buyrug'i pastda doimiy **⚙️ Viloyatlar** tugmasini chiqaradi.
+- `/holat` — oxirgi tekshiruv vaqti, ko'rilgan/yuborilgan e'lonlar, xatolar va tasdiq kutayotgan postlar soni.
+- Sayt javob bermasa yoki Telegramga yuborib bo'lmasa, bot adminga ⚠️ ogohlantirish yuboradi (soatiga ko'pi bilan 1 marta).
 - `/viloyatlar` yoki shu tugma 14 hudud ro'yxatini ochadi: har biri **Ha / Yo'q** ko'rinishida, keyin **💾 Saqlash**. Standart holatda faqat Namangan yoqilgan.
 
 ## Fayllar
@@ -47,7 +49,7 @@ Bot **GitHub Actions**'da bepul va uzluksiz ishlaydi: har ishga tushish oxirida 
 | Belgi | Sabab va yechim |
 |---|---|
 | "chat not found" | Admin botda START bosmagan |
-| Xabar kelmayapti | Saytda yangi e'lon yo'q yoki bot to'xtagan. Botga `/start` yozing: javob bersa, bot ishlayapti |
+| Xabar kelmayapti | Botga `/holat` yozing: oxirgi tekshiruv vaqti va xatolar ko'rinadi. Javob bermasa, bot to'xtagan |
 | Hammasini qaytadan boshlash | `state.json` ni o'chirib, Run workflow ni bosing |
 
 Bot faqat osonish.uz'ning ochiq sahifalarini o'qiydi va `robots.txt` qoidalariga amal qiladi: `/api/` ishlatilmaydi, so'rovlar orasida 1 soniyadan ko'proq kutiladi.
