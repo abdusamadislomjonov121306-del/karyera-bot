@@ -22,17 +22,16 @@ def _place(v):
 
 def build_text(v):
     e = lambda s: html.escape(str(s), quote=False)
-    hr_name, hr_phone = v.get("hr_name"), v.get("hr_phone")
-    if hr_name or hr_phone:
-        parts = []
-        if hr_name:
-            parts += ["Vakansiya HR menejeri:", e(hr_name)]
-        if hr_phone:
-            parts += ["HR menejer telefon raqami:", e(hr_phone)]
-        contact_line = "📞 Bog'lanish:\n" + "\n".join(parts)
+    # Bog'lanish: vakansiyani joylagan tashkilot telefon raqami
+    phones = []
+    for ph in [v.get("hr_phone")] + list(v.get("phones") or []):
+        if ph and ph not in phones:
+            phones.append(ph)
+    if phones:
+        who = v.get("hr_name") or v.get("contact_name")
+        contact_line = f"📞 Bog'lanish: {e(', '.join(phones[:2]))}" + (f" ({e(who)})" if who else "")
     else:
-        contact = ", ".join(x for x in [v.get("contact_name"), ", ".join(v.get("phones", [])[:2])] if x) or "osonish.uz orqali"
-        contact_line = f"📞 Bog'lanish: {e(contact)}"
+        contact_line = "📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)"
     lines = [
         f"🎓 <b>{e(v['title'].upper())}</b>",
         "",
