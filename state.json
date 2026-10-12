@@ -1,6 +1,6 @@
 {
  "last_id": 116673,
- "offset": 596549846,
+ "offset": 596549856,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -455,7 +455,7 @@
   },
   "116462": {
    "msg_id": 181,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 MAKTABGACHA TA'LIMDA TARBIYACHI YORDAMCHISI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: O'rta-maxsus\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n📞 Bog'lanish: Rustamova Dilafruz +998941509966\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
@@ -501,30 +501,15 @@
    "msg_id": 182,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 QOROVUL\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 2 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116463\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "🎓 QOROVUL\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 2 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: Nargiza Mahkamova +998944490389\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 7,
-     "type": "bold"
+     "offset": 458,
+     "length": 13,
+     "type": "phone_number"
     },
     {
-     "offset": 440,
-     "length": 10,
-     "type": "url"
-    },
-    {
-     "offset": 532,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 573,
-     "length": 30,
-     "type": "bold"
-    },
-    {
-     "offset": 607,
+     "offset": 538,
      "length": 30,
      "type": "url"
     }
@@ -560,30 +545,15 @@
    "msg_id": 183,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 ROBOTOTEXNIKA LABORANTI\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116466\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "🎓 ROBOTOTEXNIKA LABORANTI\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: Mahkamova Nargiza +998944490389\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 23,
-     "type": "bold"
+     "offset": 467,
+     "length": 13,
+     "type": "phone_number"
     },
     {
-     "offset": 456,
-     "length": 10,
-     "type": "url"
-    },
-    {
-     "offset": 548,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 589,
-     "length": 30,
-     "type": "bold"
-    },
-    {
-     "offset": 623,
+     "offset": 547,
      "length": 30,
      "type": "url"
     }
@@ -619,30 +589,15 @@
    "msg_id": 184,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 BINOGA XIZMAT KO'RSATISH VA TA'MIRLASH ISHCHISI\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116468\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "🎓 BINOGA XIZMAT KO'RSATISH VA TA'MIRLASH ISHCHISI\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: Mahkamova Nargiza +998944490389\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 47,
-     "type": "bold"
+     "offset": 498,
+     "length": 13,
+     "type": "phone_number"
     },
     {
-     "offset": 480,
-     "length": 10,
-     "type": "url"
-    },
-    {
-     "offset": 572,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 613,
-     "length": 30,
-     "type": "bold"
-    },
-    {
-     "offset": 647,
+     "offset": 578,
      "length": 30,
      "type": "url"
     }
@@ -676,7 +631,7 @@
   },
   "116472": {
    "msg_id": 185,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 MAKTABGACHA TA'LIM TASHKILOTI TARBIYACHISI\n\n🏢 \"uchqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 12-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Uchqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: 1 yilgacha\n💰 Maosh: 3 000 000 dan 3 500 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116472\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
@@ -1266,14 +1221,16 @@
   }
  },
  "awaiting": {
-  "186": "116472"
+  "186": "116472",
+  "208": "116463",
+  "213": "116468"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 20:52",
-  "scanned": 1,
+  "time": "12.10.2026 21:02",
+  "scanned": 0,
   "sent": 0,
   "errors": 0,
   "total_sent": 23
@@ -1366,91 +1323,91 @@
   ],
   "116343": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820942.8439815
   ],
   "116344": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116348": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116350": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116356": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116357": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116359": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116360": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116361": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116362": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116363": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116367": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116368": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116369": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116370": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116371": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116377": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116378": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116383": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116384": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116385": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116386": [
    1791809918.0944808,
-   1791818157.5696473
+   1791820942.8439815
   ],
   "116387": [
    1791809918.0944808,
@@ -1774,15 +1731,15 @@
   ],
   "116647": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820942.8439815
   ],
   "116649": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820942.8439815
   ],
   "116658": [
    1791811528.4624848,
-   1791817603.1122382
+   1791820942.8439815
   ],
   "116661": [
    1791815418.5715678,
