@@ -1,6 +1,6 @@
 {
  "last_id": 116660,
- "offset": 596549830,
+ "offset": 596549834,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -181,7 +181,7 @@
   },
   "116379": {
    "msg_id": 175,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "Bog'lanish: Abdullayev Saidjon +998505731179",
    "entities": [
@@ -220,32 +220,17 @@
   },
   "116381": {
    "msg_id": 176,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
-   "caption": "🎓 BOLALARNI PSIXOLOGIK QO'LLAB-QUVVATLASH VA INKLYUZIV TA'LIM BO'YICHA METODIST\n\n🏢 \"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 34-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Norin tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116381\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "🎓 BOLALARNI PSIXOLOGIK QO'LLAB-QUVVATLASH VA INKLYUZIV TA'LIM BO'YICHA METODIST\n\n🏢 \"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 34-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Norin tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n📞 Bog'lanish: +998505731179 Abdullayev Saidjon\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 77,
-     "type": "bold"
-    },
-    {
      "offset": 488,
-     "length": 10,
-     "type": "url"
+     "length": 13,
+     "type": "phone_number"
     },
     {
-     "offset": 580,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 621,
-     "length": 30,
-     "type": "bold"
-    },
-    {
-     "offset": 655,
+     "offset": 587,
      "length": 30,
      "type": "url"
     }
@@ -1347,9 +1332,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 19:10",
-  "scanned": 25,
-  "sent": 1,
+  "time": "12.10.2026 19:19",
+  "scanned": 1,
+  "sent": 0,
   "errors": 0,
   "total_sent": 23
  },
@@ -1357,99 +1342,99 @@
  "retry": {
   "116302": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116304": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116306": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116308": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116310": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116311": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116312": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116313": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116314": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116316": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116317": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116325": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116326": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116329": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116330": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116331": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116333": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116335": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116337": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116338": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116342": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116343": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116344": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116348": [
    1791809918.0944808,
-   0
+   1791814793.531317
   ],
   "116350": [
    1791809918.0944808,
@@ -1852,10 +1837,6 @@
    0
   ],
   "116649": [
-   1791809918.0944808,
-   0
-  ],
-  "116650": [
    1791809918.0944808,
    0
   ],
