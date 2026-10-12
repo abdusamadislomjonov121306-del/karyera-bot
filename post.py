@@ -28,8 +28,11 @@ def build_text(v):
         if ph and ph not in phones:
             phones.append(ph)
     if phones:
-        who = v.get("hr_name") or v.get("contact_name")
-        contact_line = f"📞 Bog'lanish: {e(', '.join(phones[:2]))}" + (f" ({e(who)})" if who else "")
+        rows = []
+        if v.get("hr_name"):
+            rows.append(f"Vakansiya HR menejeri: {e(v['hr_name'])}")
+        rows.append(f"HR menejer telefon raqami: {e(', '.join(phones[:2]))}")
+        contact_line = "📞 Bog'lanish:\n" + "\n".join(rows)
     else:
         contact_line = "📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)"
     lines = [
