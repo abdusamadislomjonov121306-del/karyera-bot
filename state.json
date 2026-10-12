@@ -1,6 +1,6 @@
 {
- "last_id": 116670,
- "offset": 596549844,
+ "last_id": 116673,
+ "offset": 596549846,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -457,30 +457,15 @@
    "msg_id": 181,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 MAKTABGACHA TA'LIMDA TARBIYACHI YORDAMCHISI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: O'rta-maxsus\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116462\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "🎓 MAKTABGACHA TA'LIMDA TARBIYACHI YORDAMCHISI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: O'rta-maxsus\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n📞 Bog'lanish: Rustamova Dilafruz +998941509966\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 43,
-     "type": "bold"
+     "offset": 461,
+     "length": 13,
+     "type": "phone_number"
     },
     {
-     "offset": 442,
-     "length": 10,
-     "type": "url"
-    },
-    {
-     "offset": 534,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 575,
-     "length": 30,
-     "type": "bold"
-    },
-    {
-     "offset": 609,
+     "offset": 541,
      "length": 30,
      "type": "url"
     }
@@ -1287,8 +1272,8 @@
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 20:43",
-  "scanned": 0,
+  "time": "12.10.2026 20:52",
+  "scanned": 1,
   "sent": 0,
   "errors": 0,
   "total_sent": 23
@@ -1297,87 +1282,87 @@
  "retry": {
   "116302": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116304": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116306": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116308": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116310": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116311": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116312": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116313": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116314": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116316": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116317": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116325": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116326": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116329": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116330": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116331": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116333": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116335": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116337": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116338": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116342": [
    1791809918.0944808,
-   1791817603.1122382
+   1791820387.5803206
   ],
   "116343": [
    1791809918.0944808,
@@ -1773,19 +1758,19 @@
   ],
   "116637": [
    1791809918.0944808,
-   1791817049.3723648
+   1791820387.5803206
   ],
   "116640": [
    1791809918.0944808,
-   1791817049.3723648
+   1791820387.5803206
   ],
   "116642": [
    1791809918.0944808,
-   1791817049.3723648
+   1791820387.5803206
   ],
   "116644": [
    1791809918.0944808,
-   1791817049.3723648
+   1791820387.5803206
   ],
   "116647": [
    1791809918.0944808,
@@ -1822,6 +1807,14 @@
   "116669": [
    1791819348.0573575,
    1791819348.0573578
+  ],
+  "116671": [
+   1791820449.461399,
+   1791820449.4613993
+  ],
+  "116672": [
+   1791820451.7546082,
+   1791820451.7546084
   ]
  }
 }
