@@ -1,17 +1,77 @@
 {
- "last_id": 116328,
+ "last_id": 116650,
  "offset": 596549816,
- "posts": {},
+ "posts": {
+  "116336": {
+   "msg_id": 165,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 JISMONIY TARBIYA BO'YICHA TARBIYACHI\n\n🏢 \"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 29-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti \" Davlat Muassasasi\n📍 Namangan viloyati, Chortoq tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 07:30–16:30\n📞 Bog'lanish: osonish.uz orqali\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116336\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 36,
+     "type": "bold"
+    },
+    {
+     "offset": 457,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 525,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 566,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 600,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116336,
+    "url": "https://osonish.uz/vacancies/116336",
+    "kasb": "Jismoniy tarbiya bo'yicha tarbiyachi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 07:30 - 16:30",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Arbag'ish MFY",
+    "title": "Jismoniy tarbiya bo'yicha tarbiyachi",
+    "org": "\"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 29-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti \" Davlat Muassasasi",
+    "district": "Chortoq tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  }
+ },
  "awaiting": {},
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 17:20",
-  "scanned": 0,
-  "sent": 0,
+  "time": "12.10.2026 17:24",
+  "scanned": 322,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 0
+  "total_sent": 1
  },
  "fails": {}
 }
