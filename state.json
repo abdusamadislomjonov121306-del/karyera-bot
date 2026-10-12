@@ -1,6 +1,6 @@
 {
- "last_id": 116650,
- "offset": 596549826,
+ "last_id": 116660,
+ "offset": 596549827,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -119,18 +119,728 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "116366": {
+   "msg_id": 174,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIM TASHKILOTI MUSIQA RAHBARI\n\n🏢 \"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 5-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: 5 yildan ortiq\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116366\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 44,
+     "type": "bold"
+    },
+    {
+     "offset": 396,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 488,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 529,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 563,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116366,
+    "url": "https://osonish.uz/vacancies/116366",
+    "kasb": "Maktabgacha ta'lim tashkiloti musiqa rahbari",
+    "slots": 1,
+    "experience": "5 yildan ortiq",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Пап, Nodira ko'chasi",
+    "title": "Maktabgacha ta'lim tashkiloti musiqa rahbari",
+    "org": "\"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 5-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116379": {
+   "msg_id": 175,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 34-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Norin tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116379\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 414,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 506,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 547,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 581,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116379,
+    "url": "https://osonish.uz/vacancies/116379",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманганская область, Нарынский район, городской посёлок Маргузар",
+    "title": "Qorovul",
+    "org": "\"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 34-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Norin tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116381": {
+   "msg_id": 176,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOLALARNI PSIXOLOGIK QO'LLAB-QUVVATLASH VA INKLYUZIV TA'LIM BO'YICHA METODIST\n\n🏢 \"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 34-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Norin tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116381\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 77,
+     "type": "bold"
+    },
+    {
+     "offset": 488,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 580,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 621,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 655,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116381,
+    "url": "https://osonish.uz/vacancies/116381",
+    "kasb": "Bolalarni psixologik qo'llab-quvvatlash va inklyuziv ta'lim bo'yicha metodist",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Наманганская область, Нарынский район, городской посёлок Маргузар",
+    "title": "Bolalarni psixologik qo'llab-quvvatlash va inklyuziv ta'lim bo'yicha metodist",
+    "org": "\"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 34-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Norin tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116405": {
+   "msg_id": 177,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"ali-Umar Builder\" Mas'uliyati Cheklangan Jamiyat\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 296 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: mavsumiy\n🕗 Ish tartibi: haftasiga 4 kun ish, 2 kun dam, 08:00–08:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116405\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 300,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 392,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 433,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 467,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116405,
+    "url": "https://osonish.uz/vacancies/116405",
+    "kasb": "O't yoquvchi",
+    "slots": 296,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "4/2, 08:00 - 08:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "NAMANGAN VILOYATI, POP TUMANI, UCH UJLI 20-UJ",
+    "title": "O't yoquvchi",
+    "org": "\"ali-Umar Builder\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116421": {
+   "msg_id": 178,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 38-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116421\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 357,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 449,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 490,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 524,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116421,
+    "url": "https://osonish.uz/vacancies/116421",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Pop tuman bodomzor mfy",
+    "title": "Qorovul",
+    "org": "\"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 38-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116445": {
+   "msg_id": 179,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 PEDAGOG-PSIXOLOG\n\n🏢 \"namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 14-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 700 000 dan 1 800 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:30–13:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116445\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 404,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 496,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 537,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 571,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116445,
+    "url": "https://osonish.uz/vacancies/116445",
+    "kasb": "Pedagog-psixolog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:30 - 13:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Navro'z MFY Furqat ko'chasi 1 uy",
+    "title": "Pedagog-psixolog",
+    "org": "\"namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 14-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan tumani",
+    "salary": "1 700 000 dan 1 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116446": {
+   "msg_id": 180,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 CHET TILI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 14-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 800 000 dan 1 900 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116446\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 37,
+     "type": "bold"
+    },
+    {
+     "offset": 393,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 485,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 526,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 560,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116446,
+    "url": "https://osonish.uz/vacancies/116446",
+    "kasb": "Chet tili fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Navro'z MFY Furqat ko'chasi 1 uy",
+    "title": "Chet tili fanidan maktab o'qituvchisi",
+    "org": "\"namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 14-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan tumani",
+    "salary": "1 800 000 dan 1 900 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116462": {
+   "msg_id": 181,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIMDA TARBIYACHI YORDAMCHISI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: O'rta-maxsus\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116462\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 43,
+     "type": "bold"
+    },
+    {
+     "offset": 442,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 534,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 575,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 609,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116462,
+    "url": "https://osonish.uz/vacancies/116462",
+    "kasb": "Maktabgacha ta'limda tarbiyachi yordamchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Янгикурганский район, городской посёлок Карапалван, махаллинский сход граждан Куйи Кораполвон, улица Ровут-3",
+    "title": "Maktabgacha ta'limda tarbiyachi yordamchisi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116463": {
+   "msg_id": 182,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 2 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116463\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 440,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 532,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 573,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 607,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116463,
+    "url": "https://osonish.uz/vacancies/116463",
+    "kasb": "Qorovul",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Xo'jasho'rkent ko'chasi 1-uy",
+    "title": "Qorovul",
+    "org": "\"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116466": {
+   "msg_id": 183,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ROBOTOTEXNIKA LABORANTI\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116466\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 23,
+     "type": "bold"
+    },
+    {
+     "offset": 456,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 548,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 589,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 623,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116466,
+    "url": "https://osonish.uz/vacancies/116466",
+    "kasb": "Ishlab chiqarish laboranti",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Xo'jasho'rkent ko'chasi 1-uy",
+    "title": "Robototexnika laboranti",
+    "org": "\"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116468": {
+   "msg_id": 184,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BINOGA XIZMAT KO'RSATISH VA TA'MIRLASH ISHCHISI\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116468\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 47,
+     "type": "bold"
+    },
+    {
+     "offset": 480,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 572,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 613,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 647,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116468,
+    "url": "https://osonish.uz/vacancies/116468",
+    "kasb": "Binolarga kompleks xizmat ko'rsatish va ta'mirlash ishchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Xo'jasho'rkent ko'chasi 1-uy",
+    "title": "Binoga xizmat ko'rsatish va ta'mirlash ishchisi",
+    "org": "\"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116472": {
+   "msg_id": 185,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIM TASHKILOTI TARBIYACHISI\n\n🏢 \"uchqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 12-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Uchqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: 1 yilgacha\n💰 Maosh: 3 000 000 dan 3 500 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116472\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 42,
+     "type": "bold"
+    },
+    {
+     "offset": 441,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 533,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 574,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 608,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116472,
+    "url": "https://osonish.uz/vacancies/116472",
+    "kasb": "Maktabgacha ta'lim tashkiloti tarbiyachisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "",
+    "title": "Maktabgacha ta'lim tashkiloti tarbiyachisi",
+    "org": "\"uchqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 12-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Uchqo'rg'on tumani",
+    "salary": "3 000 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
- "awaiting": {},
+ "awaiting": {
+  "186": "116472"
+ },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 18:14",
-  "scanned": 25,
-  "sent": 0,
+  "time": "12.10.2026 18:23",
+  "scanned": 33,
+  "sent": 12,
   "errors": 0,
-  "total_sent": 2
+  "total_sent": 14
  },
  "fails": {},
  "retry": {
@@ -198,10 +908,6 @@
    1791809918.0944808,
    0
   ],
-  "116332": [
-   1791809918.0944808,
-   0
-  ],
   "116333": [
    1791809918.0944808,
    0
@@ -266,14 +972,6 @@
    1791809918.0944808,
    0
   ],
-  "116365": [
-   1791809918.0944808,
-   0
-  ],
-  "116366": [
-   1791809918.0944808,
-   0
-  ],
   "116367": [
    1791809918.0944808,
    0
@@ -299,14 +997,6 @@
    0
   ],
   "116378": [
-   1791809918.0944808,
-   0
-  ],
-  "116379": [
-   1791809918.0944808,
-   0
-  ],
-  "116381": [
    1791809918.0944808,
    0
   ],
@@ -362,10 +1052,6 @@
    1791809918.0944808,
    0
   ],
-  "116405": [
-   1791809918.0944808,
-   0
-  ],
   "116406": [
    1791809918.0944808,
    0
@@ -402,10 +1088,6 @@
    1791809918.0944808,
    0
   ],
-  "116421": [
-   1791809918.0944808,
-   0
-  ],
   "116430": [
    1791809918.0944808,
    0
@@ -434,14 +1116,6 @@
    1791809918.0944808,
    0
   ],
-  "116445": [
-   1791809918.0944808,
-   0
-  ],
-  "116446": [
-   1791809918.0944808,
-   0
-  ],
   "116448": [
    1791809918.0944808,
    0
@@ -450,23 +1124,7 @@
    1791809918.0944808,
    0
   ],
-  "116454": [
-   1791809918.0944808,
-   0
-  ],
-  "116455": [
-   1791809918.0944808,
-   0
-  ],
-  "116456": [
-   1791809918.0944808,
-   0
-  ],
   "116457": [
-   1791809918.0944808,
-   0
-  ],
-  "116458": [
    1791809918.0944808,
    0
   ],
@@ -482,47 +1140,7 @@
    1791809918.0944808,
    0
   ],
-  "116462": [
-   1791809918.0944808,
-   0
-  ],
-  "116463": [
-   1791809918.0944808,
-   0
-  ],
-  "116464": [
-   1791809918.0944808,
-   0
-  ],
-  "116465": [
-   1791809918.0944808,
-   0
-  ],
-  "116466": [
-   1791809918.0944808,
-   0
-  ],
-  "116467": [
-   1791809918.0944808,
-   0
-  ],
-  "116468": [
-   1791809918.0944808,
-   0
-  ],
-  "116469": [
-   1791809918.0944808,
-   0
-  ],
-  "116470": [
-   1791809918.0944808,
-   0
-  ],
   "116471": [
-   1791809918.0944808,
-   0
-  ],
-  "116472": [
    1791809918.0944808,
    0
   ],
@@ -531,14 +1149,6 @@
    0
   ],
   "116474": [
-   1791809918.0944808,
-   0
-  ],
-  "116475": [
-   1791809918.0944808,
-   0
-  ],
-  "116476": [
    1791809918.0944808,
    0
   ],
@@ -1237,6 +1847,14 @@
   "116650": [
    1791809918.0944808,
    0
+  ],
+  "116653": [
+   1791811515.842821,
+   1791811515.8428211
+  ],
+  "116658": [
+   1791811528.4624848,
+   1791811528.4624848
   ]
  }
 }
