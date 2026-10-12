@@ -6,7 +6,7 @@ Ishlatish:
   python run.py                 # oddiy sikl
   python run.py --test 116052   # bitta vakansiyani tahlil qilib, matnini chiqarish (Telegramsiz)
 """
-import json, os, sys, tempfile, time, traceback
+import html, json, os, sys, tempfile, time, traceback
 import osonish, post, card, tg
 
 STATE_FILE = os.environ.get("STATE_FILE", "state.json")
@@ -28,7 +28,7 @@ def load():
 
 def save(st):
     # eski yakunlangan postlarni tozalash (fayl o'sib ketmasin)
-    done = [k for k, p in st["posts"].items() if p["status"] != "pending"]
+    done = [k for k, p in st["posts"].items() if p.get("status") != "pending"]
     for k in sorted(done, key=int)[:-500]:
         st["posts"].pop(k)
     with open(STATE_FILE, "w") as f:
@@ -85,6 +85,32 @@ def on_region_button(st, q, key):
     tg.call("editMessageText", chat_id=ADMIN_CHAT, message_id=msg_id, text=regions_text(st),
             parse_mode="HTML", reply_markup=regions_kb(st))
 
+# ---------- Holat (/holat) va ogohlantirishlar ----------
+def show_status(st):
+    s = st.get("stats", {})
+    pend = [k for k, p in st["posts"].items() if p.get("status") == "pending"]
+    names = [osonish.REGIONS[k][0] for k in osonish.REGIONS if k in _regions(st)]
+    txt = ("📊 <b>Bot holati</b>\n\n"
+           f"🕒 Oxirgi tekshiruv: {s.get('time', '—')}\n"
+           f"🔎 Ko'rilgan e'lonlar: {s.get('scanned', 0)} ta\n"
+           f"📨 Yuborilgan: {s.get('sent', 0)} ta\n"
+           f"⚠️ Xatolar: {s.get('errors', 0)} ta\n"
+           f"🆔 Oxirgi ID: {st.get('last_id')}\n"
+           f"⏳ Tasdiq kutayotgan postlar: {len(pend)} ta\n"
+           f"📍 Viloyatlar: {', '.join(names) or 'tanlanmagan'}\n"
+           f"📊 Jami yuborilgan: {s.get('total_sent', 0)} ta")
+    if s.get("last_error"):
+        txt += f"\n\n❗ Oxirgi xato: <code>{html.escape(s['last_error'][:300])}</code>"
+    tg.call("sendMessage", chat_id=ADMIN_CHAT, text=txt, parse_mode="HTML")
+
+def alert(st, text, every=3600):
+    """Adminni ogohlantirish (bir xil xabar soatiga ko'pi bilan 1 marta)."""
+    now = time.time()
+    if now - st.get("last_alert", 0) < every:
+        return
+    st["last_alert"] = now
+    _safe(tg.call, "sendMessage", chat_id=ADMIN_CHAT, text="⚠️ " + text)
+
 # ---------- 1. Admin harakatlari ----------
 def handle_updates(st, wait=0):
     ups = tg.call("getUpdates", offset=st["offset"], timeout=wait,
@@ -108,9 +134,25 @@ def on_button(st, q):
     if act == "rg":
         return on_region_button(st, q, vid)
     p = st["posts"].get(vid)
-    if not p or p["status"] != "pending":
-        return
     who = q["from"].get("first_name", "admin")
+    if not p:
+        # Holat (state.json) yo'qolgan eski post: tugma baribir ishlasin
+        mid = msg.get("message_id")
+        if act == "ok" and mid:
+            tg.call("copyMessage", chat_id=CHANNEL, from_chat_id=ADMIN_CHAT, message_id=mid)
+            st["posts"][vid] = {"msg_id": mid, "status": "posted"}
+            _safe(tg.call, "editMessageReplyMarkup", chat_id=ADMIN_CHAT, message_id=mid,
+                  reply_markup=tg.status_kb(f"✅ Kanalga joylandi ({who})"))
+        elif act == "no" and mid:
+            st["posts"][vid] = {"msg_id": mid, "status": "rejected"}
+            _safe(tg.call, "editMessageReplyMarkup", chat_id=ADMIN_CHAT, message_id=mid,
+                  reply_markup=tg.status_kb(f"❌ Rad etildi ({who})"))
+        elif act in ("ed", "im"):
+            _safe(tg.call, "sendMessage", chat_id=ADMIN_CHAT, reply_to_message_id=mid,
+                  text="⚠️ Bu post eski — uni faqat tasdiqlash yoki rad etish mumkin.")
+        return
+    if p["status"] != "pending":
+        return
     if act == "ok":
         tg.call("copyMessage", chat_id=CHANNEL, from_chat_id=ADMIN_CHAT, message_id=p["msg_id"])
         p["status"] = "posted"
@@ -151,6 +193,8 @@ def on_message(st, m):
         return
     if t == SETTINGS_BTN or t.startswith("/viloyatlar"):
         return show_regions(st)
+    if t.startswith("/holat"):
+        return show_status(st)
     rep = m.get("reply_to_message")
     if not rep or str(rep["message_id"]) not in st["awaiting"]:
         return
@@ -174,27 +218,67 @@ def on_message(st, m):
 
 # ---------- 2. Yangi vakansiyalar ----------
 def scrape(st):
-    todo = osonish.new_ids(st["last_id"], INITIAL_SCAN)
-    todo = todo[:MAX_FETCH]
-    print(f"Ko'rib chiqiladi: {len(todo)} ta e'lon")
+    stats = {"time": time.strftime("%d.%m.%Y %H:%M"), "scanned": 0, "sent": 0, "errors": 0,
+             "total_sent": st.get("stats", {}).get("total_sent", 0)}
+    st["stats"] = stats
+    try:
+        todo = osonish.new_ids(st["last_id"], INITIAL_SCAN)[:MAX_FETCH]
+    except Exception as e:
+        stats["errors"] += 1
+        stats["last_error"] = f"ID ro'yxati: {e}"
+        print("XATO:", stats["last_error"])
+        alert(st, f"osonish.uz'dan e'lonlar ro'yxatini olib bo'lmadi:\n{e}")
+        return
+    print(f"Ko'rib chiqiladi: {len(todo)} ta e'lon ({todo[0] if todo else '-'} … {todo[-1] if todo else '-'})")
+    fails = st.setdefault("fails", {})
+    streak = 0
     for vid in todo:
         try:
             v = osonish.fetch_vacancy(vid)
-        except Exception as e:
-            print(f"{vid}: o'tkazildi ({e})")
-            st["last_id"] = vid
+        except osonish.NotFound:
+            st["last_id"] = vid           # bunday e'lon yo'q — keyingisiga o'tamiz
             continue
+        except Exception as e:
+            stats["errors"] += 1
+            stats["last_error"] = f"{vid}: {e}"
+            print(f"{vid}: XATO ({e})")
+            streak += 1
+            if streak >= 3:
+                # Sayt javob bermayapti/bloklayapti: ID'larni yo'qotmaslik uchun to'xtaymiz, keyingi safar davom etadi
+                alert(st, f"osonish.uz javob bermayapti (ketma-ket {streak} xato). Oxirgi xato:\n{e}\n"
+                          "Keyingi tekshiruvda qayta urinaman.")
+                return
+            continue
+        streak = 0
+        stats["scanned"] += 1
         if v.get("region_key") not in _regions(st) or str(vid) in st["posts"]:
             st["last_id"] = vid
             continue
         caption = post.build_text(v)
-        m = tg.send_photo(ADMIN_CHAT, _img(v, 0), caption, tg.review_kb(vid))
+        if len(caption) > CAPTION_LIMIT:
+            caption = caption[:CAPTION_LIMIT - 1] + "…"
+        try:
+            m = tg.send_photo(ADMIN_CHAT, _img(v, 0), caption, tg.review_kb(vid))
+        except Exception as e:
+            stats["errors"] += 1
+            stats["last_error"] = f"Telegram {vid}: {e}"
+            print(f"{vid}: Telegramga yuborib bo'lmadi ({e})")
+            fails[str(vid)] = fails.get(str(vid), 0) + 1
+            if fails[str(vid)] < 3:
+                return                    # keyingi safar shu e'londan qayta urinadi
+            alert(st, f"Vakansiya {vid} ni yuborib bo'lmadi, o'tkazib yuborildi:\n{e}", every=0)
+            st["last_id"] = vid
+            continue
+        fails.pop(str(vid), None)
         st["posts"][str(vid)] = {"msg_id": m["message_id"], "status": "pending", "variant": 0,
                                  "caption": m.get("caption", caption), "entities": m.get("caption_entities"),
                                  "v": v}
         st["last_id"] = vid  # faqat muvaffaqiyatli yuborilgandan keyin
+        stats["sent"] += 1
+        stats["total_sent"] += 1
         save(st)  # har postdan keyin saqlash — uzilib qolsa ham takrorlanmaydi
         print(f"{vid}: tekshiruvga yuborildi — {v['title']}")
+    print(f"Natija: ko'rildi {stats['scanned']}, yuborildi {stats['sent']}, xato {stats['errors']}")
 
 def main():
     if "--test" in sys.argv:
@@ -210,17 +294,25 @@ def main():
     st = load()
     _regions(st)
     _safe(tg.call, "setMyCommands", commands=[
+        {"command": "holat", "description": "Bot holati va statistika"},
         {"command": "viloyatlar", "description": "Viloyatlarni sozlash (Ha/Yo'q)"},
         {"command": "start", "description": "Botni ishga tushirish"}])
     start = time.time()
     try:
-        handle_updates(st)
+        _safe(handle_updates, st)
         save(st)
-        scrape(st)
+        try:
+            scrape(st)
+        except Exception:
+            traceback.print_exc()
         save(st)
         # Qolgan vaqtda tugmalarni deyarli darhol qayta ishlash uchun tinglab turamiz
         while time.time() - start < LISTEN_SECONDS:
-            handle_updates(st, wait=min(25, max(1, int(LISTEN_SECONDS - (time.time() - start)))))
+            try:
+                handle_updates(st, wait=min(25, max(1, int(LISTEN_SECONDS - (time.time() - start)))))
+            except Exception as e:
+                print("getUpdates xato:", e)
+                time.sleep(5)
             save(st)
     finally:
         save(st)
