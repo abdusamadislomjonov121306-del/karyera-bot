@@ -827,6 +827,242 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "116481": {
+   "msg_id": 187,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIM TASHKILOTI TARBIYACHISI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 07:30–12:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116481\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 42,
+     "type": "bold"
+    },
+    {
+     "offset": 466,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 558,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 599,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 633,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116481,
+    "url": "https://osonish.uz/vacancies/116481",
+    "kasb": "Maktabgacha ta'lim tashkiloti tarbiyachisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 07:30 - 12:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Наманганская область, Янгикурганский район, городской посёлок Карапалван, махаллинский сход граждан Куйи Кораполвон, улица Ровут-3",
+    "title": "Maktabgacha ta'lim tashkiloti tarbiyachisi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116484": {
+   "msg_id": 188,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'QITUVCHI-LOGOPED\n\n🏢 \"namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 11-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: 1 yilgacha\n💰 Maosh: 1 500 000 dan 1 800 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 07:30–14:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116484\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 18,
+     "type": "bold"
+    },
+    {
+     "offset": 405,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 497,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 538,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 572,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116484,
+    "url": "https://osonish.uz/vacancies/116484",
+    "kasb": "O'qituvchi-logoped",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 07:30 - 14:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Namangan viloyati Namangan tuman 11-DMTT",
+    "title": "O'qituvchi-logoped",
+    "org": "\"namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 11-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan tumani",
+    "salary": "1 500 000 dan 1 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116487": {
+   "msg_id": 189,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 AHOLI PUNKTI (DAM OLISH ZONASI)NI OBODONLASHTIRISH BO'YICHA ISHCHI\n\n🏢 \"pop New Cleans\" Mas'uliyati Cheklangan Jamiyat\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 2 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116487\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 66,
+     "type": "bold"
+    },
+    {
+     "offset": 332,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 424,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 465,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 499,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116487,
+    "url": "https://osonish.uz/vacancies/116487",
+    "kasb": "Aholi punkti (dam olish zonasi)ni obodonlashtirish bo'yicha ishchi",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Pop",
+    "title": "Aholi punkti (dam olish zonasi)ni obodonlashtirish bo'yicha ishchi",
+    "org": "\"pop New Cleans\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116509": {
+   "msg_id": 190,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 RUS TILI VA ADABIYOTI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 70-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: 1 yilgacha\n💰 Maosh: 1 800 000 dan 2 000 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116509\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 49,
+     "type": "bold"
+    },
+    {
+     "offset": 436,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 528,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 569,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 603,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116509,
+    "url": "https://osonish.uz/vacancies/116509",
+    "kasb": "Rus tili va adabiyoti fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Наманганская область, Папский район, населённый пункт Туда",
+    "title": "Rus tili va adabiyoti fanidan maktab o'qituvchisi",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 70-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "1 800 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -836,11 +1072,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 18:23",
-  "scanned": 33,
-  "sent": 12,
+  "time": "12.10.2026 18:33",
+  "scanned": 25,
+  "sent": 4,
   "errors": 0,
-  "total_sent": 14
+  "total_sent": 18
  },
  "fails": {},
  "retry": {
@@ -1152,23 +1388,11 @@
    1791809918.0944808,
    0
   ],
-  "116477": [
-   1791809918.0944808,
-   0
-  ],
-  "116478": [
-   1791809918.0944808,
-   0
-  ],
   "116479": [
    1791809918.0944808,
    0
   ],
   "116480": [
-   1791809918.0944808,
-   0
-  ],
-  "116481": [
    1791809918.0944808,
    0
   ],
@@ -1180,10 +1404,6 @@
    1791809918.0944808,
    0
   ],
-  "116484": [
-   1791809918.0944808,
-   0
-  ],
   "116485": [
    1791809918.0944808,
    0
@@ -1192,19 +1412,7 @@
    1791809918.0944808,
    0
   ],
-  "116487": [
-   1791809918.0944808,
-   0
-  ],
-  "116488": [
-   1791809918.0944808,
-   0
-  ],
   "116489": [
-   1791809918.0944808,
-   0
-  ],
-  "116490": [
    1791809918.0944808,
    0
   ],
@@ -1212,31 +1420,7 @@
    1791809918.0944808,
    0
   ],
-  "116492": [
-   1791809918.0944808,
-   0
-  ],
   "116493": [
-   1791809918.0944808,
-   0
-  ],
-  "116494": [
-   1791809918.0944808,
-   0
-  ],
-  "116495": [
-   1791809918.0944808,
-   0
-  ],
-  "116496": [
-   1791809918.0944808,
-   0
-  ],
-  "116497": [
-   1791809918.0944808,
-   0
-  ],
-  "116498": [
    1791809918.0944808,
    0
   ],
@@ -1244,59 +1428,11 @@
    1791809918.0944808,
    0
   ],
-  "116500": [
-   1791809918.0944808,
-   0
-  ],
-  "116501": [
-   1791809918.0944808,
-   0
-  ],
-  "116502": [
-   1791809918.0944808,
-   0
-  ],
-  "116503": [
-   1791809918.0944808,
-   0
-  ],
   "116504": [
    1791809918.0944808,
    0
   ],
-  "116505": [
-   1791809918.0944808,
-   0
-  ],
-  "116506": [
-   1791809918.0944808,
-   0
-  ],
   "116507": [
-   1791809918.0944808,
-   0
-  ],
-  "116508": [
-   1791809918.0944808,
-   0
-  ],
-  "116509": [
-   1791809918.0944808,
-   0
-  ],
-  "116510": [
-   1791809918.0944808,
-   0
-  ],
-  "116511": [
-   1791809918.0944808,
-   0
-  ],
-  "116512": [
-   1791809918.0944808,
-   0
-  ],
-  "116513": [
    1791809918.0944808,
    0
   ],
