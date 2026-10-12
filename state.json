@@ -1,10 +1,10 @@
 {
  "last_id": 116650,
- "offset": 596549816,
+ "offset": 596549820,
  "posts": {
   "116336": {
    "msg_id": 165,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 JISMONIY TARBIYA BO'YICHA TARBIYACHI\n\n🏢 \"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 29-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti \" Davlat Muassasasi\n📍 Namangan viloyati, Chortoq tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 07:30–16:30\n📞 Bog'lanish: osonish.uz orqali\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116336\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
@@ -67,9 +67,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 17:24",
-  "scanned": 322,
-  "sent": 1,
+  "time": "12.10.2026 17:36",
+  "scanned": 0,
+  "sent": 0,
   "errors": 0,
   "total_sent": 1
  },
