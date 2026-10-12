@@ -1,6 +1,6 @@
 {
  "last_id": 116673,
- "offset": 596549870,
+ "offset": 596549876,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -1030,30 +1030,15 @@
    "msg_id": 194,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"to'raqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 4-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, To'raqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 200 000 dan 1 500 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116568\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"to'raqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 4-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, To'raqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 200 000 dan 1 500 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n📞 Bog'lanish: Usmonov Omonjon +998940100016\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 29,
-     "type": "bold"
+     "offset": 439,
+     "length": 13,
+     "type": "phone_number"
     },
     {
-     "offset": 423,
-     "length": 10,
-     "type": "url"
-    },
-    {
-     "offset": 515,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 556,
-     "length": 30,
-     "type": "bold"
-    },
-    {
-     "offset": 590,
+     "offset": 519,
      "length": 30,
      "type": "url"
     }
@@ -1089,30 +1074,15 @@
    "msg_id": 195,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 BOSHLANG'ICH TA'LIMDA INFORMATIKA FANIDAN O'QITUVCHI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 54-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116617\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "🎓 BOSHLANG'ICH TA'LIMDA INFORMATIKA FANIDAN O'QITUVCHI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 54-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Tajribali\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: Raxmonqulov Xurshidjon +998942701668\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 52,
-     "type": "bold"
+     "offset": 407,
+     "length": 13,
+     "type": "phone_number"
     },
     {
-     "offset": 390,
-     "length": 10,
-     "type": "url"
-    },
-    {
-     "offset": 482,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 523,
-     "length": 30,
-     "type": "bold"
-    },
-    {
-     "offset": 557,
+     "offset": 487,
      "length": 30,
      "type": "url"
     }
@@ -1152,13 +1122,15 @@
   "216": "116481",
   "217": "116481",
   "218": "116481",
-  "229": "116568"
+  "229": "116568",
+  "230": "116568",
+  "233": "116568"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 21:11",
+  "time": "12.10.2026 21:20",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
@@ -1440,95 +1412,95 @@
   ],
   "116448": [
    1791809918.0944808,
-   1791818714.5632775
+   1791822067.0372548
   ],
   "116450": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116457": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116459": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116460": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116461": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116471": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116473": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116474": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116479": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116480": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116482": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116483": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116485": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116486": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116489": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116491": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116493": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116499": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116504": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116507": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116518": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116520": [
    1791809918.0944808,
-   1791819272.5278192
+   1791822067.0372548
   ],
   "116524": [
    1791809918.0944808,
@@ -1672,11 +1644,11 @@
   ],
   "116661": [
    1791815418.5715678,
-   1791818714.5632775
+   1791822067.0372548
   ],
   "116663": [
    1791815423.396344,
-   1791818714.5632775
+   1791822067.0372548
   ],
   "116666": [
    1791819341.2364426,
