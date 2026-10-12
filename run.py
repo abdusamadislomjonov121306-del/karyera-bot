@@ -125,6 +125,19 @@ def handle_updates(st, wait=0):
         except Exception:
             traceback.print_exc()
 
+def to_channel(mid):
+    """Postni kanalga nusxalash; xato bo'lsa adminga sababini aytadi."""
+    try:
+        tg.call("copyMessage", chat_id=CHANNEL, from_chat_id=ADMIN_CHAT, message_id=mid)
+        return True
+    except Exception as e:
+        print("Kanalga joylab bo'lmadi:", e)
+        _safe(tg.call, "sendMessage", chat_id=ADMIN_CHAT, reply_to_message_id=mid,
+              text=f"❌ Kanalga ({CHANNEL}) joylab bo'lmadi.\nSabab: {e}\n\n"
+                   "Tekshiring: bot kanalga ADMIN qilinganmi va «Post messages» huquqi bormi; "
+                   "CHANNEL_ID to'g'rimi. Keyin ✅ ni qayta bosing.")
+        return False
+
 def on_button(st, q):
     msg = q.get("message", {})
     if str(msg.get("chat", {}).get("id")) != str(ADMIN_CHAT):
@@ -139,7 +152,8 @@ def on_button(st, q):
         # Holat (state.json) yo'qolgan eski post: tugma baribir ishlasin
         mid = msg.get("message_id")
         if act == "ok" and mid:
-            tg.call("copyMessage", chat_id=CHANNEL, from_chat_id=ADMIN_CHAT, message_id=mid)
+            if not to_channel(mid):
+                return
             st["posts"][vid] = {"msg_id": mid, "status": "posted"}
             _safe(tg.call, "editMessageReplyMarkup", chat_id=ADMIN_CHAT, message_id=mid,
                   reply_markup=tg.status_kb(f"✅ Kanalga joylandi ({who})"))
@@ -154,7 +168,8 @@ def on_button(st, q):
     if p["status"] != "pending":
         return
     if act == "ok":
-        tg.call("copyMessage", chat_id=CHANNEL, from_chat_id=ADMIN_CHAT, message_id=p["msg_id"])
+        if not to_channel(p["msg_id"]):
+            return
         p["status"] = "posted"
         tg.call("editMessageReplyMarkup", chat_id=ADMIN_CHAT, message_id=p["msg_id"],
                 reply_markup=tg.status_kb(f"✅ Kanalga joylandi ({who})"))
@@ -232,7 +247,9 @@ def scrape(st):
     print(f"Ko'rib chiqiladi: {len(todo)} ta e'lon ({todo[0] if todo else '-'} … {todo[-1] if todo else '-'})")
     fails = st.setdefault("fails", {})
     streak = 0
-    for vid in todo:
+    for n, vid in enumerate(todo):
+        if n and n % 15 == 0:
+            _safe(handle_updates, st)   # uzoq skan paytida ham ✅/❌ tugmalari kechikmasin
         try:
             v = osonish.fetch_vacancy(vid)
         except osonish.NotFound:
