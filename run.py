@@ -97,6 +97,7 @@ def show_status(st):
            f"⚠️ Xatolar: {s.get('errors', 0)} ta\n"
            f"🆔 Oxirgi ID: {st.get('last_id')}\n"
            f"⏳ Tasdiq kutayotgan postlar: {len(pend)} ta\n"
+           f"🔁 Hali ochilmagan, kuzatilayotgan e'lonlar: {len(st.get('retry', {}))} ta\n"
            f"📍 Viloyatlar: {', '.join(names) or 'tanlanmagan'}\n"
            f"📊 Jami yuborilgan: {s.get('total_sent', 0)} ta")
     if s.get("last_error"):
@@ -232,6 +233,36 @@ def on_message(st, m):
           reaction=[{"type": "emoji", "emoji": "👍"}])
 
 # ---------- 2. Yangi vakansiyalar ----------
+RETRY_HOURS = 72      # ochilmagan e'lonni necha soat kuzatish
+RETRY_PER_RUN = 25    # bir siklda nechtasini qayta tekshirish
+
+def send_post(st, v, stats):
+    """Adminga tekshiruvga yuborish. True — yuborildi, False — 3 marta xato (tashlab ketildi), None — qayta urinish kerak."""
+    vid = v["id"]
+    fails = st.setdefault("fails", {})
+    caption = post.build_text(v)
+    if len(caption) > CAPTION_LIMIT:
+        caption = caption[:CAPTION_LIMIT - 1] + "…"
+    try:
+        m = tg.send_photo(ADMIN_CHAT, _img(v, 0), caption, tg.review_kb(vid))
+    except Exception as e:
+        stats["errors"] += 1
+        stats["last_error"] = f"Telegram {vid}: {e}"
+        print(f"{vid}: Telegramga yuborib bo'lmadi ({e})")
+        fails[str(vid)] = fails.get(str(vid), 0) + 1
+        if fails[str(vid)] < 3:
+            return None
+        alert(st, f"Vakansiya {vid} ni yuborib bo'lmadi, o'tkazib yuborildi:\n{e}", every=0)
+        return False
+    fails.pop(str(vid), None)
+    st["posts"][str(vid)] = {"msg_id": m["message_id"], "status": "pending", "variant": 0,
+                             "caption": m.get("caption", caption), "entities": m.get("caption_entities"),
+                             "v": v}
+    stats["sent"] += 1
+    stats["total_sent"] = stats.get("total_sent", 0) + 1
+    print(f"{vid}: tekshiruvga yuborildi — {v['title']}")
+    return True
+
 def scrape(st):
     stats = {"time": time.strftime("%d.%m.%Y %H:%M"), "scanned": 0, "sent": 0, "errors": 0,
              "total_sent": st.get("stats", {}).get("total_sent", 0)}
@@ -247,6 +278,35 @@ def scrape(st):
     print(f"Ko'rib chiqiladi: {len(todo)} ta e'lon ({todo[0] if todo else '-'} … {todo[-1] if todo else '-'})")
     fails = st.setdefault("fails", {})
     streak = 0
+    # Hali ochilmagan (moderatsiyadagi) e'lonlarni qayta tekshirish
+    now = time.time()
+    if "retry" not in st and st.get("last_id"):
+        # Birinchi marta: oxirgi ~2 kunlik e'lonlarni ham qayta ko'rib chiqamiz (ilgari o'tkazib yuborilgan bo'lishi mumkin)
+        st["retry"] = {str(i): [now, 0] for i in range(st["last_id"] - 350, st["last_id"] + 1)}
+    retry = st.setdefault("retry", {})
+    for k in [k for k, t in retry.items() if now - t[0] > RETRY_HOURS * 3600]:
+        retry.pop(k)
+    known = {str(i) for i in osonish.LAST_KNOWN}
+    again = sorted(retry, key=lambda k: (k not in known, retry[k][1]))[:RETRY_PER_RUN]
+    if again:
+        print(f"Qayta tekshiriladi (oldin ochilmagan): {len(again)} ta")
+    for n, k in enumerate(again):
+        if n and n % 15 == 0:
+            _safe(handle_updates, st)
+        retry[k][1] = now
+        try:
+            v = osonish.fetch_vacancy(int(k))
+        except (osonish.NotReady, Exception) as e:
+            if isinstance(e, osonish.NotFound):
+                retry.pop(k, None)
+            continue
+        retry.pop(k, None)
+        stats["scanned"] += 1
+        if v.get("region_key") in _regions(st) and k not in st["posts"]:
+            if send_post(st, v, stats) is None:
+                retry[k] = [now, now]     # Telegram xatosi — keyinroq yana
+            save(st)
+
     for n, vid in enumerate(todo):
         if n and n % 15 == 0:
             _safe(handle_updates, st)   # uzoq skan paytida ham ✅/❌ tugmalari kechikmasin
@@ -254,6 +314,10 @@ def scrape(st):
             v = osonish.fetch_vacancy(vid)
         except osonish.NotFound:
             st["last_id"] = vid           # bunday e'lon yo'q — keyingisiga o'tamiz
+            continue
+        except osonish.NotReady:
+            retry[str(vid)] = [time.time(), time.time()]   # keyinroq qayta tekshiramiz
+            st["last_id"] = vid
             continue
         except Exception as e:
             stats["errors"] += 1
@@ -271,30 +335,12 @@ def scrape(st):
         if v.get("region_key") not in _regions(st) or str(vid) in st["posts"]:
             st["last_id"] = vid
             continue
-        caption = post.build_text(v)
-        if len(caption) > CAPTION_LIMIT:
-            caption = caption[:CAPTION_LIMIT - 1] + "…"
-        try:
-            m = tg.send_photo(ADMIN_CHAT, _img(v, 0), caption, tg.review_kb(vid))
-        except Exception as e:
-            stats["errors"] += 1
-            stats["last_error"] = f"Telegram {vid}: {e}"
-            print(f"{vid}: Telegramga yuborib bo'lmadi ({e})")
-            fails[str(vid)] = fails.get(str(vid), 0) + 1
-            if fails[str(vid)] < 3:
-                return                    # keyingi safar shu e'londan qayta urinadi
-            alert(st, f"Vakansiya {vid} ni yuborib bo'lmadi, o'tkazib yuborildi:\n{e}", every=0)
-            st["last_id"] = vid
-            continue
-        fails.pop(str(vid), None)
-        st["posts"][str(vid)] = {"msg_id": m["message_id"], "status": "pending", "variant": 0,
-                                 "caption": m.get("caption", caption), "entities": m.get("caption_entities"),
-                                 "v": v}
-        st["last_id"] = vid  # faqat muvaffaqiyatli yuborilgandan keyin
-        stats["sent"] += 1
-        stats["total_sent"] += 1
+        res = send_post(st, v, stats)
+        if res is None:
+            return                        # Telegram xatosi — keyingi safar shu e'londan qayta
+        st["last_id"] = vid
         save(st)  # har postdan keyin saqlash — uzilib qolsa ham takrorlanmaydi
-        print(f"{vid}: tekshiruvga yuborildi — {v['title']}")
+
     print(f"Natija: ko'rildi {stats['scanned']}, yuborildi {stats['sent']}, xato {stats['errors']}")
 
 def main():
