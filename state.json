@@ -1063,6 +1063,124 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "116543": {
+   "msg_id": 191,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAXSUS PEDAGOG\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116543\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 14,
+     "type": "bold"
+    },
+    {
+     "offset": 404,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 496,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 537,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 571,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116543,
+    "url": "https://osonish.uz/vacancies/116543",
+    "kasb": "Maxsus pedagogik-psixologiya mutaxassisligi bo'yicha psixolog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Янгикурганский район, населённый пункт Кызылъязы",
+    "title": "Maxsus pedagog",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "116546": {
+   "msg_id": 192,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAXSUS PEDAGOGIK\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116546\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 393,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 485,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 526,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 560,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116546,
+    "url": "https://osonish.uz/vacancies/116546",
+    "kasb": "Maxsus pedagogik-psixologiya mutaxassisligi bo'yicha psixolog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Янгикурганский район, населённый пункт Кызылъязы",
+    "title": "Maxsus pedagogik",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -1072,11 +1190,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 18:33",
+  "time": "12.10.2026 18:42",
   "scanned": 25,
-  "sent": 4,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 18
+  "total_sent": 20
  },
  "fails": {},
  "retry": {
@@ -1436,43 +1554,11 @@
    1791809918.0944808,
    0
   ],
-  "116514": [
-   1791809918.0944808,
-   0
-  ],
-  "116515": [
-   1791809918.0944808,
-   0
-  ],
-  "116516": [
-   1791809918.0944808,
-   0
-  ],
-  "116517": [
-   1791809918.0944808,
-   0
-  ],
   "116518": [
    1791809918.0944808,
    0
   ],
-  "116519": [
-   1791809918.0944808,
-   0
-  ],
   "116520": [
-   1791809918.0944808,
-   0
-  ],
-  "116521": [
-   1791809918.0944808,
-   0
-  ],
-  "116522": [
-   1791809918.0944808,
-   0
-  ],
-  "116523": [
    1791809918.0944808,
    0
   ],
@@ -1484,14 +1570,6 @@
    1791809918.0944808,
    0
   ],
-  "116526": [
-   1791809918.0944808,
-   0
-  ],
-  "116527": [
-   1791809918.0944808,
-   0
-  ],
   "116528": [
    1791809918.0944808,
    0
@@ -1500,27 +1578,7 @@
    1791809918.0944808,
    0
   ],
-  "116530": [
-   1791809918.0944808,
-   0
-  ],
-  "116531": [
-   1791809918.0944808,
-   0
-  ],
-  "116532": [
-   1791809918.0944808,
-   0
-  ],
-  "116533": [
-   1791809918.0944808,
-   0
-  ],
   "116534": [
-   1791809918.0944808,
-   0
-  ],
-  "116535": [
    1791809918.0944808,
    0
   ],
@@ -1528,19 +1586,7 @@
    1791809918.0944808,
    0
   ],
-  "116537": [
-   1791809918.0944808,
-   0
-  ],
-  "116538": [
-   1791809918.0944808,
-   0
-  ],
   "116539": [
-   1791809918.0944808,
-   0
-  ],
-  "116540": [
    1791809918.0944808,
    0
   ],
@@ -1548,35 +1594,7 @@
    1791809918.0944808,
    0
   ],
-  "116542": [
-   1791809918.0944808,
-   0
-  ],
-  "116543": [
-   1791809918.0944808,
-   0
-  ],
-  "116544": [
-   1791809918.0944808,
-   0
-  ],
   "116545": [
-   1791809918.0944808,
-   0
-  ],
-  "116546": [
-   1791809918.0944808,
-   0
-  ],
-  "116547": [
-   1791809918.0944808,
-   0
-  ],
-  "116548": [
-   1791809918.0944808,
-   0
-  ],
-  "116549": [
    1791809918.0944808,
    0
   ],
