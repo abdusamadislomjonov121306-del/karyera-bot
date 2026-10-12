@@ -1,6 +1,6 @@
 {
  "last_id": 116660,
- "offset": 596549828,
+ "offset": 596549830,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -183,32 +183,12 @@
    "msg_id": 175,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 QOROVUL\n\n🏢 \"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 34-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Norin tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116379\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "Bog'lanish: Abdullayev Saidjon +998505731179",
    "entities": [
     {
-     "offset": 3,
-     "length": 7,
-     "type": "bold"
-    },
-    {
-     "offset": 414,
-     "length": 10,
-     "type": "url"
-    },
-    {
-     "offset": 506,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 547,
-     "length": 30,
-     "type": "bold"
-    },
-    {
-     "offset": 581,
-     "length": 30,
-     "type": "url"
+     "offset": 31,
+     "length": 13,
+     "type": "phone_number"
     }
    ],
    "v": {
@@ -1299,6 +1279,65 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "116617": {
+   "msg_id": 195,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOSHLANG'ICH TA'LIMDA INFORMATIKA FANIDAN O'QITUVCHI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 54-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 12.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/116617\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 52,
+     "type": "bold"
+    },
+    {
+     "offset": 390,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 482,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 523,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 557,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116617,
+    "url": "https://osonish.uz/vacancies/116617",
+    "kasb": "Boshlang'ich ta'limda informatika fanidan o'qituvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Pop tuman Navro'z mfy",
+    "title": "Boshlang'ich ta'limda informatika fanidan o'qituvchi",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 54-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "12.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -1308,11 +1347,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "12.10.2026 19:01",
+  "time": "12.10.2026 19:10",
   "scanned": 25,
-  "sent": 0,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 22
+  "total_sent": 23
  },
  "fails": {},
  "retry": {
@@ -1752,22 +1791,6 @@
    1791809918.0944808,
    0
   ],
-  "116609": [
-   1791809918.0944808,
-   0
-  ],
-  "116610": [
-   1791809918.0944808,
-   0
-  ],
-  "116611": [
-   1791809918.0944808,
-   0
-  ],
-  "116612": [
-   1791809918.0944808,
-   0
-  ],
   "116613": [
    1791809918.0944808,
    0
@@ -1776,27 +1799,11 @@
    1791809918.0944808,
    0
   ],
-  "116615": [
-   1791809918.0944808,
-   0
-  ],
   "116616": [
    1791809918.0944808,
    0
   ],
-  "116617": [
-   1791809918.0944808,
-   0
-  ],
   "116618": [
-   1791809918.0944808,
-   0
-  ],
-  "116619": [
-   1791809918.0944808,
-   0
-  ],
-  "116620": [
    1791809918.0944808,
    0
   ],
@@ -1808,15 +1815,7 @@
    1791809918.0944808,
    0
   ],
-  "116623": [
-   1791809918.0944808,
-   0
-  ],
   "116624": [
-   1791809918.0944808,
-   0
-  ],
-  "116625": [
    1791809918.0944808,
    0
   ],
@@ -1824,35 +1823,7 @@
    1791809918.0944808,
    0
   ],
-  "116627": [
-   1791809918.0944808,
-   0
-  ],
-  "116628": [
-   1791809918.0944808,
-   0
-  ],
-  "116629": [
-   1791809918.0944808,
-   0
-  ],
-  "116630": [
-   1791809918.0944808,
-   0
-  ],
-  "116631": [
-   1791809918.0944808,
-   0
-  ],
-  "116632": [
-   1791809918.0944808,
-   0
-  ],
   "116633": [
-   1791809918.0944808,
-   0
-  ],
-  "116634": [
    1791809918.0944808,
    0
   ],
@@ -1860,19 +1831,7 @@
    1791809918.0944808,
    0
   ],
-  "116636": [
-   1791809918.0944808,
-   0
-  ],
   "116637": [
-   1791809918.0944808,
-   0
-  ],
-  "116638": [
-   1791809918.0944808,
-   0
-  ],
-  "116639": [
    1791809918.0944808,
    0
   ],
@@ -1880,15 +1839,7 @@
    1791809918.0944808,
    0
   ],
-  "116641": [
-   1791809918.0944808,
-   0
-  ],
   "116642": [
-   1791809918.0944808,
-   0
-  ],
-  "116643": [
    1791809918.0944808,
    0
   ],
@@ -1896,19 +1847,7 @@
    1791809918.0944808,
    0
   ],
-  "116645": [
-   1791809918.0944808,
-   0
-  ],
-  "116646": [
-   1791809918.0944808,
-   0
-  ],
   "116647": [
-   1791809918.0944808,
-   0
-  ],
-  "116648": [
    1791809918.0944808,
    0
   ],
