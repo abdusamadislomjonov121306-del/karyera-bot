@@ -1,6 +1,6 @@
 {
  "last_id": 116673,
- "offset": 596549881,
+ "offset": 596549892,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -544,7 +544,7 @@
   "116466": {
    "msg_id": 183,
    "status": "pending",
-   "variant": 0,
+   "variant": 10,
    "caption": "🎓 ROBOTOTEXNIKA LABORANTI\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: Mahkamova Nargiza +998944490389\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
     {
@@ -587,7 +587,7 @@
   },
   "116468": {
    "msg_id": 184,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 BINOGA XIZMAT KO'RSATISH VA TA'MIRLASH ISHCHISI\n\n🏢 \"o'zbekiston Respublikasi Maktabgacha Va Maktab Ta'limi Vazirligi Huzuridagi Ixtisoslashtirilgan Ta'lim Muassasalari Agentligi Tizimidagi Yangiqo'rg'on Tuman Ixtisoslashtirilgan Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: Mahkamova Nargiza +998944490389\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
    "entities": [
@@ -1130,7 +1130,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "13.10.2026 08:20",
+  "time": "13.10.2026 08:29",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
@@ -1140,67 +1140,67 @@
  "retry": {
   "116302": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116304": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116306": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116308": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116310": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116311": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116312": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116313": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116314": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116316": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116317": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116325": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116326": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116329": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116330": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116331": [
    1791809918.0944808,
-   1791859425.0688617
+   1791862206.7537127
   ],
   "116333": [
    1791809918.0944808,
@@ -1540,31 +1540,31 @@
   ],
   "116550": [
    1791809918.0944808,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116552": [
    1791809918.0944808,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116557": [
    1791809918.0944808,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116559": [
    1791809918.0944808,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116561": [
    1791809918.0944808,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116565": [
    1791809918.0944808,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116566": [
    1791809918.0944808,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116576": [
    1791809918.0944808,
@@ -1644,11 +1644,11 @@
   ],
   "116661": [
    1791815418.5715678,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116663": [
    1791815423.396344,
-   1791858884.0087533
+   1791862206.7537127
   ],
   "116666": [
    1791819341.2364426,
