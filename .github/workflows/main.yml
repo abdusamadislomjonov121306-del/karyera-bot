@@ -21,7 +21,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -35,7 +35,8 @@ jobs:
           ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
           CHANNEL_ID: ${{ vars.CHANNEL_ID || '@karyerauznamangan' }}
           INITIAL_SCAN: ${{ vars.INITIAL_SCAN || '300' }}
-          LISTEN_SECONDS: "540"
+          LISTEN_SECONDS: "360"
+          SCRAPE_SECONDS: "330"
           TZ: Asia/Tashkent
         run: |
           if [ -n "${{ github.event.inputs.test_id }}" ]; then
