@@ -1,6 +1,6 @@
 {
- "last_id": 116999,
- "offset": 596549929,
+ "last_id": 117019,
+ "offset": 596549935,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -1157,6 +1157,242 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "117011": {
+   "msg_id": 280,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 HOVLI SUPURUVCHI\n\n🏢 \"toshkent Viloyati Angren Shahar 5-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Toshkent viloyati, Angren shahar\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 432 080 so'mdan boshlab\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–15:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117011\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 371,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 463,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 504,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 538,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117011,
+    "url": "https://osonish.uz/vacancies/117011",
+    "kasb": "Hududni obodonlashtirish ishchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 15:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Ангрен, махаллинский сход граждан Гулзор, улица Узбекистон Мустакиллиги, 155",
+    "title": "Hovli supuruvchi",
+    "org": "\"toshkent Viloyati Angren Shahar 5-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Angren shahar",
+    "salary": "1 432 080 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "117016": {
+   "msg_id": 281,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"3-Sonli Qaldirg'och Nomli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Toshkent viloyati, Parkent tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 1 360 000 dan 2 000 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–18:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117016\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 359,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 451,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 492,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 526,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117016,
+    "url": "https://osonish.uz/vacancies/117016",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 18:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Паркентский район, махаллинский сход граждан Кургонтепа, улица Шарк, 618",
+    "title": "Qorovul",
+    "org": "\"3-Sonli Qaldirg'och Nomli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Parkent tumani",
+    "salary": "1 360 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "117018": {
+   "msg_id": 282,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIM TASHKILOTI MUSIQA RAHBARI\n\n🏢 \"3-Sonli Qaldirg'och Nomli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Toshkent viloyati, Parkent tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 2 000 000 dan 2 500 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–17:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117018\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 44,
+     "type": "bold"
+    },
+    {
+     "offset": 400,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 492,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 533,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 567,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117018,
+    "url": "https://osonish.uz/vacancies/117018",
+    "kasb": "Maktabgacha ta'lim tashkiloti musiqa rahbari",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 17:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Паркентский район, махаллинский сход граждан Кургонтепа, улица Шарк, 618",
+    "title": "Maktabgacha ta'lim tashkiloti musiqa rahbari",
+    "org": "\"3-Sonli Qaldirg'och Nomli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Parkent tumani",
+    "salary": "2 000 000 dan 2 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "117019": {
+   "msg_id": 283,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIMDA TARBIYACHI YORDAMCHI\n\n🏢 \"3-Sonli Qaldirg'och Nomli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Toshkent viloyati, Parkent tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: O'rta-maxsus\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 500 000 dan 700 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 07:30–17:30\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117019\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 41,
+     "type": "bold"
+    },
+    {
+     "offset": 390,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 482,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 523,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 557,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117019,
+    "url": "https://osonish.uz/vacancies/117019",
+    "kasb": "Maktabgacha ta'limda tarbiyachi yordamchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 07:30 - 17:30",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Паркентский район, махаллинский сход граждан Кургонтепа, улица Шарк, 618",
+    "title": "Maktabgacha ta'limda tarbiyachi yordamchi",
+    "org": "\"3-Sonli Qaldirg'och Nomli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Parkent tumani",
+    "salary": "500 000 dan 700 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -1174,16 +1410,14 @@
   "242": "116755"
  },
  "regions": [
-  "namangan",
-  "toshkent_sh",
-  "toshkent_v"
+  "namangan"
  ],
  "stats": {
-  "time": "14.10.2026 09:04",
-  "scanned": 0,
-  "sent": 0,
+  "time": "14.10.2026 09:48",
+  "scanned": 9,
+  "sent": 4,
   "errors": 0,
-  "total_sent": 24
+  "total_sent": 28
  },
  "fails": {},
  "retry": {
@@ -1217,35 +1451,35 @@
   ],
   "116313": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116314": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116316": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116317": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116325": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116326": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116329": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116330": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116331": [
    1791809918.0944808,
@@ -1481,35 +1715,35 @@
   ],
   "116474": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116479": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116480": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116482": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116483": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116485": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116486": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116491": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116493": [
    1791809918.0944808,
@@ -1621,7 +1855,7 @@
   ],
   "116618": [
    1791809918.0944808,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116621": [
    1791809918.0944808,
@@ -1949,19 +2183,19 @@
   ],
   "116833": [
    1791877874.4464655,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116834": [
    1791877876.8583596,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116835": [
    1791877879.3135884,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116839": [
    1791877888.180216,
-   1791944263.1525776
+   1791953331.379326
   ],
   "116840": [
    1791877890.2459912,
@@ -2139,10 +2373,6 @@
    1791892923.3083963,
    1791948169.6399796
   ],
-  "116972": [
-   1791897404.1733692,
-   1791944263.1525776
-  ],
   "116974": [
    1791897409.4285767,
    1791944263.1525776
@@ -2187,17 +2417,65 @@
    1791906908.5666354,
    1791950656.0058117
   ],
-  "116989": [
-   1791906911.1281245,
-   1791943706.4694984
-  ],
   "116990": [
    1791906913.5487907,
-   1791943706.4694984
+   1791953331.379326
   ],
   "116994": [
    1791906923.1721692,
-   1791943706.4694984
+   1791953331.379326
+  ],
+  "117000": [
+   1791953392.2472181,
+   1791953392.2472184
+  ],
+  "117001": [
+   1791953394.4977014,
+   1791953394.4977016
+  ],
+  "117002": [
+   1791953396.559827,
+   1791953396.5598276
+  ],
+  "117003": [
+   1791953398.9730413,
+   1791953398.9730413
+  ],
+  "117004": [
+   1791953401.642349,
+   1791953401.6423492
+  ],
+  "117005": [
+   1791953403.7904942,
+   1791953403.7904944
+  ],
+  "117006": [
+   1791953406.1453261,
+   1791953406.1453261
+  ],
+  "117007": [
+   1791953408.3892496,
+   1791953408.3892496
+  ],
+  "117008": [
+   1791953410.6044164,
+   1791953410.6044164
+  ],
+  "117009": [
+   1791953413.0044694,
+   1791953413.0044699
+  ],
+  "117010": [
+   1791953415.4275138,
+   1791953415.427514
+  ],
+  "117013": [
+   1791953423.0505574,
+   1791953423.0505576
+  ],
+  "117015": [
+   1791953428.398079,
+   1791953428.398079
   ]
  }
 }
