@@ -243,3 +243,66 @@ def fetch_vacancy(vid):
             or "yuklanmoqda" in v["title"].lower():
         raise NotReady(vid)
     return v
+
+
+# ---------- HR menejer ma'lumotlari (sahifada JavaScript orqali yuklanadi) ----------
+# Server HTML'ida yo'q, shuning uchun sahifa yashirin brauzerda ochiladi.
+# Faqat tanlangan viloyat e'lonlari uchun ishlatiladi (kuniga bir necha marta) — saytga yuk minimal.
+_PW = {"pw": None, "browser": None}
+
+def _browser():
+    if _PW["browser"] is None:
+        from playwright.sync_api import sync_playwright
+        _PW["pw"] = sync_playwright().start()
+        try:
+            # GitHub Actions (ubuntu-latest) da Google Chrome oldindan o'rnatilgan — yuklab olish shart emas
+            _PW["browser"] = _PW["pw"].chromium.launch(channel="chrome", headless=True)
+        except Exception:
+            _PW["browser"] = _PW["pw"].chromium.launch(headless=True)
+    return _PW["browser"]
+
+def close_browser():
+    try:
+        if _PW["browser"]:
+            _PW["browser"].close()
+        if _PW["pw"]:
+            _PW["pw"].stop()
+    except Exception:
+        pass
+    _PW["browser"] = _PW["pw"] = None
+
+def hr_from_text(text):
+    """Sahifa matnidan 'Vakansiya HR menejeri' va 'HR menejer telefon raqami' qiymatlarini ajratadi."""
+    lines = [_clean(_apos(x)) for x in (text or "").split("\n")]
+    lines = [x for x in lines if x]
+    def val(label):
+        for i, ln in enumerate(lines):
+            if ln.lower().startswith(label.lower()):
+                rest = ln[len(label):].lstrip(" :")
+                if rest:
+                    return rest
+                return lines[i + 1] if i + 1 < len(lines) else ""
+        return ""
+    name = val("Vakansiya HR menejeri")
+    phone = ""
+    found = _find_phones(val("HR menejer telefon raqami"))
+    if found:
+        phone = found[0]
+    if name.lower().startswith("hr menejer"):
+        name = ""
+    return name, phone
+
+def fetch_hr(vid, url=None, timeout=20000):
+    """Sahifani brauzerda ochib HR ismi va raqamini oladi. Topilmasa ("", "")."""
+    url = url or f"{BASE}/vacancies/{vid}"
+    page = _browser().new_page(user_agent=UA["User-Agent"])
+    try:
+        page.goto(url, wait_until="domcontentloaded", timeout=timeout)
+        try:
+            page.wait_for_selector("text=HR menejer telefon raqami", timeout=timeout)
+        except Exception:
+            pass  # bu e'londa HR ma'lumoti yo'q
+        return hr_from_text(page.inner_text("body"))
+    finally:
+        page.close()
+        time.sleep(DELAY)
