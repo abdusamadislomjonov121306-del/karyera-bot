@@ -1,5 +1,5 @@
 {
- "last_id": 116950,
+ "last_id": 116997,
  "offset": 596549996,
  "posts": {
   "116336": {
@@ -1938,6 +1938,1464 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "116952": {
+   "msg_id": 345,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"toshkent Viloyati O'rta Chirchiq Tumani Maktabgacha Va Maktab Talimi Bo'limi Tasarrufidagi 33-Sonli Umumiy Turdagi Davlat Maktabgacha Talim Tashkiloti\" Davlat Muassasasi\n\n📍 Toshkent viloyati, O'rtachirchiq tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: IRNAZAROVA MUTABAR RASHIDOVNA\n+998903168778\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 458,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 506,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 539,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116952,
+    "url": "https://osonish.uz/vacancies/116952",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "Ташкентская область, Уртачирчикский район, махаллинский сход граждан Файзобод, улица Саховат, 19",
+    "title": "O't yoquvchi",
+    "org": "\"toshkent Viloyati O'rta Chirchiq Tumani Maktabgacha Va Maktab Talimi Bo'limi Tasarrufidagi 33-Sonli Umumiy Turdagi Davlat Maktabgacha Talim Tashkiloti\" Davlat Muassasasi",
+    "district": "O'rtachirchiq tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "IRNAZAROVA MUTABAR RASHIDOVNA",
+    "hr_phone": "+998 90 316 87 78",
+    "date": "13.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "116954": {
+   "msg_id": 346,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KALAVALASH DASTGOHLARI OPERATORI\n\n🏢 \"eco Line Tex Fergana\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Farg'ona shahar\n\n👥 Bo'sh o'rinlar: 8 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 465 000 dan 2 812 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: YAKUBOVA MAMLAKAT GAYRATOVNA\n+998903030512\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 32,
+     "type": "bold"
+    },
+    {
+     "offset": 350,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 398,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 431,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116954,
+    "url": "https://osonish.uz/vacancies/116954",
+    "kasb": "Kalavalash dastgohlari operatori",
+    "slots": 8,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Фарғона шаҳар С.Ахмад кўчаси 41-уй",
+    "title": "Kalavalash dastgohlari operatori",
+    "org": "\"eco Line Tex Fergana\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Farg'ona shahar",
+    "salary": "2 465 000 dan 2 812 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "YAKUBOVA MAMLAKAT GAYRATOVNA",
+    "hr_phone": "+998 90 303 05 12",
+    "date": "13.10.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
+  },
+  "116959": {
+   "msg_id": 347,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 IP YIGIRUVCHI\n\n🏢 \"paxtakor Teks\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona\n\n📍 Jizzax viloyati, Paxtakor tumani\n\n👥 Bo'sh o'rinlar: 8 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 2 800 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: XOLMATOVA INDIRA DAMIROVNA\n+998995542100\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 13,
+     "type": "bold"
+    },
+    {
+     "offset": 381,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 429,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 462,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116959,
+    "url": "https://osonish.uz/vacancies/116959",
+    "kasb": "Ip yegiruvchi",
+    "slots": 8,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Жиззах вилояти Пахтакор тумани Галаба мфй",
+    "title": "Ip yigiruvchi",
+    "org": "\"paxtakor Teks\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona",
+    "district": "Paxtakor tumani",
+    "salary": "2 800 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Xolmatova Indira Damirovna",
+    "hr_phone": "+998 99 554 21 00",
+    "date": "13.10.2026",
+    "region_key": "jizzax",
+    "region": "Jizzax viloyati",
+    "is_region": true
+   }
+  },
+  "116960": {
+   "msg_id": 348,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MEXANIK\n\n🏢 \"paxtakor Teks\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona\n\n📍 Jizzax viloyati, Paxtakor tumani\n\n👥 Bo'sh o'rinlar: 20 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 500 000 dan 3 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:00–16:00\n\n📞 Bog'lanish: XOLMATOVA INDIRA DAMIROVNA\n+998995542100\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 381,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 429,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 462,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116960,
+    "url": "https://osonish.uz/vacancies/116960",
+    "kasb": "Avtomexanik",
+    "slots": 20,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "6/1, 07:00 - 16:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Жиззах вилояти Пахтакор тумани Галаба мфй",
+    "title": "Mexanik",
+    "org": "\"paxtakor Teks\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona",
+    "district": "Paxtakor tumani",
+    "salary": "2 500 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Xolmatova Indira Damirovna",
+    "hr_phone": "+998 99 554 21 00",
+    "date": "13.10.2026",
+    "region_key": "jizzax",
+    "region": "Jizzax viloyati",
+    "is_region": true
+   }
+  },
+  "116961": {
+   "msg_id": 349,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 IP YEGIRUVCHI MEHANIK\n\n🏢 \"paxtakor Teks\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona\n\n📍 Jizzax viloyati, Paxtakor tumani\n\n👥 Bo'sh o'rinlar: 6 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 3 000 000 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: XOLMATOVA INDIRA DAMIROVNA\n+998995542100\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 21,
+     "type": "bold"
+    },
+    {
+     "offset": 375,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 423,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 456,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116961,
+    "url": "https://osonish.uz/vacancies/116961",
+    "kasb": "Ip yegiruvchi",
+    "slots": 6,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Soatbay",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Жиззах вилояти Пахтакор тумани Галаба мфй",
+    "title": "Ip yegiruvchi mehanik",
+    "org": "\"paxtakor Teks\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona",
+    "district": "Paxtakor tumani",
+    "salary": "3 000 000 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Xolmatova Indira Damirovna",
+    "hr_phone": "+998 99 554 21 00",
+    "date": "13.10.2026",
+    "region_key": "jizzax",
+    "region": "Jizzax viloyati",
+    "is_region": true
+   }
+  },
+  "116964": {
+   "msg_id": 350,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIMDA TARBIYACHI YORDAMCHISI\n\n🏢 \"farg'ona Shahar Maktabgacha Va Maktab Ta'limi Bo'limi 10-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Farg'ona shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 1 200 000 dan 1 400 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: MIRZAYEVA FERUZA TURGUNOVNA\n+998903002920\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 43,
+     "type": "bold"
+    },
+    {
+     "offset": 418,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 466,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 499,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116964,
+    "url": "https://osonish.uz/vacancies/116964",
+    "kasb": "Maktabgacha ta'limda tarbiyachi yordamchisi",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Farg'ona shahar, Istiqlol ko'chasi 19-uy",
+    "title": "Maktabgacha ta'limda tarbiyachi yordamchisi",
+    "org": "\"farg'ona Shahar Maktabgacha Va Maktab Ta'limi Bo'limi 10-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Farg'ona shahar",
+    "salary": "1 200 000 dan 1 400 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MIRZAYEVA FERUZA TURGUNOVNA",
+    "hr_phone": "+998 90 300 29 20",
+    "date": "13.10.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
+  },
+  "116965": {
+   "msg_id": 351,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 GEOGRAFIYA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"shovot Tumani 45-Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Xorazm viloyati, Shovot tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ALLABERGANOV XUSHNUDBEK ALIMBAYEVICH\n+998991208466\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 38,
+     "type": "bold"
+    },
+    {
+     "offset": 397,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 445,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 478,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116965,
+    "url": "https://osonish.uz/vacancies/116965",
+    "kasb": "Geografiya fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Soatbay",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Хорезмская область, Шаватский район, городской посёлок Кат-Калъа",
+    "title": "Geografiya fanidan maktab o'qituvchisi",
+    "org": "\"shovot Tumani 45-Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Shovot tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ALLABERGANOV XUSHNUDBEK ALIMBAYEVICH",
+    "hr_phone": "+998 99 120 84 66",
+    "date": "13.10.2026",
+    "region_key": "xorazm",
+    "region": "Xorazm viloyati",
+    "is_region": true
+   }
+  },
+  "116966": {
+   "msg_id": 352,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 IQTISODIYOT FANLARIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"shovot Tumani 45-Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Xorazm viloyati, Shovot tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ALLABERGANOV XUSHNUDBEK ALIMBAYEVICH\n+998991208466\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 42,
+     "type": "bold"
+    },
+    {
+     "offset": 401,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 449,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 482,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116966,
+    "url": "https://osonish.uz/vacancies/116966",
+    "kasb": "Iqtisodiyot fanlaridan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Soatbay",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Хорезмская область, Шаватский район, городской посёлок Кат-Калъа",
+    "title": "Iqtisodiyot fanlaridan maktab o'qituvchisi",
+    "org": "\"shovot Tumani 45-Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Shovot tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ALLABERGANOV XUSHNUDBEK ALIMBAYEVICH",
+    "hr_phone": "+998 99 120 84 66",
+    "date": "13.10.2026",
+    "region_key": "xorazm",
+    "region": "Xorazm viloyati",
+    "is_region": true
+   }
+  },
+  "116968": {
+   "msg_id": 353,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"o'zbekiston Respublikasi Sport Vazirligi Far'ona Viloyati Sport Boshqarmasi Tasarrufidagi Farg'ona Viloyati Gimnastika Sport Turlariga Ixtisoslashtirilgan Sport Maktabi\" Davlat Muassasasi\n\n📍 Farg'ona shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 000 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: TEMIROVA XUSNIDA SHAVKATJONOVNA\n+998975027500\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 457,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 505,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 538,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116968,
+    "url": "https://osonish.uz/vacancies/116968",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Farg'ona shahar B.Marg'iloniy 86",
+    "title": "Qorovul",
+    "org": "\"o'zbekiston Respublikasi Sport Vazirligi Far'ona Viloyati Sport Boshqarmasi Tasarrufidagi Farg'ona Viloyati Gimnastika Sport Turlariga Ixtisoslashtirilgan Sport Maktabi\" Davlat Muassasasi",
+    "district": "Farg'ona shahar",
+    "salary": "1 000 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TEMIROVA XUSNIDA SHAVKATJONOVNA",
+    "hr_phone": "+998 97 502 75 00",
+    "date": "13.10.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
+  },
+  "116969": {
+   "msg_id": 354,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"toshkent Viloyati O'rta Chirchiq Tumani Maktabgacha Va Maktab Talimi Bo'limi Tasarrufidagi 18-Sonli Umumiy O'rta Talim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, O'rtachirchiq tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 338 363 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: BAZARBAYEVA AROFAT QARSHIBAYEVNA\n+998952191211\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 491,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 539,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 572,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116969,
+    "url": "https://osonish.uz/vacancies/116969",
+    "kasb": "Ta'lim tashkilotlari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Уртачирчикский район, Nomdanak maxallasi",
+    "title": "Ta'lim tashkilotlari farroshi",
+    "org": "\"toshkent Viloyati O'rta Chirchiq Tumani Maktabgacha Va Maktab Talimi Bo'limi Tasarrufidagi 18-Sonli Umumiy O'rta Talim Maktabi\" Davlat Muassasasi",
+    "district": "O'rtachirchiq tumani",
+    "salary": "1 338 363 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "BAZARBAYEVA AROFAT QARSHIBAYEVNA",
+    "hr_phone": "+998 95 219 12 11",
+    "date": "13.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "116971": {
+   "msg_id": 355,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 YIGIRUVCHI\n\n🏢 \"art Soft Home\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Farg'ona viloyati, Quva tumani\n\n👥 Bo'sh o'rinlar: 100 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 4 000 000 dan 4 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:00–19:00\n\n📞 Bog'lanish: YODGOROVA DILDORA\n+998911581183\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 10,
+     "type": "bold"
+    },
+    {
+     "offset": 358,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 406,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 439,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116971,
+    "url": "https://osonish.uz/vacancies/116971",
+    "kasb": "Yigiruvchi",
+    "slots": 100,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "6/1, 07:00 - 19:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Ферганская область, Кувинский район, махаллинский сход граждан Пахтакор, улица Узбек",
+    "title": "Yigiruvchi",
+    "org": "\"art Soft Home\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Quva tumani",
+    "salary": "4 000 000 dan 4 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yodgorova Dildora",
+    "hr_phone": "+998 91 158 11 83",
+    "date": "13.10.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
+  },
+  "116975": {
+   "msg_id": 356,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'QUV - METODIK BO'LIMI BOSHLIG'I\n\n🏢 \"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Olmaliq shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 2 780 841 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: TURSUNKULOVA AYGUL YERMATOVNA\n+998944043845\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 33,
+     "type": "bold"
+    },
+    {
+     "offset": 418,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 466,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 499,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116975,
+    "url": "https://osonish.uz/vacancies/116975",
+    "kasb": "Bo'lim (bo'linma) boshlig'i (mudiri)",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Алмалык",
+    "title": "O'quv - metodik bo'limi boshlig'i",
+    "org": "\"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi",
+    "district": "Olmaliq shahar",
+    "salary": "2 780 841 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSUNKULOVA AYGUL YERMATOVNA",
+    "hr_phone": "+998 94 404 38 45",
+    "date": "13.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "116976": {
+   "msg_id": 357,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOG'BON\n\n🏢 \"ellikqal'a Raqamli Texnologiyalar Texnikumi\" Davlat Muassasasi\n\n📍 Qoraqalpog'iston Respublikasi, Ellikqal'a tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 100 000 dan 1 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: 09:00 - 17:00\n\n📞 Bog'lanish: SEYTOVA UMIDA\n+998932007621\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 354,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 402,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 435,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116976,
+    "url": "https://osonish.uz/vacancies/116976",
+    "kasb": "Bog'bon",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "09:00 - 17:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Республика Каракалпакстан, Элликкалинский район, Бустан, махаллинский сход граждан Ибн-Сина",
+    "title": "Bog'bon",
+    "org": "\"ellikqal'a Raqamli Texnologiyalar Texnikumi\" Davlat Muassasasi",
+    "district": "Ellikqal'a tumani",
+    "salary": "1 100 000 dan 1 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Seytova Umida",
+    "hr_phone": "+998 93 200 76 21",
+    "date": "13.10.2026",
+    "region_key": "qoraqalpog",
+    "region": "Qoraqalpog'iston Respublikasi",
+    "is_region": true
+   }
+  },
+  "116978": {
+   "msg_id": 358,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'QUV - METODIK BO'LIMI USLUBCHISI\n\n🏢 \"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Olmaliq shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 2 555 536 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: TURSUNKULOVA AYGUL YERMATOVNA\n+998944043845\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 34,
+     "type": "bold"
+    },
+    {
+     "offset": 419,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 467,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 500,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116978,
+    "url": "https://osonish.uz/vacancies/116978",
+    "kasb": "Metodist/uslubchi (umumiy yo'nalish)",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Алмалык",
+    "title": "O'quv - metodik bo'limi uslubchisi",
+    "org": "\"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi",
+    "district": "Olmaliq shahar",
+    "salary": "2 555 536 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSUNKULOVA AYGUL YERMATOVNA",
+    "hr_phone": "+998 94 404 38 45",
+    "date": "13.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "116979": {
+   "msg_id": 359,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 PSIXOLOG\n\n🏢 \"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Olmaliq shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 3 593 664 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: TURSUNKULOVA AYGUL YERMATOVNA\n+998944043845\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 8,
+     "type": "bold"
+    },
+    {
+     "offset": 393,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 441,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 474,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116979,
+    "url": "https://osonish.uz/vacancies/116979",
+    "kasb": "Psixolog",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Алмалык",
+    "title": "Psixolog",
+    "org": "\"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi",
+    "district": "Olmaliq shahar",
+    "salary": "3 593 664 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSUNKULOVA AYGUL YERMATOVNA",
+    "hr_phone": "+998 94 404 38 45",
+    "date": "13.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "116980": {
+   "msg_id": 360,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KOTIBA\n\n🏢 \"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Olmaliq shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 725 840 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: TURSUNKULOVA AYGUL YERMATOVNA\n+998944043845\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 6,
+     "type": "bold"
+    },
+    {
+     "offset": 391,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 439,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 472,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116980,
+    "url": "https://osonish.uz/vacancies/116980",
+    "kasb": "Qabulxona kotibi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Ташкентская область, Алмалык",
+    "title": "Kotiba",
+    "org": "\"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi",
+    "district": "Olmaliq shahar",
+    "salary": "1 725 840 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSUNKULOVA AYGUL YERMATOVNA",
+    "hr_phone": "+998 94 404 38 45",
+    "date": "13.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "116981": {
+   "msg_id": 361,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 INFORMATIKA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"xatirchi Tumani 11-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Navoiy viloyati, Xatirchi tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 200 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ЙУЛДОШЕВ РАХИМ\n+998944858781\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 39,
+     "type": "bold"
+    },
+    {
+     "offset": 376,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 424,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 457,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116981,
+    "url": "https://osonish.uz/vacancies/116981",
+    "kasb": "Informatika fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Навоийская область, Хатырчинский район",
+    "title": "Informatika fanidan maktab o'qituvchisi",
+    "org": "\"xatirchi Tumani 11-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Xatirchi tumani",
+    "salary": "1 200 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Йулдошев Рахим",
+    "hr_phone": "+998 94 485 87 81",
+    "date": "13.10.2026",
+    "region_key": "navoiy",
+    "region": "Navoiy viloyati",
+    "is_region": true
+   }
+  },
+  "116982": {
+   "msg_id": 362,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 XO'JALIK MUDIRI\n\n🏢 \"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Olmaliq shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 046 800 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: TURSUNKULOVA AYGUL YERMATOVNA\n+998944043845\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 15,
+     "type": "bold"
+    },
+    {
+     "offset": 408,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 456,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 489,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116982,
+    "url": "https://osonish.uz/vacancies/116982",
+    "kasb": "Xo'jalik ishlari bo'lim boshlig'i (mudiri)",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy(bakalavr)",
+    "gender": "Erkak",
+    "address": "Ташкентская область, Алмалык",
+    "title": "Xo'jalik mudiri",
+    "org": "\"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi",
+    "district": "Olmaliq shahar",
+    "salary": "2 046 800 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSUNKULOVA AYGUL YERMATOVNA",
+    "hr_phone": "+998 94 404 38 45",
+    "date": "13.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "116984": {
+   "msg_id": 363,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ELEKTROMONTYOR\n\n🏢 \"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Olmaliq shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 432 080 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: TURSUNKULOVA AYGUL YERMATOVNA\n+998944043845\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 14,
+     "type": "bold"
+    },
+    {
+     "offset": 399,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 447,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 480,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116984,
+    "url": "https://osonish.uz/vacancies/116984",
+    "kasb": "Elektromontyor-yorituvchi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "Ташкентская область, Алмалык",
+    "title": "Elektromontyor",
+    "org": "\"olmaliq Abu Ali Ibn Sino Nomidagi Jamoat Salomatligi Texnikumi\" Davlat Muassasasi",
+    "district": "Olmaliq shahar",
+    "salary": "1 432 080 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSUNKULOVA AYGUL YERMATOVNA",
+    "hr_phone": "+998 94 404 38 45",
+    "date": "13.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "116986": {
+   "msg_id": 364,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 PILLA BUG'LASH DASTGOHLARI APPARATCHISI\n\n🏢 Ромстар Мчж Узбек-Америка Куш-Ма Корхона\n\n📍 Buxoro viloyati, Romitan tumani\n\n👥 Bo'sh o'rinlar: 57 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 400 000 dan 3 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ҒУЛОМОВ НАМОЗ\n+998997321619\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 39,
+     "type": "bold"
+    },
+    {
+     "offset": 345,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 393,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 426,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116986,
+    "url": "https://osonish.uz/vacancies/116986",
+    "kasb": "Pilla bug'lash dastgohlari apparatchisi",
+    "slots": 57,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Бухарская область, Ромитанский район, населённый пункт Аламдар",
+    "title": "Pilla bug'lash dastgohlari apparatchisi",
+    "org": "Ромстар Мчж Узбек-Америка Куш-Ма Корхона",
+    "district": "Romitan tumani",
+    "salary": "2 400 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Ғуломов Намоз",
+    "hr_phone": "+998 99 732 16 19",
+    "date": "13.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "116987": {
+   "msg_id": 365,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KO'CHMAS MULK SAVDOGARI\n\n🏢 \"txtgroup\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Samarqand shahar\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 3 000 000 dan 5 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–18:00\n\n📞 Bog'lanish: BOTIROV FURQAT\n+998888444486\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 23,
+     "type": "bold"
+    },
+    {
+     "offset": 340,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 388,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 421,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116987,
+    "url": "https://osonish.uz/vacancies/116987",
+    "kasb": "Ko'chmas mulk savdogari",
+    "slots": 2,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 09:00 - 18:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Самарканд, площадь Куксарай, 1",
+    "title": "Ko'chmas mulk savdogari",
+    "org": "\"txtgroup\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Samarqand shahar",
+    "salary": "3 000 000 dan 5 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Botirov Furqat",
+    "hr_phone": "+998 88 844 44 86",
+    "date": "13.10.2026",
+    "region_key": "samarqand",
+    "region": "Samarqand viloyati",
+    "is_region": true
+   }
+  },
+  "116991": {
+   "msg_id": 366,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 HUQUQ BO'YICHA PROFESSOR-O'QITUVCHI\n\n🏢 \"peshko' Tumani 6-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Buxoro viloyati, Peshku tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SAYIDOVA LAZIZA BEKBOYEVNA\n+998947269555\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 35,
+     "type": "bold"
+    },
+    {
+     "offset": 353,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 401,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 434,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116991,
+    "url": "https://osonish.uz/vacancies/116991",
+    "kasb": "Huquq bo'yicha professor-o'qituvchi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Shartnomaviy",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Бухарская область, коллектор Абдуллахон",
+    "title": "Huquq bo'yicha professor-o'qituvchi",
+    "org": "\"peshko' Tumani 6-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Peshku tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SAYIDOVA LAZIZA BEKBOYEVNA",
+    "hr_phone": "+998 94 726 95 55",
+    "date": "13.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "116992": {
+   "msg_id": 367,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 XIZMAT XONALARI FARROSHI\n\n🏢 \"peshko' Tumani 6-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Buxoro viloyati, Peshku tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 360 000 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SAYIDOVA LAZIZA BEKBOYEVNA\n+998947269555\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 24,
+     "type": "bold"
+    },
+    {
+     "offset": 357,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 405,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 438,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116992,
+    "url": "https://osonish.uz/vacancies/116992",
+    "kasb": "Xizmat xonalari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Бухарская область, коллектор Абдуллахон",
+    "title": "Xizmat xonalari farroshi",
+    "org": "\"peshko' Tumani 6-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Peshku tumani",
+    "salary": "1 360 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SAYIDOVA LAZIZA BEKBOYEVNA",
+    "hr_phone": "+998 94 726 95 55",
+    "date": "13.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "116993": {
+   "msg_id": 368,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TARBIYA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"peshko' Tumani 6-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Buxoro viloyati, Peshku tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SAYIDOVA LAZIZA BEKBOYEVNA\n+998947269555\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 35,
+     "type": "bold"
+    },
+    {
+     "offset": 353,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 401,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 434,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116993,
+    "url": "https://osonish.uz/vacancies/116993",
+    "kasb": "Tarbiya fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Shartnomaviy",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Бухарская область, коллектор Абдуллахон",
+    "title": "Tarbiya fanidan maktab o'qituvchisi",
+    "org": "\"peshko' Tumani 6-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Peshku tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SAYIDOVA LAZIZA BEKBOYEVNA",
+    "hr_phone": "+998 94 726 95 55",
+    "date": "13.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "116995": {
+   "msg_id": 369,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MATEMATIKA BO'YICHA PROFESSOR-O'QITUVCHI\n\n🏢 \"peshku Tumanidagi 2-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Buxoro viloyati, Peshku tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: HAMIDOV HIKMAT NEMATOVICH\n+998998974774\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 40,
+     "type": "bold"
+    },
+    {
+     "offset": 366,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 414,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 447,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116995,
+    "url": "https://osonish.uz/vacancies/116995",
+    "kasb": "Matematika bo'yicha professor-o'qituvchi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Shartnomaviy",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Бухарская область, коллектор Сарайдейча",
+    "title": "Matematika bo'yicha professor-o'qituvchi",
+    "org": "\"peshku Tumanidagi 2-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Peshku tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "HAMIDOV HIKMAT NEMATOVICH",
+    "hr_phone": "+998 99 897 47 74",
+    "date": "13.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "116996": {
+   "msg_id": 370,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BINOLAR QURILISHIDA MALAKASIZ ISHCHI\n\n🏢 \"betakror Saykal\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Buxoro viloyati, Peshku tumani\n\n👥 Bo'sh o'rinlar: 44 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 3 000 000 dan 3 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SADRIDDINOV AZIZBEK NASRIDDIN O'G'LI\n+998993529314\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 36,
+     "type": "bold"
+    },
+    {
+     "offset": 372,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 420,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 453,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116996,
+    "url": "https://osonish.uz/vacancies/116996",
+    "kasb": "Binolar qurilishida malakasiz ishchi",
+    "slots": 44,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Бухарская область, канал Янгибазар",
+    "title": "Binolar qurilishida malakasiz ishchi",
+    "org": "\"betakror Saykal\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Peshku tumani",
+    "salary": "3 000 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SADRIDDINOV AZIZBEK NASRIDDIN O'G'LI",
+    "hr_phone": "+998 99 352 93 14",
+    "date": "13.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "116997": {
+   "msg_id": 371,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ARMATURACHI (QURILISH-MONTAJ VA QURILISH-TA'MIR ISHLARI)\n\n🏢 \"betakror Saykal\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Buxoro viloyati, Peshku tumani\n\n👥 Bo'sh o'rinlar: 24 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 3 000 000 dan 3 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SADRIDDINOV AZIZBEK NASRIDDIN O'G'LI\n+998993529314\n\n🗓 E'lon sanasi: 13.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 56,
+     "type": "bold"
+    },
+    {
+     "offset": 392,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 440,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 473,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 116997,
+    "url": "https://osonish.uz/vacancies/116997",
+    "kasb": "Armaturachi (qurilish-montaj va qurilish-ta'mir ishlari)",
+    "slots": 24,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Бухарская область, канал Янгибазар",
+    "title": "Armaturachi (qurilish-montaj va qurilish-ta'mir ishlari)",
+    "org": "\"betakror Saykal\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Peshku tumani",
+    "salary": "3 000 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SADRIDDINOV AZIZBEK NASRIDDIN O'G'LI",
+    "hr_phone": "+998 99 352 93 14",
+    "date": "13.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -1972,11 +3430,11 @@
   "xorazm"
  ],
  "stats": {
-  "time": "14.10.2026 17:00",
-  "scanned": 0,
-  "sent": 0,
+  "time": "14.10.2026 17:05",
+  "scanned": 36,
+  "sent": 27,
   "errors": 0,
-  "total_sent": 39
+  "total_sent": 66
  },
  "fails": {},
  "retry": {
@@ -2138,35 +3596,35 @@
   ],
   "116385": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116386": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116387": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116388": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116390": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116392": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116393": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116395": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116398": [
    1791809918.0944808,
@@ -2294,23 +3752,23 @@
   ],
   "116493": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116504": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116507": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116518": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116520": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116524": [
    1791809918.0944808,
@@ -2394,35 +3852,35 @@
   ],
   "116621": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116622": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116624": [
    1791809918.0944808,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116626": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116633": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116635": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116637": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116640": [
    1791809918.0944808,
-   1791974499.6490383
+   1791979540.6561093
   ],
   "116642": [
    1791809918.0944808,
@@ -2790,7 +4248,7 @@
   ],
   "116926": [
    1791887918.0058835,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "116928": [
    1791887923.1548648,
@@ -2833,48 +4291,48 @@
    1791978872.6134417
   ],
   "116951": [
-   1791892376.4538167,
-   1791978872.6134417
+   1791979602.2595232,
+   1791979602.2595232
   ],
   "116953": [
-   1791892381.0738928,
-   1791973944.8896077
+   1791979619.417869,
+   1791979619.417869
   ],
   "116955": [
-   1791892385.6863408,
-   1791976075.1873045
+   1791979629.638917,
+   1791979629.6389172
   ],
   "116956": [
-   1791892388.2829344,
-   1791976075.1873045
+   1791979631.6984859,
+   1791979631.698486
   ],
   "116957": [
-   1791892390.704282,
-   1791976448.62214
+   1791979633.7588165,
+   1791979633.7588167
   ],
   "116958": [
-   1791892392.761192,
-   1791976448.62214
+   1791979636.2003617,
+   1791979636.2003617
   ],
   "116970": [
-   1791892923.3083963,
-   1791977720.0896335
+   1791979712.0533884,
+   1791979712.0533884
   ],
   "116977": [
-   1791897416.3764708,
-   1791974499.6490383
+   1791979746.5938263,
+   1791979746.5938263
   ],
   "116983": [
-   1791897430.3354304,
-   1791975701.5338583
+   1791979788.172072,
+   1791979788.1720722
   ],
   "116988": [
-   1791906908.5666354,
-   1791978872.6134417
+   1791979816.0073922,
+   1791979816.0073924
   ],
   "116994": [
-   1791906923.1721692,
-   1791978872.6134417
+   1791979845.528334,
+   1791979845.528334
   ],
   "117000": [
    1791953392.2472181,
@@ -2906,11 +4364,11 @@
   ],
   "117023": [
    1791953965.3865378,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "117028": [
    1791953976.928201,
-   1791973944.8896077
+   1791979540.6561093
   ],
   "117030": [
    1791955661.4448323,
