@@ -15,6 +15,8 @@ CHANNEL = os.environ.get("CHANNEL_ID", "@karyerauznamangan")
 MAX_FETCH = int(os.environ.get("MAX_FETCH", "350"))        # bir siklda ko'riladigan max sahifa
 INITIAL_SCAN = int(os.environ.get("INITIAL_SCAN", "300"))  # birinchi ishga tushishda oxirgi N ta e'lon
 CAPTION_LIMIT = 1024
+SCRAPE_SECONDS = int(os.environ.get("SCRAPE_SECONDS", "330"))  # e'lonlarni yig'ishga ko'pi bilan shuncha soniya (qolgani keyingi runda)
+START = time.time()
 LISTEN_SECONDS = int(os.environ.get("LISTEN_SECONDS", "480"))  # tugmalarni tez qayta ishlash uchun tinglash vaqti
 DEFAULT_REGIONS = ["namangan"]
 SETTINGS_BTN = "⚙️ Viloyatlar"
@@ -291,6 +293,8 @@ def scrape(st):
     if again:
         print(f"Qayta tekshiriladi (oldin ochilmagan): {len(again)} ta")
     for n, k in enumerate(again):
+        if time.time() - START > SCRAPE_SECONDS / 2:
+            break   # qayta tekshiruvga vaqtning yarmidan ko'pini bermaymiz
         if n and n % 15 == 0:
             _safe(handle_updates, st)
         retry[k][1] = now
@@ -308,6 +312,9 @@ def scrape(st):
             save(st)
 
     for n, vid in enumerate(todo):
+        if time.time() - START > SCRAPE_SECONDS:
+            print(f"Vaqt tugadi: qolgan {len(todo) - n} ta e'lon keyingi runda ko'riladi")
+            break
         if n and n % 15 == 0:
             _safe(handle_updates, st)   # uzoq skan paytida ham ✅/❌ tugmalari kechikmasin
         try:
@@ -360,7 +367,8 @@ def main():
         {"command": "holat", "description": "Bot holati va statistika"},
         {"command": "viloyatlar", "description": "Viloyatlarni sozlash (Ha/Yo'q)"},
         {"command": "start", "description": "Botni ishga tushirish"}])
-    start = time.time()
+    global START
+    START = start = time.time()
     try:
         _safe(handle_updates, st)
         save(st)
