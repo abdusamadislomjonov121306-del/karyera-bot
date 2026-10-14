@@ -235,6 +235,8 @@ def on_message(st, m):
           reaction=[{"type": "emoji", "emoji": "👍"}])
 
 # ---------- 2. Yangi vakansiyalar ----------
+USE_BROWSER = os.environ.get("USE_BROWSER", "1") != "0"  # HR raqamini brauzer orqali olish
+
 RETRY_HOURS = 72      # ochilmagan e'lonni necha soat kuzatish
 RETRY_PER_RUN = 25    # bir siklda nechtasini qayta tekshirish
 
@@ -242,6 +244,14 @@ def send_post(st, v, stats):
     """Adminga tekshiruvga yuborish. True — yuborildi, False — 3 marta xato (tashlab ketildi), None — qayta urinish kerak."""
     vid = v["id"]
     fails = st.setdefault("fails", {})
+    if not v.get("hr_phone") and not v.get("phones") and USE_BROWSER:
+        try:
+            name, phone = osonish.fetch_hr(vid)
+            if phone:
+                v["hr_name"], v["hr_phone"] = name, phone
+            print(f"{vid}: HR — {name or '-'} {phone or '(raqam yo`q)'}")
+        except Exception as e:
+            print(f"{vid}: HR ma'lumotini olib bo'lmadi ({e})")
     caption = post.build_text(v)
     if len(caption) > CAPTION_LIMIT:
         caption = caption[:CAPTION_LIMIT - 1] + "…"
@@ -358,6 +368,14 @@ def main():
         v = osonish.parse_vacancy(html_, vid)
         print(json.dumps(v, ensure_ascii=False, indent=1))
         print("\n" + post.build_text(v))
+        try:
+            v["hr_name"], v["hr_phone"] = osonish.fetch_hr(vid)
+            print("\nHR (brauzer orqali):", v["hr_name"] or "-", v["hr_phone"] or "-")
+        except Exception as e:
+            print("\nHR olinmadi:", e)
+        finally:
+            osonish.close_browser()
+        print("\n" + post.build_text(v))
         print("\nRasm:", card.make_card(v, f"test_{vid}.jpg"))
         return
     assert tg.TOKEN and ADMIN_CHAT, "BOT_TOKEN va ADMIN_CHAT_ID sozlanmagan"
@@ -387,6 +405,7 @@ def main():
             save(st)
     finally:
         save(st)
+        osonish.close_browser()
 
 if __name__ == "__main__":
     main()
