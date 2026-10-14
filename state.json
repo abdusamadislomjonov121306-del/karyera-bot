@@ -1,6 +1,6 @@
 {
- "last_id": 117173,
- "offset": 596549948,
+ "last_id": 117208,
+ "offset": 596549951,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -1494,9 +1494,9 @@
   },
   "117089": {
    "msg_id": 302,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
-   "caption": "🎓 RUS TILI VA ADABIYOTI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 10-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: 1–3 yil\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117089\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "caption": "🎓 RUS TILI VA ADABIYOTI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 10-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ASQAROVA AZIZAXON ALISHEROVNA +998505060101\n\n🗓 E'lon sanasi: 14.10.2026\n\n\n🔗  BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
      "offset": 3,
@@ -1504,22 +1504,17 @@
      "type": "bold"
     },
     {
-     "offset": 399,
-     "length": 10,
-     "type": "url"
+     "offset": 437,
+     "length": 13,
+     "type": "phone_number"
     },
     {
-     "offset": 491,
-     "length": 35,
-     "type": "url"
-    },
-    {
-     "offset": 532,
-     "length": 30,
+     "offset": 486,
+     "length": 29,
      "type": "bold"
     },
     {
-     "offset": 566,
+     "offset": 519,
      "length": 30,
      "type": "url"
     }
@@ -1609,6 +1604,360 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "117143": {
+   "msg_id": 304,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 INFORMATIKA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 10-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: 5 yildan ortiq\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117143\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 39,
+     "type": "bold"
+    },
+    {
+     "offset": 392,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 484,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 525,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 559,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117143,
+    "url": "https://osonish.uz/vacancies/117143",
+    "kasb": "Informatika fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "5 yildan ortiq",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "YUKSALISH MFY",
+    "title": "Informatika fanidan maktab o'qituvchisi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 10-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "117145": {
+   "msg_id": 305,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TIL O'QITUVCHISI\n\n🏢 \"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 6-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Oliy (bakalavr)\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117145\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 369,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 461,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 502,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 536,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117145,
+    "url": "https://osonish.uz/vacancies/117145",
+    "kasb": "Til o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Yangi Xo'jaobod MFY, Do'stlik ko'chasi , 75-uy",
+    "title": "Til o'qituvchisi",
+    "org": "\"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 6-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "117150": {
+   "msg_id": 306,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTAB FARROSHI\n\n🏢 \"kosonsoy Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 46-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Kosonsoy tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117150\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 15,
+     "type": "bold"
+    },
+    {
+     "offset": 391,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 483,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 524,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 558,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117150,
+    "url": "https://osonish.uz/vacancies/117150",
+    "kasb": "Ta'lim tashkilotlari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Gulobod MFY Sadarayxon ko'chasi 80 uy",
+    "title": "Maktab farroshi",
+    "org": "\"kosonsoy Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 46-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Kosonsoy tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "117072": {
+   "msg_id": 307,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 77-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n📍 Namangan viloyati, Pop tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 4 kun ish, 2 kun dam, 08:00–08:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117072\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 373,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 465,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 506,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 540,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117072,
+    "url": "https://osonish.uz/vacancies/117072",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "4/2, 08:00 - 08:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Pop tuman Chig'anoq mfy",
+    "title": "Qorovul",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 77-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "117020": {
+   "msg_id": 308,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BUYUMLARNI TIKUVCHI\n\n🏢 \"dilrabo-Sda\" Xususiy Korxona\n📍 Namangan viloyati, To'raqo'rg'on tumani\n👥 Bo'sh o'rinlar: 10 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: 2 700 000 dan 3 500 000 so'mgacha\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117020\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 19,
+     "type": "bold"
+    },
+    {
+     "offset": 332,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 424,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 465,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 499,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117020,
+    "url": "https://osonish.uz/vacancies/117020",
+    "kasb": "Buyumlarni tikuvchi",
+    "slots": 10,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманганская область, Туракурганский район, махаллинский сход граждан Бекобод",
+    "title": "Buyumlarni tikuvchi",
+    "org": "\"dilrabo-Sda\" Xususiy Korxona",
+    "district": "To'raqo'rg'on tumani",
+    "salary": "2 700 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "117034": {
+   "msg_id": 309,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"yangiqo'rg'on Tuman 1-Son Texnikumi\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: Kelishiladi\n📞 Bog'lanish: osonish.uz orqali (ariza havolasi pastda)\n🗓 E'lon sanasi: 14.10.2026\n\n📝 Ariza topshirish: https://osonish.uz/vacancies/117034\n\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 291,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 383,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 424,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 458,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117034,
+    "url": "https://osonish.uz/vacancies/117034",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Чорток, 70, городской посёлок Янгикурган",
+    "title": "Qorovul",
+    "org": "\"yangiqo'rg'on Tuman 1-Son Texnikumi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "14.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -1629,11 +1978,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "14.10.2026 14:55",
-  "scanned": 0,
-  "sent": 0,
+  "time": "14.10.2026 15:04",
+  "scanned": 34,
+  "sent": 6,
   "errors": 0,
-  "total_sent": 32
+  "total_sent": 38
  },
  "fails": {},
  "retry": {
@@ -1917,10 +2266,6 @@
    1791809918.0944808,
    1791970048.6207078
   ],
-  "116471": [
-   1791809918.0944808,
-   1791970048.6207078
-  ],
   "116473": [
    1791809918.0944808,
    1791970048.6207078
@@ -2014,10 +2359,6 @@
    1791968367.4787636
   ],
   "116550": [
-   1791809918.0944808,
-   1791968367.4787636
-  ],
-  "116552": [
    1791809918.0944808,
    1791968367.4787636
   ],
@@ -2261,16 +2602,8 @@
    1791873414.8788671,
    1791969491.2153301
   ],
-  "116757": [
-   1791873417.2342145,
-   1791969491.2153301
-  ],
   "116762": [
    1791873429.1458192,
-   1791969491.2153301
-  ],
-  "116763": [
-   1791873431.2321506,
    1791969491.2153301
   ],
   "116764": [
@@ -2399,10 +2732,6 @@
   ],
   "116844": [
    1791877899.6976264,
-   1791967250.461344
-  ],
-  "116846": [
-   1791877904.3951502,
    1791967250.461344
   ],
   "116868": [
@@ -2589,16 +2918,8 @@
    1791953406.1453261,
    1791965575.9092524
   ],
-  "117007": [
-   1791953408.3892496,
-   1791966135.59294
-  ],
   "117008": [
    1791953410.6044164,
-   1791966135.59294
-  ],
-  "117009": [
-   1791953413.0044694,
    1791966135.59294
   ],
   "117013": [
@@ -2608,10 +2929,6 @@
   "117015": [
    1791953428.398079,
    1791966135.59294
-  ],
-  "117020": [
-   1791953958.3871968,
-   1791966692.7962332
   ],
   "117022": [
    1791953963.022981,
@@ -2636,10 +2953,6 @@
   "117033": [
    1791955670.875707,
    1791968367.4787636
-  ],
-  "117034": [
-   1791955673.2086318,
-   1791968927.6502092
   ],
   "117038": [
    1791956746.1228604,
@@ -2689,10 +3002,6 @@
    1791959557.939483,
    1791966135.59294
   ],
-  "117064": [
-   1791959560.2250144,
-   1791966135.59294
-  ],
   "117066": [
    1791959564.4609826,
    1791966135.59294
@@ -2703,10 +3012,6 @@
   ],
   "117070": [
    1791959572.8871768,
-   1791966135.59294
-  ],
-  "117072": [
-   1791959578.4359245,
    1791966135.59294
   ],
   "117075": [
@@ -2783,39 +3088,39 @@
   ],
   "117119": [
    1791965095.8678577,
-   1791965095.867858
+   1791972275.2826273
   ],
   "117120": [
    1791965098.2609367,
-   1791965098.260937
+   1791972275.2826273
   ],
   "117122": [
    1791965103.070501,
-   1791965103.0705013
+   1791972275.2826273
   ],
   "117123": [
    1791965105.5051405,
-   1791965105.5051405
+   1791972275.2826273
   ],
   "117125": [
    1791965110.3465862,
-   1791965110.3465862
+   1791972275.2826273
   ],
   "117128": [
    1791965117.1240046,
-   1791965117.1240046
+   1791972275.2826273
   ],
   "117129": [
    1791965119.278129,
-   1791965119.2781293
+   1791972275.2826273
   ],
   "117131": [
    1791965123.4683335,
-   1791965123.4683337
+   1791972275.2826273
   ],
   "117133": [
    1791965128.3161166,
-   1791965128.3161166
+   1791972275.2826273
   ],
   "117135": [
    1791965132.9768198,
@@ -2841,25 +3146,9 @@
    1791965146.488763,
    1791965146.488763
   ],
-  "117143": [
-   1791965150.739746,
-   1791965150.739746
-  ],
-  "117145": [
-   1791965155.4927418,
-   1791965155.492742
-  ],
   "117148": [
    1791965161.8455987,
    1791965161.8455987
-  ],
-  "117150": [
-   1791965166.2623434,
-   1791965166.2623436
-  ],
-  "117157": [
-   1791968996.4185033,
-   1791968996.4185035
   ],
   "117159": [
    1791969001.061396,
@@ -2885,10 +3174,6 @@
    1791969024.86776,
    1791969024.8677602
   ],
-  "117170": [
-   1791969027.12704,
-   1791969027.12704
-  ],
   "117171": [
    1791969029.4131448,
    1791969029.4131448
@@ -2896,6 +3181,74 @@
   "117172": [
    1791969032.2032435,
    1791969032.2032437
+  ],
+  "117174": [
+   1791972344.9827626,
+   1791972344.9827628
+  ],
+  "117176": [
+   1791972349.214455,
+   1791972349.2144551
+  ],
+  "117177": [
+   1791972351.2927248,
+   1791972351.292725
+  ],
+  "117178": [
+   1791972353.369149,
+   1791972353.369149
+  ],
+  "117179": [
+   1791972355.380699,
+   1791972355.3806992
+  ],
+  "117181": [
+   1791972360.380929,
+   1791972360.3809292
+  ],
+  "117182": [
+   1791972362.8105865,
+   1791972362.8105867
+  ],
+  "117188": [
+   1791972375.5383208,
+   1791972375.5383208
+  ],
+  "117190": [
+   1791972380.386201,
+   1791972380.3862011
+  ],
+  "117192": [
+   1791972384.8269339,
+   1791972384.826934
+  ],
+  "117193": [
+   1791972386.920648,
+   1791972386.9206483
+  ],
+  "117197": [
+   1791972396.1615677,
+   1791972396.1615677
+  ],
+  "117200": [
+   1791972402.442745,
+   1791972402.442745
+  ],
+  "117201": [
+   1791972404.5364354,
+   1791972404.5364356
+  ],
+  "117203": [
+   1791972408.8200252,
+   1791972408.8200252
+  ],
+  "117204": [
+   1791972411.1953301,
+   1791972411.1953304
+  ],
+  "117205": [
+   1791972413.274142,
+   1791972413.2741423
   ]
  }
 }
