@@ -1,6 +1,6 @@
 {
- "last_id": 117283,
- "offset": 596550010,
+ "last_id": 117285,
+ "offset": 596550013,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -1666,7 +1666,7 @@
   },
   "117150": {
    "msg_id": 306,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 MAKTAB FARROSHI\n\n🏢 \"Kosonsoy Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 46-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Kosonsoy tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: G`aniyev Ma`rufxon Mavlonxonovich +998912808034\n\n🗓 E'lon sanasi: 14.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -1720,7 +1720,7 @@
   },
   "117072": {
    "msg_id": 307,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 QOROVUL\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 77-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 2 kun dam, 08:00–08:00\n\n📞 Bog'lanish: Egamov Ulug'bek +998934094904\n\n🗓 E'lon sanasi: 14.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -1828,7 +1828,7 @@
   },
   "117034": {
    "msg_id": 309,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 QOROVUL\n\n🏢 \"Yangiqo'rg'on Tuman 1-Son Texnikumi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: NISHONBAYEV NOZIRJON TURSUNBAYEVICH +998939166923\n\n🗓 E'lon sanasi: 14.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -4497,9 +4497,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "14.10.2026 17:24",
-  "scanned": 50,
-  "sent": 1,
+  "time": "14.10.2026 17:30",
+  "scanned": 1,
+  "sent": 0,
   "errors": 0,
   "total_sent": 86
  },
@@ -4507,7 +4507,7 @@
  "retry": {
   "116302": [
    1791809918.0944808,
-   1791976960.1026068
+   1791981056.7338066
   ],
   "116304": [
    1791809918.0944808,
@@ -4743,27 +4743,27 @@
   ],
   "116436": [
    1791809918.0944808,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116437": [
    1791809918.0944808,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116440": [
    1791809918.0944808,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116444": [
    1791809918.0944808,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116448": [
    1791809918.0944808,
-   1791976960.1026068
+   1791981056.7338066
   ],
   "116450": [
    1791809918.0944808,
-   1791976960.1026068
+   1791981056.7338066
   ],
   "116457": [
    1791809918.0944808,
@@ -5095,39 +5095,39 @@
   ],
   "116745": [
    1791872317.8618348,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116748": [
    1791872324.5866795,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116750": [
    1791872328.806178,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116756": [
    1791873414.8788671,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116762": [
    1791873429.1458192,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116764": [
    1791873433.6386921,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116765": [
    1791873436.1514103,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116766": [
    1791873438.4081383,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116769": [
    1791873444.9779825,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116770": [
    1791873447.0623453,
@@ -5147,35 +5147,35 @@
   ],
   "116781": [
    1791877323.3930283,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116782": [
    1791877325.695741,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116783": [
    1791877327.9077559,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116785": [
    1791877333.221458,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116787": [
    1791877337.9431717,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116790": [
    1791877345.3658834,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116794": [
    1791877354.9340832,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116799": [
    1791877366.359905,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116800": [
    1791877368.517748,
@@ -5239,7 +5239,7 @@
   ],
   "116868": [
    1791881211.2963839,
-   1791976448.62214
+   1791981056.7338066
   ],
   "116870": [
    1791881215.6112323,
@@ -5920,6 +5920,10 @@
   "117282": [
    1791980988.0984507,
    1791980988.0984507
+  ],
+  "117284": [
+   1791981116.4763584,
+   1791981116.4763587
   ]
  }
 }
