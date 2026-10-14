@@ -453,50 +453,6 @@
     "is_region": true
    }
   },
-  "116462": {
-   "msg_id": 181,
-   "status": "posted",
-   "variant": 0,
-   "caption": "🎓 MAKTABGACHA TA'LIMDA TARBIYACHI YORDAMCHISI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: O'rta-maxsus\n⏳ Tajriba: Talab etilmaydi\n💰 Maosh: Kelishiladi\n📋 Ish turi: doimiy (shtat asosida)\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n📞 Bog'lanish: Rustamova Dilafruz +998941509966\n🗓 E'lon sanasi: 12.10.2026\n\n👉 KANALGA HOZIROQ OBUNA BO'LING:\n🔗 https://t.me/karyerauznamangan",
-   "entities": [
-    {
-     "offset": 461,
-     "length": 13,
-     "type": "phone_number"
-    },
-    {
-     "offset": 541,
-     "length": 30,
-     "type": "url"
-    }
-   ],
-   "v": {
-    "id": 116462,
-    "url": "https://osonish.uz/vacancies/116462",
-    "kasb": "Maktabgacha ta'limda tarbiyachi yordamchisi",
-    "slots": 1,
-    "experience": "Talab etilmaydi",
-    "pay_form": "Oylik",
-    "employment": "Doimiy (shtat asosida)",
-    "mode": "Odatiy (ish joyida)",
-    "schedule": "6/1, 08:00 - 16:00",
-    "education": "O'rta-maxsus",
-    "gender": "Ahamiyatsiz",
-    "address": "Наманганская область, Янгикурганский район, городской посёлок Карапалван, махаллинский сход граждан Куйи Кораполвон, улица Ровут-3",
-    "title": "Maktabgacha ta'limda tarbiyachi yordamchisi",
-    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 43-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
-    "district": "Yangiqo'rg'on tumani",
-    "salary": "Kelishiladi",
-    "phones": [],
-    "contact_name": "",
-    "hr_name": "",
-    "hr_phone": "",
-    "date": "12.10.2026",
-    "region_key": "namangan",
-    "region": "Namangan viloyati",
-    "is_region": true
-   }
-  },
   "116463": {
    "msg_id": 182,
    "status": "posted",
