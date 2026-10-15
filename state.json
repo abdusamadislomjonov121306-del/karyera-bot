@@ -1,6 +1,6 @@
 {
  "last_id": 117777,
- "offset": 596550071,
+ "offset": 596550073,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -4773,7 +4773,7 @@
   },
   "117568": {
    "msg_id": 451,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🏢 \"Ravshan Bekzod Hamkor Invest\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Uchqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 3 000 000 so'mgacha qolgani kelishuv asosida\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: FAYZULLAYEVA GULBAXOR BAXTIYOROVNA\n+998972318882\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -4822,7 +4822,7 @@
   },
   "117588": {
    "msg_id": 452,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 HUQUQSHUNOSLIK FANLARIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Kosonsoy Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 27-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Kosonsoy tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 5 yildan ortiq\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: KARIMOV FARRUX GOFURJONOVICH\n+998941714112\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -4898,7 +4898,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "15.10.2026 18:54",
+  "time": "15.10.2026 19:00",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
