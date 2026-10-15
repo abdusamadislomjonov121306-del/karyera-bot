@@ -1,6 +1,6 @@
 {
  "last_id": 117500,
- "offset": 596550041,
+ "offset": 596550045,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -4451,6 +4451,109 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "117470": {
+   "msg_id": 427,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 HUQUQSHUNOSLIK FANLARIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 32-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: SHOXIDA XAKIMOVA\n+998972508360\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 45,
+     "type": "bold"
+    },
+    {
+     "offset": 421,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 468,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 501,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117470,
+    "url": "https://osonish.uz/vacancies/117470",
+    "kasb": "Huquqshunoslik fanlaridan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Озод МФЙ, Ўзбекистон кучаси, 12-уй",
+    "title": "Huquqshunoslik fanlaridan maktab o'qituvchisi",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 32-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Shoxida Xakimova",
+    "hr_phone": "+998 97 250 83 60",
+    "date": "15.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "117363": {
+   "msg_id": 428,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🏢 \"Norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 17-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Norin tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: GULCHEXRA QO'SHIYEVA MIRZAQAYUMOVNA\n+998934483222\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 387,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 434,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 467,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117363,
+    "url": "https://osonish.uz/vacancies/117363",
+    "kasb": "Maktabgacha ta'lim tashkiloti musiqa rahbari",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy(bakalavr)",
+    "gender": "Ahamiyatsiz",
+    "address": "Тўлқин МФЙ Мустақиллик кўчаси 25 уй",
+    "title": "Maktabgacha ta'lim tashkiloti musiqa rahbari",
+    "org": "\"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 17-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Norin tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "GULCHEXRA QO'SHIYEVA MIRZAQAYUMOVNA",
+    "hr_phone": "+998 93 448 32 22",
+    "date": "15.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -4473,11 +4576,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "15.10.2026 13:32",
-  "scanned": 0,
-  "sent": 0,
+  "time": "15.10.2026 13:38",
+  "scanned": 2,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 86
+  "total_sent": 88
  },
  "fails": {},
  "retry": {
@@ -4539,11 +4642,11 @@
   ],
   "116331": [
    1791809918.0944808,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "116333": [
    1791809918.0944808,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "116335": [
    1791809918.0944808,
@@ -5123,7 +5226,7 @@
   ],
   "116781": [
    1791877323.3930283,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "116782": [
    1791877325.695741,
@@ -5563,43 +5666,43 @@
   ],
   "117125": [
    1791980517.752747,
-   1792046702.99551
+   1792053515.2435417
   ],
   "117128": [
    1791980524.7760181,
-   1792046702.99551
+   1792053515.2435417
   ],
   "117129": [
    1791980526.9140303,
-   1792046702.99551
+   1792053515.2435417
   ],
   "117133": [
    1791980536.7081056,
-   1792046702.99551
+   1792053515.2435417
   ],
   "117135": [
    1791980542.408312,
-   1792046702.99551
+   1792053515.2435417
   ],
   "117137": [
    1791980547.1857243,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117139": [
    1791980551.921496,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117141": [
    1791980556.334374,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117148": [
    1791980572.527281,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117159": [
    1791980597.8540988,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117161": [
    1791980602.255214,
@@ -5903,23 +6006,23 @@
   ],
   "117286": [
    1791983397.3162005,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117287": [
    1791983400.0681014,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117288": [
    1791983402.4570844,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117289": [
    1791983404.7821407,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117294": [
    1791983415.7972836,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117300": [
    1792038048.4132476,
@@ -5971,23 +6074,23 @@
   ],
   "117321": [
    1792041091.399214,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117329": [
    1792041111.8753743,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117330": [
    1792041114.1244376,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117331": [
    1792041116.419403,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117336": [
    1792041129.5211954,
-   1792047085.3131528
+   1792053515.2435417
   ],
   "117345": [
    1792041151.4738095,
@@ -6015,10 +6118,6 @@
   ],
   "117362": [
    1792045269.6242998,
-   1792051244.672195
-  ],
-  "117363": [
-   1792045271.9621308,
    1792051244.672195
   ],
   "117364": [
@@ -6244,10 +6343,6 @@
   "117469": [
    1792049161.6440587,
    1792049161.6440587
-  ],
-  "117470": [
-   1792049164.1720536,
-   1792049164.1720536
   ],
   "117473": [
    1792049171.3896327,
