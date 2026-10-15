@@ -1,6 +1,6 @@
 {
- "last_id": 117536,
- "offset": 596550060,
+ "last_id": 117545,
+ "offset": 596550064,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -4454,7 +4454,7 @@
   },
   "117470": {
    "msg_id": 427,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 HUQUQSHUNOSLIK FANLARIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 32-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: SHOXIDA XAKIMOVA\n+998972508360\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -4557,7 +4557,7 @@
   },
   "117429": {
    "msg_id": 434,
-   "status": "pending",
+   "status": "posted",
    "variant": 2,
    "caption": "🎓 HUDUD TOZALOVCHISI\n\n🏢 \"Uchqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 44-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Uchqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: kunlik\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 4 kun dam, 08:00–13:00\n\n📞 Bog'lanish: AZIZOVA MALIKA TURGUNBAYEVNA\n+998941524473\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -4613,7 +4613,7 @@
    "msg_id": 441,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 RUS TILI VA ADABIYOTI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"uchqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Uchqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 2 kun dam\n\n📞 Bog'lanish: ARZIKULOVA AMINAXON NURMUXOMMODOVNA\n+998990557307\n\n🗓 E'lon sanasi: 15.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 RUS TILI VA ADABIYOTI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Uchqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Uchqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (bakalavr)\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 2 kun dam\n\n📞 Bog'lanish: ARZIKULOVA AMINAXON NURMUXOMMODOVNA\n+998990557307\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
      "offset": 3,
@@ -4621,17 +4621,17 @@
      "type": "bold"
     },
     {
-     "offset": 466,
+     "offset": 460,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 514,
+     "offset": 507,
      "length": 29,
      "type": "bold"
     },
     {
-     "offset": 547,
+     "offset": 540,
      "length": 30,
      "type": "url"
     }
@@ -4789,16 +4789,15 @@
   "410": "117018",
   "437": "117429",
   "438": "117429",
-  "446": "117304",
-  "449": "117303"
+  "446": "117304"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "15.10.2026 14:29",
-  "scanned": 10,
-  "sent": 3,
+  "time": "15.10.2026 14:35",
+  "scanned": 4,
+  "sent": 0,
   "errors": 0,
   "total_sent": 92
  },
@@ -5174,19 +5173,19 @@
   ],
   "116550": [
    1791809918.0944808,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116557": [
    1791809918.0944808,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116559": [
    1791809918.0944808,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116561": [
    1791809918.0944808,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116565": [
    1791809918.0944808,
@@ -5322,15 +5321,15 @@
   ],
   "116691": [
    1791867312.2830555,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116692": [
    1791867314.6642294,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116695": [
    1791867322.250455,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116696": [
    1791867324.5252042,
@@ -5354,11 +5353,11 @@
   ],
   "116715": [
    1791870086.4931855,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116717": [
    1791870091.2053447,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116719": [
    1791870096.1488464,
@@ -5466,47 +5465,47 @@
   ],
   "116790": [
    1791877345.3658834,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116794": [
    1791877354.9340832,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116799": [
    1791877366.359905,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116800": [
    1791877368.517748,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116801": [
    1791877370.6950507,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116809": [
    1791877388.6322386,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116812": [
    1791877395.6759973,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116814": [
    1791877400.0501618,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116819": [
    1791877411.0886137,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116823": [
    1791877419.9441571,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116831": [
    1791877869.4079242,
-   1792050107.454175
+   1792056930.7164752
   ],
   "116832": [
    1791877871.4886758,
@@ -6258,23 +6257,23 @@
   ],
   "117306": [
    1792038062.2481763,
-   1792049730.9475558
+   1792056930.7164752
   ],
   "117307": [
    1792038064.517527,
-   1792049730.9475558
+   1792056930.7164752
   ],
   "117309": [
    1792038069.1114926,
-   1792049730.9475558
+   1792056930.7164752
   ],
   "117310": [
    1792038071.3626697,
-   1792049730.9475558
+   1792056930.7164752
   ],
   "117311": [
    1792038073.6430976,
-   1792049730.9475558
+   1792056930.7164752
   ],
   "117313": [
    1792038078.2523463,
@@ -6695,6 +6694,26 @@
   "117530": [
    1792056643.7769682,
    1792056643.7769685
+  ],
+  "117537": [
+   1792056994.4769447,
+   1792056994.476945
+  ],
+  "117538": [
+   1792056996.7810276,
+   1792056996.7810278
+  ],
+  "117539": [
+   1792056999.1501856,
+   1792056999.1501858
+  ],
+  "117541": [
+   1792057003.8557143,
+   1792057003.8557146
+  ],
+  "117544": [
+   1792057013.1409678,
+   1792057013.1409678
   ]
  }
 }
