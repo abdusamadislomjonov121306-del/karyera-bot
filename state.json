@@ -1,6 +1,6 @@
 {
- "last_id": 117564,
- "offset": 596550065,
+ "last_id": 117588,
+ "offset": 596550069,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -4770,6 +4770,109 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "117568": {
+   "msg_id": 451,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🏢 \"Ravshan Bekzod Hamkor Invest\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Uchqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 3 000 000 so'mgacha qolgani kelishuv asosida\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: FAYZULLAYEVA GULBAXOR BAXTIYOROVNA\n+998972318882\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 360,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 407,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 440,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117568,
+    "url": "https://osonish.uz/vacancies/117568",
+    "kasb": "Sut sog'uvchi",
+    "slots": 10,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Учкурганский район, махаллинский сход граждан Мустакиллик",
+    "title": "Sut sog'uvchi",
+    "org": "\"ravshan Bekzod Hamkor Invest\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Uchqo'rg'on tumani",
+    "salary": "1 500 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "FAYZULLAYEVA GULBAXOR BAXTIYOROVNA",
+    "hr_phone": "+998 97 231 88 82",
+    "date": "15.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "117588": {
+   "msg_id": 452,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 HUQUQSHUNOSLIK FANLARIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Kosonsoy Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 27-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Kosonsoy tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 5 yildan ortiq\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: KARIMOV FARRUX GOFURJONOVICH\n+998941714112\n\n🗓 E'lon sanasi: 15.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 45,
+     "type": "bold"
+    },
+    {
+     "offset": 427,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 474,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 507,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117588,
+    "url": "https://osonish.uz/vacancies/117588",
+    "kasb": "Huquqshunoslik fanlaridan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "5 yildan ortiq",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Kosonsoy Tuman 27- sonli umumiy o'rta ta'limmaktabi",
+    "title": "Huquqshunoslik fanlaridan maktab o'qituvchisi",
+    "org": "\"kosonsoy Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 27-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Kosonsoy tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "KARIMOV FARRUX GOFURJONOVICH",
+    "hr_phone": "+998 94 171 41 12",
+    "date": "15.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -4795,22 +4898,14 @@
   "namangan"
  ],
  "stats": {
-  "time": "15.10.2026 15:19",
-  "scanned": 0,
-  "sent": 0,
+  "time": "15.10.2026 15:25",
+  "scanned": 25,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 92
+  "total_sent": 94
  },
  "fails": {},
  "retry": {
-  "116313": [
-   1791809918.0944808,
-   1792053136.8208573
-  ],
-  "116314": [
-   1791809918.0944808,
-   1792053136.8208573
-  ],
   "116316": [
    1791809918.0944808,
    1792053136.8208573
@@ -5483,14 +5578,6 @@
    1791886244.7324033,
    1792057682.9981427
   ],
-  "117099": [
-   1791980452.076186,
-   1792052759.8537989
-  ],
-  "117101": [
-   1791980457.0912273,
-   1792052759.8537989
-  ],
   "117103": [
    1791980462.505795,
    1792053136.8208573
@@ -5931,18 +6018,6 @@
    1792041091.399214,
    1792053515.2435417
   ],
-  "117329": [
-   1792041111.8753743,
-   1792053515.2435417
-  ],
-  "117330": [
-   1792041114.1244376,
-   1792053515.2435417
-  ],
-  "117331": [
-   1792041116.419403,
-   1792053515.2435417
-  ],
   "117336": [
    1792041129.5211954,
    1792053515.2435417
@@ -5971,16 +6046,8 @@
    1792049048.7598495,
    1792055409.5057616
   ],
-  "117423": [
-   1792049056.141056,
-   1792055791.1193144
-  ],
   "117424": [
    1792049058.2246394,
-   1792055791.1193144
-  ],
-  "117425": [
-   1792049061.22108,
    1792055791.1193144
   ],
   "117427": [
@@ -5993,10 +6060,6 @@
   ],
   "117430": [
    1792049071.9567137,
-   1792055791.1193144
-  ],
-  "117431": [
-   1792049074.411665,
    1792055791.1193144
   ],
   "117432": [
@@ -6039,24 +6102,12 @@
    1792049136.000106,
    1792055791.1193144
   ],
-  "117464": [
-   1792049150.5498796,
-   1792055791.1193144
-  ],
-  "117468": [
-   1792049159.5707827,
-   1792055791.1193144
-  ],
   "117469": [
    1792049161.6440587,
    1792055791.1193144
   ],
   "117473": [
    1792049171.3896327,
-   1792055791.1193144
-  ],
-  "117475": [
-   1792049175.609233,
    1792055791.1193144
   ],
   "117477": [
@@ -6071,42 +6122,6 @@
    1792049421.463492,
    1792056549.6326985
   ],
-  "117486": [
-   1792052824.0853858,
-   1792052824.085386
-  ],
-  "117487": [
-   1792052826.384589,
-   1792052826.3845892
-  ],
-  "117488": [
-   1792052828.7073252,
-   1792052828.7073252
-  ],
-  "117489": [
-   1792052831.035544,
-   1792052831.0355442
-  ],
-  "117490": [
-   1792052833.402964,
-   1792052833.402964
-  ],
-  "117491": [
-   1792052835.7063506,
-   1792052835.7063506
-  ],
-  "117492": [
-   1792052838.0483341,
-   1792052838.0483341
-  ],
-  "117494": [
-   1792052843.8717794,
-   1792052843.8717797
-  ],
-  "117497": [
-   1792052851.5001297,
-   1792052851.5001297
-  ],
   "117501": [
    1792055869.337448,
    1792055869.337448
@@ -6114,10 +6129,6 @@
   "117502": [
    1792055871.6830518,
    1792055871.683052
-  ],
-  "117503": [
-   1792055873.9758453,
-   1792055873.9758456
   ],
   "117505": [
    1792055878.6892552,
@@ -6187,10 +6198,6 @@
    1792056641.7091458,
    1792056641.7091458
   ],
-  "117530": [
-   1792056643.7769682,
-   1792056643.7769685
-  ],
   "117537": [
    1792056994.4769447,
    1792056994.476945
@@ -6206,10 +6213,6 @@
   "117541": [
    1792057003.8557143,
    1792057003.8557146
-  ],
-  "117544": [
-   1792057013.1409678,
-   1792057013.1409678
   ],
   "117546": [
    1792057745.476863,
