@@ -1,6 +1,6 @@
 {
- "last_id": 118092,
- "offset": 596550098,
+ "last_id": 118118,
+ "offset": 596550100,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -5089,6 +5089,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "118104": {
+   "msg_id": 477,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 JISMONIY TARBIYA BO'YICHA YO'RIQCHI\n\n🏢 \"Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 56-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi Davlat Korxonasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: muddatli\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: DILFUZAXON ORIPALIYEVA RAXIMOVNA\n+998950991714\n\n🗓 E'lon sanasi: 16.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 35,
+     "type": "bold"
+    },
+    {
+     "offset": 444,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 492,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 525,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118104,
+    "url": "https://osonish.uz/vacancies/118104",
+    "kasb": "Jismoniy tarbiya bo'yicha yo'riqchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Muddatli",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Папский район, городской посёлок Янги-Ходжаабад",
+    "title": "Jismoniy tarbiya bo'yicha yo'riqchi",
+    "org": "\"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 56-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi Davlat Korxonasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "DILFUZAXON ORIPALIYEVA RAXIMOVNA",
+    "hr_phone": "+998 95 099 17 14",
+    "date": "16.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -5115,11 +5169,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "16.10.2026 16:22",
-  "scanned": 0,
-  "sent": 0,
+  "time": "16.10.2026 16:28",
+  "scanned": 14,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 98
+  "total_sent": 99
  },
  "fails": {},
  "retry": {}
