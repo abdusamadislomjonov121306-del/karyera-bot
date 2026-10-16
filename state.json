@@ -1,6 +1,6 @@
 {
  "last_id": 117996,
- "offset": 596550089,
+ "offset": 596550091,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -4876,7 +4876,7 @@
   },
   "117912": {
    "msg_id": 468,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 QOROVUL\n\n🏢 \"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 45-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 2 kun dam\n\n📞 Bog'lanish: AKRAMQULOVA SEVARA MIRZAXMEDOVNA\n+998508908475\n\n🗓 E'lon sanasi: 16.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -4930,7 +4930,7 @@
   },
   "117926": {
    "msg_id": 469,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 QOROVUL\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 25-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–23:30\n\n📞 Bog'lanish: TURSUNOV MAXSITALI MURODALIYEVICH\n+998991077627\n\n🗓 E'lon sanasi: 16.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -5006,8 +5006,8 @@
   "namangan"
  ],
  "stats": {
-  "time": "16.10.2026 12:47",
-  "scanned": 13,
+  "time": "16.10.2026 12:53",
+  "scanned": 0,
   "sent": 0,
   "errors": 0,
   "total_sent": 96
