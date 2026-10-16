@@ -1,5 +1,5 @@
 {
- "last_id": 117996,
+ "last_id": 118016,
  "offset": 596550091,
  "posts": {
   "116336": {
@@ -4981,6 +4981,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "118016": {
+   "msg_id": 470,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOSHLANG'ICH TA'LIM\n\n🏢 \"uchqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 8-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Uchqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: TURG'UNOVA MUNISA MAXAMATSOLI QIZI\n+998944889894\n\n🗓 E'lon sanasi: 16.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 19,
+     "type": "bold"
+    },
+    {
+     "offset": 445,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 493,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 526,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118016,
+    "url": "https://osonish.uz/vacancies/118016",
+    "kasb": "Boshlang'ich sinf o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Учкурганский район, городской посёлок Кайки",
+    "title": "Boshlang'ich ta'lim",
+    "org": "\"uchqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 8-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Uchqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Turg'unova Munisa Maxamatsoli qizi",
+    "hr_phone": "+998 94 488 98 94",
+    "date": "16.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -5006,11 +5060,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "16.10.2026 13:44",
-  "scanned": 0,
-  "sent": 0,
+  "time": "16.10.2026 13:50",
+  "scanned": 3,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 96
+  "total_sent": 97
  },
  "fails": {},
  "retry": {}
