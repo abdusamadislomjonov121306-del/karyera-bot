@@ -1,5 +1,5 @@
 {
- "last_id": 117906,
+ "last_id": 117954,
  "offset": 596550089,
  "posts": {
   "116336": {
@@ -4873,6 +4873,114 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "117912": {
+   "msg_id": 468,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 45-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 2 kun dam\n\n📞 Bog'lanish: AKRAMQULOVA SEVARA MIRZAXMEDOVNA\n+998508908475\n\n🗓 E'lon sanasi: 16.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 417,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 465,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 498,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117912,
+    "url": "https://osonish.uz/vacancies/117912",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "4/2",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Pop tumani",
+    "title": "Qorovul",
+    "org": "\"maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 45-Sonli Umumiy Turdagi Davlat Maktagacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "AKRAMQULOVA SEVARA MIRZAXMEDOVNA",
+    "hr_phone": "+998 50 890 84 75",
+    "date": "16.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "117926": {
+   "msg_id": 469,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 25-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–23:30\n\n📞 Bog'lanish: TURSUNOV MAXSITALI MURODALIYEVICH\n+998991077627\n\n🗓 E'lon sanasi: 16.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 415,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 463,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 496,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 117926,
+    "url": "https://osonish.uz/vacancies/117926",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 23:30",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманганская область, Папский район, городской посёлок Кандигон",
+    "title": "Qorovul",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 25-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSUNOV MAXSITALI MURODALIYEVICH",
+    "hr_phone": "+998 99 107 76 27",
+    "date": "16.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -4898,11 +5006,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "16.10.2026 11:44",
-  "scanned": 0,
-  "sent": 0,
+  "time": "16.10.2026 11:50",
+  "scanned": 25,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 94
+  "total_sent": 96
  },
  "fails": {},
  "retry": {}
