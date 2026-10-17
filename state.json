@@ -1,6 +1,6 @@
 {
- "last_id": 118208,
- "offset": 596550108,
+ "last_id": 118220,
+ "offset": 596550119,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -5202,6 +5202,276 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "118213": {
+   "msg_id": 488,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KADRLAR BO'YICHA INSPEKTOR\n\n🏢 \"Yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 61-Sonli Boshlang'ich Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (O'rta-maxsus)\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 500 000 dan 1 800 000 so'mgacha qolgani kelishuv asosida\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:30–16:00\n\n📞 Bog'lanish: NURITDINOVA YULDUZ ADXAMOVNA\n+998902227800\n\n🗓 E'lon sanasi: 17.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 26,
+     "type": "bold"
+    },
+    {
+     "offset": 482,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 530,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 563,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118213,
+    "url": "https://osonish.uz/vacancies/118213",
+    "kasb": "Kadrlar bo'yicha inspektor",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 07:30 - 16:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманган, 12-й проезд Юкори Боги Шамол, 17A",
+    "title": "Kadrlar bo'yicha inspektor",
+    "org": "\"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 61-Sonli Boshlang'ich Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 500 000 dan 1 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "NURITDINOVA YULDUZ ADXAMOVNA",
+    "hr_phone": "+998 90 222 78 00",
+    "date": "17.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118215": {
+   "msg_id": 489,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"Namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 70-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 1 800 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:00–16:00\n\n📞 Bog'lanish: ATAMIRZAYEV RUSTAM MAXMUDOVICH\n+998992277061\n\n🗓 E'lon sanasi: 17.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 474,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 522,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 555,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118215,
+    "url": "https://osonish.uz/vacancies/118215",
+    "kasb": "Ta'lim tashkilotlari farroshi",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 07:00 - 16:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманган, 7-й тупик Баландарик, 37",
+    "title": "Ta'lim tashkilotlari farroshi",
+    "org": "\"namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 70-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 500 000 dan 1 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ATAMIRZAYEV RUSTAM MAXMUDOVICH",
+    "hr_phone": "+998 99 227 70 61",
+    "date": "17.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118218": {
+   "msg_id": 490,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"Namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 39-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 1 800 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:00–16:00\n\n📞 Bog'lanish: ASKARALIYEV USMANDJON XXX\n+998941591111\n\n🗓 E'lon sanasi: 17.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 469,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 517,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 550,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118218,
+    "url": "https://osonish.uz/vacancies/118218",
+    "kasb": "Ta'lim tashkilotlari farroshi",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 07:00 - 16:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "ул. Дустлик, 3B, махаллинский сход граждан Гулистон, Наманган",
+    "title": "Ta'lim tashkilotlari farroshi",
+    "org": "\"namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 39-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 500 000 dan 1 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ASKARALIYEV USMANDJON XXX",
+    "hr_phone": "+998 94 159 11 11",
+    "date": "17.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118219": {
+   "msg_id": 491,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 RUS TILI VA ADABIYOTI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 39-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 2 800 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–13:00\n\n📞 Bog'lanish: ASKARALIYEV USMANDJON XXX\n+998941591111\n\n🗓 E'lon sanasi: 17.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 49,
+     "type": "bold"
+    },
+    {
+     "offset": 486,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 534,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 567,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118219,
+    "url": "https://osonish.uz/vacancies/118219",
+    "kasb": "Rus tili va adabiyoti fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 13:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Дустлик, 3B, махаллинский сход граждан Гулистон, Наманган",
+    "title": "Rus tili va adabiyoti fanidan maktab o'qituvchisi",
+    "org": "\"namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 39-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "2 800 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ASKARALIYEV USMANDJON XXX",
+    "hr_phone": "+998 94 159 11 11",
+    "date": "17.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118220": {
+   "msg_id": 492,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MATEMATIKA (ALGEBRA VA GEOMETRIYA) FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 39-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 2 800 000 dan 3 400 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–14:00\n\n📞 Bog'lanish: ASKARALIYEV USMANDJON XXX\n+998941591111\n\n🗓 E'lon sanasi: 17.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 62,
+     "type": "bold"
+    },
+    {
+     "offset": 499,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 547,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 580,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118220,
+    "url": "https://osonish.uz/vacancies/118220",
+    "kasb": "Matematika (algebra va geometriya) fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 14:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Дустлик, 3B, махаллинский сход граждан Гулистон, Наманган",
+    "title": "Matematika (algebra va geometriya) fanidan maktab o'qituvchisi",
+    "org": "\"namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 39-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "2 800 000 dan 3 400 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ASKARALIYEV USMANDJON XXX",
+    "hr_phone": "+998 94 159 11 11",
+    "date": "17.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -5222,17 +5492,18 @@
   "437": "117429",
   "438": "117429",
   "446": "117304",
-  "474": "118076"
+  "474": "118076",
+  "493": "118213"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "17.10.2026 11:05",
-  "scanned": 0,
-  "sent": 0,
+  "time": "17.10.2026 11:12",
+  "scanned": 5,
+  "sent": 5,
   "errors": 0,
-  "total_sent": 100
+  "total_sent": 105
  },
  "fails": {},
  "retry": {}
