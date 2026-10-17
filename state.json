@@ -5544,9 +5544,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "17.10.2026 17:17",
-  "scanned": 13,
-  "sent": 1,
+  "time": "17.10.2026 17:23",
+  "scanned": 0,
+  "sent": 0,
   "errors": 0,
   "total_sent": 106
  },
