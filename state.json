@@ -1,6 +1,6 @@
 {
  "last_id": 118234,
- "offset": 596550119,
+ "offset": 596550121,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -5205,7 +5205,7 @@
   },
   "118213": {
    "msg_id": 488,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 KADRLAR BO'YICHA INSPEKTOR\n\n🏢 \"Yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 61-Sonli Boshlang'ich Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy (O'rta-maxsus)\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 500 000 dan 1 800 000 so'mgacha qolgani kelishuv asosida\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:30–16:00\n\n📞 Bog'lanish: NURITDINOVA YULDUZ ADXAMOVNA\n+998902227800\n\n🗓 E'lon sanasi: 17.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -5493,13 +5493,14 @@
   "438": "117429",
   "446": "117304",
   "474": "118076",
-  "493": "118213"
+  "493": "118213",
+  "504": "118213"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "17.10.2026 12:59",
+  "time": "17.10.2026 13:05",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
