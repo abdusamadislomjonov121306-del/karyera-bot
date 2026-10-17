@@ -1,6 +1,6 @@
 {
  "last_id": 118206,
- "offset": 596550107,
+ "offset": 596550108,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -5146,7 +5146,7 @@
   },
   "118206": {
    "msg_id": 485,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 BOG'BON\n\n🏢 \"To'raqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 59-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, To'raqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 350 000 so'mdan boshlanadi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: osonish.uz orqali — https://osonish.uz/vacancies/118206\n\n🗓 E'lon sanasi: 17.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -5228,7 +5228,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "17.10.2026 10:15",
+  "time": "17.10.2026 10:21",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
