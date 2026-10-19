@@ -1,6 +1,6 @@
 {
- "last_id": 118407,
- "offset": 596550146,
+ "last_id": 118453,
+ "offset": 596550147,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -5786,6 +5786,330 @@
     "region": "Toshkent viloyati",
     "is_region": true
    }
+  },
+  "118409": {
+   "msg_id": 531,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"davlatobod Tuman Maktabgacha Ta'lim Bo'limi Tasarrufidagi 19-Sonli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: NAZIRA MALLABAYEVA MAXMUDOVNA\n+998902184224\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 406,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 454,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 487,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118409,
+    "url": "https://osonish.uz/vacancies/118409",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманган, махаллинский сход граждан Орзу",
+    "title": "Qorovul",
+    "org": "\"davlatobod Tuman Maktabgacha Ta'lim Bo'limi Tasarrufidagi 19-Sonli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Nazira Mallabayeva Maxmudovna",
+    "hr_phone": "+998 90 218 42 24",
+    "date": "19.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118411": {
+   "msg_id": 532,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 8-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 4 kun dam\n\n📞 Bog'lanish: FARAG'ATXON ASQAROVA ERGASHEVNA\n+998951243567\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 402,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 450,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 483,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118411,
+    "url": "https://osonish.uz/vacancies/118411",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "4/4",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманганская область, Пап",
+    "title": "Qorovul",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 8-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "1 000 000 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "FARAG'ATXON ASQAROVA ERGASHEVNA",
+    "hr_phone": "+998 95 124 35 67",
+    "date": "19.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118414": {
+   "msg_id": 533,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOSHLANG'ICH SINF O'QITUVCHISI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 18-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: YULDASHEV HAMZA RASHIDJONOVICH\n+998886888004\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 400,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 448,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 481,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118414,
+    "url": "https://osonish.uz/vacancies/118414",
+    "kasb": "Boshlang'ich sinf o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Soxibkor MFY Toshkent ko'cha 88-uy",
+    "title": "Boshlang'ich sinf o'qituvchisi",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 18-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yuldashev Hamza Rashidjonovich",
+    "hr_phone": "+998 88 688 80 04",
+    "date": "19.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118415": {
+   "msg_id": 534,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 CHET TILI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 18-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: YULDASHEV HAMZA RASHIDJONOVICH\n+998886888004\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 37,
+     "type": "bold"
+    },
+    {
+     "offset": 407,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 455,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 488,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118415,
+    "url": "https://osonish.uz/vacancies/118415",
+    "kasb": "Chet tili fanidan maktab o'qituvchisi",
+    "slots": 2,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Soxibkor MFY Toshkent ko'cha 88-uy",
+    "title": "Chet tili fanidan maktab o'qituvchisi",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 18-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yuldashev Hamza Rashidjonovich",
+    "hr_phone": "+998 88 688 80 04",
+    "date": "19.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118416": {
+   "msg_id": 535,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 XO'JALIK MUDIRI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 18-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: YULDASHEV HAMZA RASHIDJONOVICH\n+998886888004\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 15,
+     "type": "bold"
+    },
+    {
+     "offset": 383,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 431,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 464,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118416,
+    "url": "https://osonish.uz/vacancies/118416",
+    "kasb": "Xo'jalik mudiri",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Soxibkor MFY Toshkent ko'cha 88-uy",
+    "title": "Xo'jalik mudiri",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 18-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yuldashev Hamza Rashidjonovich",
+    "hr_phone": "+998 88 688 80 04",
+    "date": "19.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118453": {
+   "msg_id": 537,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TOG' ISHCHISI\n\n🏢 \" 1-Maxsus Mexanizatsiyalashgan Ko'chma Jamlanma\" Mas'uliyati Cheklangan Jamiyati\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 40 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 5 000 000 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: НЕИЛУФАР\n+998902755445\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 13,
+     "type": "bold"
+    },
+    {
+     "offset": 339,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 387,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 420,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118453,
+    "url": "https://osonish.uz/vacancies/118453",
+    "kasb": "Yordamchi ishchi",
+    "slots": 40,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Erkak",
+    "address": "наманган ш охунбабайиб кучаси 14 уй",
+    "title": "Tog' ishchisi",
+    "org": "\" 1-Maxsus Mexanizatsiyalashgan Ko'chma Jamlanma\" Mas'uliyati Cheklangan Jamiyati",
+    "district": "Namangan shahar",
+    "salary": "5 000 000 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Неилуфар",
+    "hr_phone": "+998 90 275 54 45",
+    "date": "19.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -5808,17 +6132,18 @@
   "446": "117304",
   "474": "118076",
   "493": "118213",
-  "504": "118213"
+  "504": "118213",
+  "536": "118416"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "19.10.2026 12:37",
-  "scanned": 0,
-  "sent": 0,
+  "time": "19.10.2026 12:43",
+  "scanned": 24,
+  "sent": 6,
   "errors": 0,
-  "total_sent": 111
+  "total_sent": 117
  },
  "fails": {},
  "retry": {},
