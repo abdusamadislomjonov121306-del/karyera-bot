@@ -1,6 +1,6 @@
 {
  "last_id": 118766,
- "offset": 596550158,
+ "offset": 596550165,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -6113,7 +6113,7 @@
   },
   "118490": {
    "msg_id": 538,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 ONA TILI VA ADABIYOTI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 3-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: NISHONOV ODIL TULQINBOYEVICH\n+998990204503\n\n🗓 E'lon sanasi: 19.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -6223,7 +6223,7 @@
    "msg_id": 548,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 INFORMATIKA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 23-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SODIKOVA BAZARJAN SOLIYEVNA\n+998937100269\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 INFORMATIKA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 23-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SODIKOVA BAZARJAN SOLIYEVNA\n+998937100269\n\n🗓 E'lon sanasi: 19.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
      "offset": 3,
@@ -6231,17 +6231,17 @@
      "type": "bold"
     },
     {
-     "offset": 411,
+     "offset": 405,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 459,
+     "offset": 452,
      "length": 29,
      "type": "bold"
     },
     {
-     "offset": 492,
+     "offset": 485,
      "length": 30,
      "type": "url"
     }
@@ -6277,7 +6277,7 @@
    "msg_id": 549,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 BETONCHI\n\n🏢 \"jahon Qurilish Ta'mirlash\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 000 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: ABDULAYEV MUBASHIR MUZAFAROVICH\n+998886575555\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 BETONCHI\n\n🏢 \"Jahon Qurilish Ta'mirlash\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 000 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: ABDULAYEV MUBASHIR MUZAFAROVICH\n+998886575555\n\n🗓 E'lon sanasi: 19.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
      "offset": 3,
@@ -6290,12 +6290,12 @@
      "type": "phone_number"
     },
     {
-     "offset": 416,
+     "offset": 415,
      "length": 29,
      "type": "bold"
     },
     {
-     "offset": 449,
+     "offset": 448,
      "length": 30,
      "type": "url"
     }
@@ -6355,8 +6355,8 @@
   "namangan"
  ],
  "stats": {
-  "time": "19.10.2026 17:03",
-  "scanned": 3,
+  "time": "19.10.2026 17:09",
+  "scanned": 0,
   "sent": 0,
   "errors": 0,
   "total_sent": 121
