@@ -1,6 +1,6 @@
 {
- "last_id": 118313,
- "offset": 596550133,
+ "last_id": 118349,
+ "offset": 596550146,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -5516,6 +5516,276 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "118333": {
+   "msg_id": 520,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 DIREKTOR\n\n🏢 \"chinoz Tumani 42 Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Chinoz tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 3–5 yil\n\n💰 Maosh: 5 000 000 dan 5 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: XANSAIDOVA SEVARA XALILOVNA\n+998994422891\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 8,
+     "type": "bold"
+    },
+    {
+     "offset": 382,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 430,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 463,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118333,
+    "url": "https://osonish.uz/vacancies/118333",
+    "kasb": "Bozor direktori (boshlig'i)",
+    "slots": 1,
+    "experience": "3-5 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Чиназский район, городской посёлок Алмазар, махаллинский сход граждан Чорвадор, улица Маърифат",
+    "title": "Direktor",
+    "org": "\"chinoz Tumani 42 Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Chinoz tumani",
+    "salary": "5 000 000 dan 5 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Xansaidova Sevara Xalilovna",
+    "hr_phone": "+998 99 442 28 91",
+    "date": "19.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "118335": {
+   "msg_id": 521,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'QUV ISHLARI BO'YICHA DIREKTORI O'RINBOSARLARI\n\n🏢 \"chinoz Tumani 42 Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Chinoz tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 3–5 yil\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: XANSAIDOVA SEVARA XALILOVNA\n+998994422891\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 47,
+     "type": "bold"
+    },
+    {
+     "offset": 421,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 469,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 502,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118335,
+    "url": "https://osonish.uz/vacancies/118335",
+    "kasb": "Direksiya direktori va o'rinbosarlari",
+    "slots": 1,
+    "experience": "3-5 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Чиназский район, городской посёлок Алмазар, махаллинский сход граждан Чорвадор, улица Маърифат",
+    "title": "o'quv ishlari bo'yicha direktori o'rinbosarlari",
+    "org": "\"chinoz Tumani 42 Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Chinoz tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Xansaidova Sevara Xalilovna",
+    "hr_phone": "+998 99 442 28 91",
+    "date": "19.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "118336": {
+   "msg_id": 522,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 XIZMAT XONALARI FARROSHI\n\n🏢 \"chinoz Tumani 42 Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Chinoz tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: XANSAIDOVA SEVARA XALILOVNA\n+998994422891\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 24,
+     "type": "bold"
+    },
+    {
+     "offset": 404,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 452,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 485,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118336,
+    "url": "https://osonish.uz/vacancies/118336",
+    "kasb": "Xizmat xonalari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Чиназский район, городской посёлок Алмазар, махаллинский сход граждан Чорвадор, улица Маърифат",
+    "title": "Xizmat xonalari farroshi",
+    "org": "\"chinoz Tumani 42 Son Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Chinoz tumani",
+    "salary": "1 000 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Xansaidova Sevara Xalilovna",
+    "hr_phone": "+998 99 442 28 91",
+    "date": "19.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "118345": {
+   "msg_id": 526,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 CHILANGAR-SANTEXNIK\n\n🏢 \"viloyat Bolalar Ko'p Tarmoqli Tibbiyot Markazi\" Davlat Muassasasi\n\n📍 Farg'ona shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 3–5 yil\n\n💰 Maosh: 1 811 000 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: RUZIYEVA UMIDAXON SIROJIDDINOVNA\n+998904099933\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 19,
+     "type": "bold"
+    },
+    {
+     "offset": 327,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 375,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 408,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118345,
+    "url": "https://osonish.uz/vacancies/118345",
+    "kasb": "Chilangar-santexnik",
+    "slots": 1,
+    "experience": "3-5 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "Farg'ona shaxar A.NAvoiy 56v",
+    "title": "Chilangar-santexnik",
+    "org": "\"viloyat Bolalar Ko'p Tarmoqli Tibbiyot Markazi\" Davlat Muassasasi",
+    "district": "Farg'ona shahar",
+    "salary": "1 811 000 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Ruziyeva Umidaxon Sirojiddinovna",
+    "hr_phone": "+998 90 409 99 33",
+    "date": "19.10.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
+  },
+  "118347": {
+   "msg_id": 527,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MATEMATIKA (ALGEBRA VA GEOMETRIYA) FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"nurafshon Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 73-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Nurafshon shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 3 000 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: ХАКИМОВА СЕВИНЧ\n+998888789005\n\n🗓 E'lon sanasi: 19.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 62,
+     "type": "bold"
+    },
+    {
+     "offset": 478,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 526,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 559,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118347,
+    "url": "https://osonish.uz/vacancies/118347",
+    "kasb": "Matematika (algebra va geometriya) fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Уртачирчикский район, населённый пункт Дегантепа",
+    "title": "Matematika (algebra va geometriya) fanidan maktab o'qituvchisi",
+    "org": "\"nurafshon Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 73-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Nurafshon shahar",
+    "salary": "3 000 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Хакимова Севинч",
+    "hr_phone": "+998 88 878 90 05",
+    "date": "19.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -5544,11 +5814,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "19.10.2026 10:37",
-  "scanned": 0,
-  "sent": 0,
+  "time": "19.10.2026 10:44",
+  "scanned": 16,
+  "sent": 5,
   "errors": 0,
-  "total_sent": 106
+  "total_sent": 111
  },
  "fails": {},
  "retry": {},
