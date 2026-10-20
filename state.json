@@ -1,5 +1,5 @@
 {
- "last_id": 118841,
+ "last_id": 118881,
  "offset": 596550170,
  "posts": {
   "116336": {
@@ -6326,6 +6326,114 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "118855": {
+   "msg_id": 560,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"kosonsoy Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 28-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Kosonsoy tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: JURAYEVA ZULXUMOR EGAMBERDIYEVNA\n+998939136205\n\n🗓 E'lon sanasi: 20.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 468,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 516,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 549,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118855,
+    "url": "https://osonish.uz/vacancies/118855",
+    "kasb": "Ta'lim tashkilotlari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Kosonsoy tuman Olmazor ko'cha 18- uy",
+    "title": "Ta'lim tashkilotlari farroshi",
+    "org": "\"kosonsoy Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 28-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Kosonsoy tumani",
+    "salary": "1 000 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Jurayeva Zulxumor Egamberdiyevna",
+    "hr_phone": "+998 93 913 62 05",
+    "date": "20.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "118875": {
+   "msg_id": 561,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 USTA 1\n\n🏢 \"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 89-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 338 363 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: YUNUSOV A'ZAMJON G'ULAMOVICH\n+998943055261\n\n🗓 E'lon sanasi: 20.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 6,
+     "type": "bold"
+    },
+    {
+     "offset": 403,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 451,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 484,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 118875,
+    "url": "https://osonish.uz/vacancies/118875",
+    "kasb": "Usta yordamchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "Sherbuloq MFY Bog' ko'cha uy-1",
+    "title": "Usta 1",
+    "org": "\"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 89-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 338 363 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "YUNUSOV A'ZAMJON G'ULAMOVICH",
+    "hr_phone": "+998 94 305 52 61",
+    "date": "20.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -6355,11 +6463,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "20.10.2026 09:59",
-  "scanned": 0,
-  "sent": 0,
+  "time": "20.10.2026 10:05",
+  "scanned": 22,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 121
+  "total_sent": 123
  },
  "fails": {},
  "retry": {},
