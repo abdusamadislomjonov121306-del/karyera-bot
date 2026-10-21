@@ -1,6 +1,6 @@
 {
- "last_id": 119351,
- "offset": 596550189,
+ "last_id": 119412,
+ "offset": 596550196,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -6434,6 +6434,492 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "119352": {
+   "msg_id": 582,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 YUK TASHUVCHI\n\n🏢 \"sanjar Prom Torg Servis\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Buxoro shahar\n\n👥 Bo'sh o'rinlar: 4 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 800 000 dan 3 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: НОСИРОВ ОЙБЕК\n+998991670114\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 13,
+     "type": "bold"
+    },
+    {
+     "offset": 335,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 383,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 416,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119352,
+    "url": "https://osonish.uz/vacancies/119352",
+    "kasb": "Yuk tashuvchi (gruzchik)",
+    "slots": 4,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Бухара, Xoja Bulgor Street, 25",
+    "title": "Yuk tashuvchi",
+    "org": "\"sanjar Prom Torg Servis\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Buxoro shahar",
+    "salary": "2 800 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Носиров Ойбек",
+    "hr_phone": "+998 99 167 01 14",
+    "date": "21.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "119371": {
+   "msg_id": 583,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KADRLAR BO'YICHA INSPEKTOR\n\n🏢 \"50-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Qashqadaryo viloyati, Qamashi tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 400 000 dan 1 600 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: G'AFUROVA NASIBA AXMEDOVNA\n+998332430173\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 26,
+     "type": "bold"
+    },
+    {
+     "offset": 392,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 440,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 473,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119371,
+    "url": "https://osonish.uz/vacancies/119371",
+    "kasb": "Kadrlar bo'yicha inspektor",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "Кашкадарьинская область, Камашинский район, населённый пункт Пасттал",
+    "title": "Kadrlar bo'yicha inspektor",
+    "org": "\"50-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Qamashi tumani",
+    "salary": "1 400 000 dan 1 600 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "G'AFUROVA NASIBA AXMEDOVNA",
+    "hr_phone": "+998 33 243 01 73",
+    "date": "21.10.2026",
+    "region_key": "qashqadaryo",
+    "region": "Qashqadaryo viloyati",
+    "is_region": true
+   }
+  },
+  "119394": {
+   "msg_id": 584,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MIJOZLAR BILAN ISHLASH BO'YICHA ALOQA MARKAZI SOTUVCHISI\n\n🏢 \"innogreen\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Buxoro shahar\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 800 000 dan 3 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YASHINOV ERKIN\n+998913116999\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 56,
+     "type": "bold"
+    },
+    {
+     "offset": 366,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 414,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 447,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119394,
+    "url": "https://osonish.uz/vacancies/119394",
+    "kasb": "Mijozlar bilan ishlash bo'yicha aloqa markazi sotuvchisi",
+    "slots": 5,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Бухара, махаллинский сход граждан Куксарай",
+    "title": "Mijozlar bilan ishlash bo'yicha aloqa markazi sotuvchisi",
+    "org": "\"innogreen\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Buxoro shahar",
+    "salary": "2 800 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yashinov Erkin",
+    "hr_phone": "+998 91 311 69 99",
+    "date": "21.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "119399": {
+   "msg_id": 585,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 AVTOMOBIL HAYDOVCHISI-EKSPEDITOR\n\n🏢 \"innogreen\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Buxoro shahar\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 3–5 yil\n\n💰 Maosh: 3 200 000 dan 4 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YASHINOV ERKIN\n+998913116999\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 32,
+     "type": "bold"
+    },
+    {
+     "offset": 335,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 383,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 416,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119399,
+    "url": "https://osonish.uz/vacancies/119399",
+    "kasb": "Avtomobil haydovchisi-ekspeditor",
+    "slots": 10,
+    "experience": "3-5 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "Бухара, махаллинский сход граждан Куксарай",
+    "title": "Avtomobil haydovchisi-ekspeditor",
+    "org": "\"innogreen\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Buxoro shahar",
+    "salary": "3 200 000 dan 4 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yashinov Erkin",
+    "hr_phone": "+998 91 311 69 99",
+    "date": "21.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "119401": {
+   "msg_id": 586,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 DARAXTLARNI PARVARISHLOVCHI ISHCHI\n\n🏢 \"xisobchi Agroiqtisod\" Xususiy Korxona\n\n📍 Toshkent viloyati, Parkent tumani\n\n👥 Bo'sh o'rinlar: 6 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 500 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: MANSUROVA SANAM MUQIMOVNA\n+998931681663\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 34,
+     "type": "bold"
+    },
+    {
+     "offset": 383,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 431,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 464,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119401,
+    "url": "https://osonish.uz/vacancies/119401",
+    "kasb": "Daraxtlarni parvarishlovchi ishchi",
+    "slots": 6,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Паркент, махаллинский сход граждан Гулбог",
+    "title": "Daraxtlarni parvarishlovchi ishchi",
+    "org": "\"xisobchi Agroiqtisod\" Xususiy Korxona",
+    "district": "Parkent tumani",
+    "salary": "2 500 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MANSUROVA SANAM MUQIMOVNA",
+    "hr_phone": "+998 93 168 16 63",
+    "date": "21.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "119402": {
+   "msg_id": 587,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 REKLAMA\n\n🏢 \"innogreen\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Buxoro shahar\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 3 000 000 dan 4 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YASHINOV ERKIN\n+998913116999\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 318,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 366,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 399,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119402,
+    "url": "https://osonish.uz/vacancies/119402",
+    "kasb": "Merchendayzer",
+    "slots": 10,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Бухара, махаллинский сход граждан Куксарай",
+    "title": "reklama",
+    "org": "\"innogreen\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Buxoro shahar",
+    "salary": "3 000 000 dan 4 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yashinov Erkin",
+    "hr_phone": "+998 91 311 69 99",
+    "date": "21.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "119405": {
+   "msg_id": 588,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 YUK TASHUVCHI\n\n🏢 \"innogreen\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Buxoro shahar\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 3 000 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YASHINOV ERKIN\n+998913116999\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 13,
+     "type": "bold"
+    },
+    {
+     "offset": 323,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 371,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 404,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119405,
+    "url": "https://osonish.uz/vacancies/119405",
+    "kasb": "Yuk tashuvchi",
+    "slots": 10,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Бухара, махаллинский сход граждан Куксарай",
+    "title": "Yuk tashuvchi",
+    "org": "\"innogreen\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Buxoro shahar",
+    "salary": "3 000 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yashinov Erkin",
+    "hr_phone": "+998 91 311 69 99",
+    "date": "21.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "119409": {
+   "msg_id": 589,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 SAVDO MARKAZLARI FARROSHI\n\n🏢 \"innogreen\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Buxoro shahar\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 700 000 dan 3 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YASHINOV ERKIN\n+998913116999\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 25,
+     "type": "bold"
+    },
+    {
+     "offset": 334,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 382,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 415,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119409,
+    "url": "https://osonish.uz/vacancies/119409",
+    "kasb": "Savdo markazlari farroshi",
+    "slots": 5,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Бухара, махаллинский сход граждан Куксарай",
+    "title": "Savdo markazlari farroshi",
+    "org": "\"innogreen\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Buxoro shahar",
+    "salary": "2 700 000 dan 3 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yashinov Erkin",
+    "hr_phone": "+998 91 311 69 99",
+    "date": "21.10.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "119412": {
+   "msg_id": 590,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 YORDAMCHI ISHCHI\n\n🏢 \"parkent Dil-El-Bek\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Toshkent viloyati, Parkent tumani\n\n👥 Bo'sh o'rinlar: 6 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 500 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: MAFTUNA NABIYEVA\n+998998517531\n\n🗓 E'lon sanasi: 21.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 369,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 417,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 450,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119412,
+    "url": "https://osonish.uz/vacancies/119412",
+    "kasb": "Yordamchi ishchi",
+    "slots": 6,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Паркент, махаллинский сход граждан Гулбог",
+    "title": "Yordamchi ishchi",
+    "org": "\"parkent Dil-El-Bek\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Parkent tumani",
+    "salary": "2 500 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Maftuna Nabiyeva",
+    "hr_phone": "+998 99 851 75 31",
+    "date": "21.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -6460,27 +6946,14 @@
   "536": "118416"
  },
  "regions": [
-  "toshkent_sh",
-  "toshkent_v",
-  "qoraqalpog",
-  "andijon",
-  "buxoro",
-  "jizzax",
-  "qashqadaryo",
-  "navoiy",
-  "namangan",
-  "samarqand",
-  "surxondaryo",
-  "sirdaryo",
-  "fargona",
-  "xorazm"
+  "namangan"
  ],
  "stats": {
-  "time": "21.10.2026 12:07",
-  "scanned": 0,
-  "sent": 0,
+  "time": "21.10.2026 12:55",
+  "scanned": 23,
+  "sent": 9,
   "errors": 0,
-  "total_sent": 123
+  "total_sent": 132
  },
  "fails": {},
  "retry": {},
