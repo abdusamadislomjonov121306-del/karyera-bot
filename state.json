@@ -1,6 +1,6 @@
 {
  "last_id": 119972,
- "offset": 596550226,
+ "offset": 596550227,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -7139,7 +7139,7 @@
   },
   "119972": {
    "msg_id": 622,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 KASBIY TA'LIM TASHKILOTLARIDA BOSHQA KASB TA'LIM USTALARI\n\n🏢 \"yangiqo'rg'on Tuman 1-Son Texnikumi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: NISHONBAYEV NOZIRJON TURSUNBAYEVICH\n+998939166923\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -7219,7 +7219,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "22.10.2026 15:19",
+  "time": "22.10.2026 15:25",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
