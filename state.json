@@ -1,6 +1,6 @@
 {
  "last_id": 119744,
- "offset": 596550221,
+ "offset": 596550222,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -7031,7 +7031,7 @@
   },
   "119727": {
    "msg_id": 614,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 PATRONAJ HAMSHIRA\n\n🏢 \"Norin Tuman Tibbiyot Birlashmasi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Norin tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: 2 000 000 dan 2 800 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ABDUVALI MAVLANOV XAYRULLAYEVICH\n+998951362321\n\n🗓 E'lon sanasi: 22.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -7165,9 +7165,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "22.10.2026 11:06",
-  "scanned": 19,
-  "sent": 3,
+  "time": "22.10.2026 11:12",
+  "scanned": 0,
+  "sent": 0,
   "errors": 0,
   "total_sent": 136
  },
