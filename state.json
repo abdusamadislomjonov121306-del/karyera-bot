@@ -1,6 +1,6 @@
 {
- "last_id": 120040,
- "offset": 596550228,
+ "last_id": 120047,
+ "offset": 596550229,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -7303,6 +7303,65 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "120046": {
+   "msg_id": 625,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 NAMANGAN VILOYATI, SOTUV MENEJERI (B2B SAVDO AGENTI)\n\n🏢 “agrobank” Aksiyadorlik Tijorat Banki\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 000 000 dan 9 000 000 so'mgacha\n\n📋 Ish turi: fuqarolik-huquqiy shartnoma asosida\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: osonish.uz orqali — https://osonish.uz/vacancies/120046\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 52,
+     "type": "bold"
+    },
+    {
+     "offset": 351,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 371,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 441,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 474,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120046,
+    "url": "https://osonish.uz/vacancies/120046",
+    "kasb": "Bank agenti",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Fuqarolik-huquqiy shartnoma asosida",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "",
+    "title": "Namangan viloyati, sotuv menejeri (B2B savdo agenti)",
+    "org": "“agrobank” Aksiyadorlik Tijorat Banki",
+    "district": "Namangan shahar",
+    "salary": "3 000 000 dan 9 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -7326,17 +7385,18 @@
   "474": "118076",
   "493": "118213",
   "504": "118213",
-  "536": "118416"
+  "536": "118416",
+  "626": "120046"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "22.10.2026 17:00",
-  "scanned": 0,
-  "sent": 0,
+  "time": "22.10.2026 17:06",
+  "scanned": 6,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 139
+  "total_sent": 140
  },
  "fails": {},
  "retry": {},
