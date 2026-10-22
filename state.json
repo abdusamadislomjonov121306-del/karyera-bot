@@ -1,6 +1,6 @@
 {
- "last_id": 120078,
- "offset": 596550234,
+ "last_id": 120081,
+ "offset": 596550235,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -7367,6 +7367,114 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "120080": {
+   "msg_id": 630,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QADOQLOVCHI\n\n🏢 \"runamtex\" Mas'uliyati Cheklangan Jamiyat Xorijiy Korxona\n\n📍 Namangan viloyati, To'raqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 7 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 500 000 dan 3 700 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: TOJIBAYEVA GULNOZA ABDULXAMIDOVNA\n+998996023005\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 11,
+     "type": "bold"
+    },
+    {
+     "offset": 393,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 441,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 474,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120080,
+    "url": "https://osonish.uz/vacancies/120080",
+    "kasb": "Qadoqlovchi",
+    "slots": 7,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманганская область, Туракурганский район, махаллинский сход граждан Юкори Мугултой",
+    "title": "Qadoqlovchi",
+    "org": "\"runamtex\" Mas'uliyati Cheklangan Jamiyat Xorijiy Korxona",
+    "district": "To'raqo'rg'on tumani",
+    "salary": "2 500 000 dan 3 700 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TOJIBAYEVA GULNOZA ABDULXAMIDOVNA",
+    "hr_phone": "+998 99 602 30 05",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "120081": {
+   "msg_id": 631,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 YUK TASHUVCHI\n\n🏢 \"runamtex\" Mas'uliyati Cheklangan Jamiyat Xorijiy Korxona\n\n📍 Namangan viloyati, To'raqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 4 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 3 500 000 dan 4 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: TOJIBAYEVA GULNOZA ABDULXAMIDOVNA\n+998996023005\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 13,
+     "type": "bold"
+    },
+    {
+     "offset": 395,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 443,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 476,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120081,
+    "url": "https://osonish.uz/vacancies/120081",
+    "kasb": "Yuk tashuvchi",
+    "slots": 4,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманганская область, Туракурганский район, махаллинский сход граждан Юкори Мугултой",
+    "title": "Yuk tashuvchi",
+    "org": "\"runamtex\" Mas'uliyati Cheklangan Jamiyat Xorijiy Korxona",
+    "district": "To'raqo'rg'on tumani",
+    "salary": "3 500 000 dan 4 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TOJIBAYEVA GULNOZA ABDULXAMIDOVNA",
+    "hr_phone": "+998 99 602 30 05",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -7396,11 +7504,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "22.10.2026 18:47",
-  "scanned": 0,
-  "sent": 0,
+  "time": "22.10.2026 18:53",
+  "scanned": 2,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 140
+  "total_sent": 142
  },
  "fails": {},
  "retry": {},
