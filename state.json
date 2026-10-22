@@ -1,5 +1,5 @@
 {
- "last_id": 120101,
+ "last_id": 120110,
  "offset": 596550235,
  "posts": {
   "116336": {
@@ -7475,6 +7475,222 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "120105": {
+   "msg_id": 632,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 G'ISHT TERUVCHI\n\n🏢 \"gazta'mirpardoz\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: MA'MUROV OYBEK ODILOVICH\n+998936281477\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 15,
+     "type": "bold"
+    },
+    {
+     "offset": 320,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 368,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 401,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120105,
+    "url": "https://osonish.uz/vacancies/120105",
+    "kasb": "Pechlar yonida navbatchi g'isht teruvchi (pechkachi)",
+    "slots": 10,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Namangan viloyati Chortoq tumani A.Navoiymfy2-uy",
+    "title": "G'isht teruvchi",
+    "org": "\"gazta'mirpardoz\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MA'MUROV OYBEK ODILOVICH",
+    "hr_phone": "+998 93 628 14 77",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "120106": {
+   "msg_id": 633,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ELEKTR-GAZ PAYVANDCHI\n\n🏢 \"gazta'mirpardoz\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: MA'MUROV OYBEK ODILOVICH\n+998936281477\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 21,
+     "type": "bold"
+    },
+    {
+     "offset": 326,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 374,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 407,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120106,
+    "url": "https://osonish.uz/vacancies/120106",
+    "kasb": "Elektr-gaz payvandchi",
+    "slots": 10,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Namangan viloyati Chortoq tumani A.Navoiymfy2-uy",
+    "title": "Elektr-gaz payvandchi",
+    "org": "\"gazta'mirpardoz\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MA'MUROV OYBEK ODILOVICH",
+    "hr_phone": "+998 93 628 14 77",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "120108": {
+   "msg_id": 634,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ELEKTR-GAZ PAYVANDCHI-KESUVCHI\n\n🏢 \"norin Sirdaryo Suv Havzasi\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 15 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: XAMRAYEV NOSIRJON SUYUMBEKOVICH\n+998701141776\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 353,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 401,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 434,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120108,
+    "url": "https://osonish.uz/vacancies/120108",
+    "kasb": "Elektr-gaz payvandchi-kesuvchi",
+    "slots": 15,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартакский район, городской посёлок Караскан, улица Янги Авлод, 1",
+    "title": "Elektr-gaz payvandchi-kesuvchi",
+    "org": "\"norin Sirdaryo Suv Havzasi\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XAMRAYEV NOSIRJON SUYUMBEKOVICH",
+    "hr_phone": "+998 70 114 17 76",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "120110": {
+   "msg_id": 635,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 YORDAMCHI ISHCHI\n\n🏢 \"norin Sirdaryo Suv Havzasi\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 20 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: XAMRAYEV NOSIRJON SUYUMBEKOVICH\n+998701141776\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 339,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 387,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 420,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120110,
+    "url": "https://osonish.uz/vacancies/120110",
+    "kasb": "Yordamchi ishchi",
+    "slots": 20,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартакский район, городской посёлок Караскан, улица Янги Авлод, 1",
+    "title": "Yordamchi ishchi",
+    "org": "\"norin Sirdaryo Suv Havzasi\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XAMRAYEV NOSIRJON SUYUMBEKOVICH",
+    "hr_phone": "+998 70 114 17 76",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -7504,11 +7720,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "22.10.2026 21:44",
-  "scanned": 0,
-  "sent": 0,
+  "time": "22.10.2026 21:51",
+  "scanned": 4,
+  "sent": 4,
   "errors": 0,
-  "total_sent": 142
+  "total_sent": 146
  },
  "fails": {},
  "retry": {},
