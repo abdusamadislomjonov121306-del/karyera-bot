@@ -1,6 +1,6 @@
 {
- "last_id": 119698,
- "offset": 596550212,
+ "last_id": 119744,
+ "offset": 596550221,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -6974,6 +6974,168 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "119724": {
+   "msg_id": 613,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 FARROSHI\n\n🏢 \"norin Tuman Tibbiyot Birlashmasi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Norin tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 4 kun dam, 08:00–17:00\n\n📞 Bog'lanish: ABDUVALI MAVLANOV XAYRULLAYEVICH\n+998951362321\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 8,
+     "type": "bold"
+    },
+    {
+     "offset": 376,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 424,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 457,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119724,
+    "url": "https://osonish.uz/vacancies/119724",
+    "kasb": "Ofis farroshi",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "4/4, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманганская область, Нарынский район, Хаккулабад, махаллинский сход граждан Янгитонг, улица Узбекистон, 46",
+    "title": "farroshi",
+    "org": "\"norin Tuman Tibbiyot Birlashmasi\" Davlat Muassasasi",
+    "district": "Norin tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ABDUVALI MAVLANOV XAYRULLAYEVICH",
+    "hr_phone": "+998 95 136 23 21",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "119727": {
+   "msg_id": 614,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 PATRONAJ HAMSHIRA\n\n🏢 \"Norin Tuman Tibbiyot Birlashmasi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Norin tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: 2 000 000 dan 2 800 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ABDUVALI MAVLANOV XAYRULLAYEVICH\n+998951362321\n\n🗓 E'lon sanasi: 22.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 17,
+     "type": "bold"
+    },
+    {
+     "offset": 348,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 395,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 428,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119727,
+    "url": "https://osonish.uz/vacancies/119727",
+    "kasb": "Muassasalarga biriktirilgan hamshiralar",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Наманганская область, Нарынский район, Хаккулабад, махаллинский сход граждан Янгитонг, улица Узбекистон, 46",
+    "title": "patronaj hamshira",
+    "org": "\"norin Tuman Tibbiyot Birlashmasi\" Davlat Muassasasi",
+    "district": "Norin tumani",
+    "salary": "2 000 000 dan 2 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ABDUVALI MAVLANOV XAYRULLAYEVICH",
+    "hr_phone": "+998 95 136 23 21",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "119729": {
+   "msg_id": 615,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 73-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 1 800 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:00–16:00\n\n📞 Bog'lanish: NURIDDINOV LUTFULLO XABIBULLAYEVICH\n+998994889430\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 464,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 512,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 545,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119729,
+    "url": "https://osonish.uz/vacancies/119729",
+    "kasb": "Ta'lim tashkilotlari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 07:00 - 16:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Yangi Namangan tumani Sohil MFY Ziyoli ko'chasi1-uy",
+    "title": "Ta'lim tashkilotlari farroshi",
+    "org": "\"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 73-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 500 000 dan 1 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "NURIDDINOV LUTFULLO XABIBULLAYEVICH",
+    "hr_phone": "+998 99 488 94 30",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -7003,11 +7165,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "22.10.2026 10:37",
-  "scanned": 0,
-  "sent": 0,
+  "time": "22.10.2026 11:06",
+  "scanned": 19,
+  "sent": 3,
   "errors": 0,
-  "total_sent": 133
+  "total_sent": 136
  },
  "fails": {},
  "retry": {},
