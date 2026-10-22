@@ -1,6 +1,6 @@
 {
- "last_id": 119972,
- "offset": 596550227,
+ "last_id": 119995,
+ "offset": 596550228,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -7190,6 +7190,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "119975": {
+   "msg_id": 623,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 YO'L QURILISHIDA ISHCHI\n\n🏢 \"chortoq Tuman Yo'llardan Foydalanish\" Davlat Muassasasi\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: PO'LATOV AYUBXON PAZLIDDIN O'G'LI\n+998931333393\n\n🗓 E'lon sanasi: 22.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 23,
+     "type": "bold"
+    },
+    {
+     "offset": 376,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 424,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 457,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 119975,
+    "url": "https://osonish.uz/vacancies/119975",
+    "kasb": "Yo'l qurilishida ishchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманган,Чортоқ туман, Бешкапа МФЙ",
+    "title": "Yo'l qurilishida ishchi",
+    "org": "\"chortoq Tuman Yo'llardan Foydalanish\" Davlat Muassasasi",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "PO'LATOV AYUBXON PAZLIDDIN O'G'LI",
+    "hr_phone": "+998 93 133 33 93",
+    "date": "22.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -7219,11 +7273,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "22.10.2026 15:31",
-  "scanned": 0,
-  "sent": 0,
+  "time": "22.10.2026 15:37",
+  "scanned": 17,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 137
+  "total_sent": 138
  },
  "fails": {},
  "retry": {},
