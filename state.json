@@ -1,6 +1,6 @@
 {
- "last_id": 120672,
- "offset": 596550252,
+ "last_id": 120687,
+ "offset": 596550253,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -7853,6 +7853,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "120687": {
+   "msg_id": 649,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 XIZMAT XONALARI FARROSHI\n\n🏢 \"uychi Tuman Veterinariya Va Chorvachilikni Rivojlantirish Bo'limi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Uychi tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 360 000 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–17:00\n\n📞 Bog'lanish: 32711642140010\n+998945088356\n\n🗓 E'lon sanasi: 23.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 24,
+     "type": "bold"
+    },
+    {
+     "offset": 399,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 447,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 480,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120687,
+    "url": "https://osonish.uz/vacancies/120687",
+    "kasb": "Xizmat xonalari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "41.025287,71.852215",
+    "title": "Xizmat xonalari farroshi",
+    "org": "\"uychi Tuman Veterinariya Va Chorvachilikni Rivojlantirish Bo'limi\" Davlat Muassasasi",
+    "district": "Uychi tumani",
+    "salary": "1 360 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "32711642140010",
+    "hr_phone": "+998 94 508 83 56",
+    "date": "23.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -7882,11 +7936,12 @@
   "namangan"
  ],
  "stats": {
-  "time": "23.10.2026 16:18",
-  "scanned": 0,
-  "sent": 0,
-  "errors": 0,
-  "total_sent": 149
+  "time": "23.10.2026 16:24",
+  "scanned": 7,
+  "sent": 1,
+  "errors": 2,
+  "total_sent": 150,
+  "last_error": "120675: HTTPSConnectionPool(host='osonish.uz', port=443): Max retries exceeded with url: /vacancies/120675 (Caused by ConnectTimeoutError(<HTTPSConnection(host='osonish.uz', port=443) at 0x7f21c89318e0>, 'Connection to osonish.uz timed out. (connect timeout=30)'))"
  },
  "fails": {},
  "retry": {},
