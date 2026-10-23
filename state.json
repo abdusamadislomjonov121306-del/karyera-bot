@@ -1,5 +1,5 @@
 {
- "last_id": 120491,
+ "last_id": 120516,
  "offset": 596550247,
  "posts": {
   "116336": {
@@ -7774,11 +7774,12 @@
   "namangan"
  ],
  "stats": {
-  "time": "23.10.2026 13:46",
-  "scanned": 0,
+  "time": "23.10.2026 13:53",
+  "scanned": 7,
   "sent": 0,
-  "errors": 0,
-  "total_sent": 147
+  "errors": 1,
+  "total_sent": 147,
+  "last_error": "120494: HTTPSConnectionPool(host='osonish.uz', port=443): Max retries exceeded with url: /vacancies/120494 (Caused by ConnectTimeoutError(<HTTPSConnection(host='osonish.uz', port=443) at 0x7f1c080967b0>, 'Connection to osonish.uz timed out. (connect timeout=30)'))"
  },
  "fails": {},
  "retry": {},
