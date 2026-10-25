@@ -1,6 +1,6 @@
 {
  "last_id": 120905,
- "offset": 596550263,
+ "offset": 596550271,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -7987,23 +7987,10 @@
   "536": "118416"
  },
  "regions": [
-  "toshkent_sh",
-  "toshkent_v",
-  "qoraqalpog",
-  "andijon",
-  "buxoro",
-  "jizzax",
-  "qashqadaryo",
-  "navoiy",
-  "namangan",
-  "samarqand",
-  "surxondaryo",
-  "sirdaryo",
-  "fargona",
-  "xorazm"
+  "namangan"
  ],
  "stats": {
-  "time": "25.10.2026 08:03",
+  "time": "25.10.2026 08:09",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
