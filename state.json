@@ -1,6 +1,6 @@
 {
  "last_id": 121281,
- "offset": 596550313,
+ "offset": 596550318,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -8413,11 +8413,21 @@
    "msg_id": 695,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 TEXNIK-ELEKTRIK\n\n🏢 \"namangan Sement\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chust tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 3–5 yil\n\n💰 Maosh: 5 720 000 dan 7 410 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: TO'RAYEV BAHODIR NASRIDINOVICH\n+998500885331\n\n🗓 E'lon sanasi: 26.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 TEXNIK-ELEKTRIK\n\n🏢 \"Namangan Sement\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chust tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 3–5 yil\n\n💰 Maosh: 5 720 000 dan 7 410 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: TO'RAYEV BAHODIR NASRIDINOVICH\n+998500885331\n\n🗓 E'lon sanasi: 26.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
      "offset": 3,
      "length": 15,
+     "type": "bold"
+    },
+    {
+     "offset": 192,
+     "length": 9,
+     "type": "bold"
+    },
+    {
+     "offset": 206,
+     "length": 9,
      "type": "bold"
     },
     {
@@ -8426,12 +8436,12 @@
      "type": "phone_number"
     },
     {
-     "offset": 387,
+     "offset": 386,
      "length": 29,
      "type": "bold"
     },
     {
-     "offset": 420,
+     "offset": 419,
      "length": 30,
      "type": "url"
     }
@@ -8485,15 +8495,18 @@
   "474": "118076",
   "493": "118213",
   "504": "118213",
-  "536": "118416"
+  "536": "118416",
+  "696": "121255",
+  "697": "121255",
+  "698": "121255"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "26.10.2026 16:21",
-  "scanned": 37,
-  "sent": 1,
+  "time": "26.10.2026 16:30",
+  "scanned": 0,
+  "sent": 0,
   "errors": 0,
   "total_sent": 160
  },
