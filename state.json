@@ -1,6 +1,6 @@
 {
  "last_id": 121185,
- "offset": 596550310,
+ "offset": 596550313,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -8288,7 +8288,7 @@
   },
   "121158": {
    "msg_id": 685,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 TOZALOVCHI\n\n🏢 \"Yangiqo'rg'on Tuman Obodonlashtirish Boshqarmasi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: SOTIVOLDIYEV BEXZOD NURMIRZAYEVICH\n+998999780108\n\n🗓 E'lon sanasi: 26.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -8344,25 +8344,40 @@
    "msg_id": 686,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 MUHANDIS-MEXANIK\n\n🏢 \"Yangiqo'rg'on Tuman Obodonlashtirish Boshqarmasi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: SOTIVOLDIYEV BEXZOD NURMIRZAYEVICH\n+998999780108\n\n🗓 E'lon sanasi: 26.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "MUHANDIS-MEXANIK va TOZALOVCHI\n\n🏢 \"Yangiqo'rg'on Tuman Obodonlashtirish Boshqarmasi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\nMUHANDIS-MEXANIK\n👥 Bo'sh o'rinlar: 1 ta\n\nTOZALOVCHI\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: SOTIVOLDIYEV BEXZOD NURMIRZAYEVICH\n+998999780108\n\n🗓 E'lon sanasi: 26.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
+     "offset": 0,
      "length": 16,
      "type": "bold"
     },
     {
-     "offset": 375,
+     "offset": 20,
+     "length": 10,
+     "type": "bold"
+    },
+    {
+     "offset": 149,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 191,
+     "length": 10,
+     "type": "bold"
+    },
+    {
+     "offset": 439,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 422,
+     "offset": 486,
      "length": 29,
      "type": "bold"
     },
     {
-     "offset": 455,
+     "offset": 519,
      "length": 30,
      "type": "url"
     }
@@ -8422,7 +8437,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "26.10.2026 15:50",
+  "time": "26.10.2026 15:56",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
