@@ -1,6 +1,6 @@
 {
- "last_id": 120934,
- "offset": 596550285,
+ "last_id": 120977,
+ "offset": 596550304,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -7961,6 +7961,330 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "120939": {
+   "msg_id": 671,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 MATEMATIKA (ALGEBRA VA GEOMETRIYA) FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"samarqand Shahar 82-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Samarqand shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 200 000 dan 1 600 000 so'mgacha\n\n📋 Ish turi: muddatli\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: NUSRATOV ISOMIDDIN UKTAMOVICH\n+998995910936\n\n🗓 E'lon sanasi: 26.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 62,
+     "type": "bold"
+    },
+    {
+     "offset": 421,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 469,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 502,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120939,
+    "url": "https://osonish.uz/vacancies/120939",
+    "kasb": "Matematika (algebra va geometriya) fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Muddatli",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Самарканд, Iftixor ko'chasi, 182А",
+    "title": "Matematika (algebra va geometriya) fanidan maktab o'qituvchisi",
+    "org": "\"samarqand Shahar 82-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Samarqand shahar",
+    "salary": "1 200 000 dan 1 600 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "NUSRATOV ISOMIDDIN UKTAMOVICH",
+    "hr_phone": "+998 99 591 09 36",
+    "date": "26.10.2026",
+    "region_key": "samarqand",
+    "region": "Samarqand viloyati",
+    "is_region": true
+   }
+  },
+  "120941": {
+   "msg_id": 673,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 ХЎЖАЛИК БЕКАСИ\n\n🏢 \"paxtachi Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 33-umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Samarqand viloyati, Paxtachi tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 800 000 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 09:00–17:00\n\n📞 Bog'lanish: KILICHEVA GULZODA SHONAZAROVNA\n+998979212981\n\n🗓 E'lon sanasi: 26.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 14,
+     "type": "bold"
+    },
+    {
+     "offset": 459,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 507,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 540,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120941,
+    "url": "https://osonish.uz/vacancies/120941",
+    "kasb": "Xo'jalik bekasi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 09:00 - 17:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "Самарканд вилояти Пахтачи тумани Ургуч",
+    "title": "Хўжалик бекаси",
+    "org": "\"paxtachi Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 33-umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Paxtachi tumani",
+    "salary": "1 800 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "KILICHEVA GULZODA SHONAZAROVNA",
+    "hr_phone": "+998 97 921 29 81",
+    "date": "26.10.2026",
+    "region_key": "samarqand",
+    "region": "Samarqand viloyati",
+    "is_region": true
+   }
+  },
+  "120944": {
+   "msg_id": 674,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"bo'ka Tuman 29-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Bo'ka tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 361 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: GUZENBAYEVA SHOLPANAY RISALIYEVNA\n+998930856474\n\n🗓 E'lon sanasi: 26.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 351,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 399,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 432,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120944,
+    "url": "https://osonish.uz/vacancies/120944",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Ташкентская область, Букинский район, махаллинский сход граждан Кулдирок",
+    "title": "O't yoquvchi",
+    "org": "\"bo'ka Tuman 29-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Bo'ka tumani",
+    "salary": "1 361 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "GUZENBAYEVA SHOLPANAY RISALIYEVNA",
+    "hr_phone": "+998 93 085 64 74",
+    "date": "26.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "120949": {
+   "msg_id": 675,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 INGLIZ TILI FANI O'QITUVCHISI\n\n🏢 \"bo'ka Tuman 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Bo'ka tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 500 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 4 kun ish, 3 kun dam, 08:00–16:00\n\n📞 Bog'lanish: BOYMIRZAYEV ZIYODULLA XOLBO'TAYEVICH\n+998953334468\n\n🗓 E'lon sanasi: 26.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 414,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 462,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 495,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120949,
+    "url": "https://osonish.uz/vacancies/120949",
+    "kasb": "Umumiy aviatsiya bo'yicha ingliz tilini bilish darajasini aniqlash bo'yicha davlat reyteri",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "4/3, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Букинский район, населённый пункт Чигатай, 5-й проезд Ок-Сув, 7",
+    "title": "Ingliz tili fani o'qituvchisi",
+    "org": "\"bo'ka Tuman 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Bo'ka tumani",
+    "salary": "1 500 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "BOYMIRZAYEV ZIYODULLA XOLBO'TAYEVICH",
+    "hr_phone": "+998 95 333 44 68",
+    "date": "26.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "120950": {
+   "msg_id": 678,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"49-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Bekobod tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 300 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: MUXAMEDOVA JANNATOY TUYCHIYEVNA\n+998948270330\n\n🗓 E'lon sanasi: 26.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 339,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 387,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 420,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120950,
+    "url": "https://osonish.uz/vacancies/120950",
+    "kasb": "O't yoquvchi",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Ташкентская область, Бекабадский район, населённый пункт Пахтакор",
+    "title": "O't yoquvchi",
+    "org": "\"49-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Bekobod tumani",
+    "salary": "1 300 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Muxamedova Jannatoy Tuychiyevna",
+    "hr_phone": "+998 94 827 03 30",
+    "date": "26.10.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "120965": {
+   "msg_id": 680,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"amudaryo Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 45-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassas'asi\n\n📍 Qoraqalpog'iston Respublikasi, Amudaryo tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 200 000 dan 1 350 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: KAROMOVA DILRABO\n+998885078900\n\n🗓 E'lon sanasi: 26.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 431,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 479,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 512,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 120965,
+    "url": "https://osonish.uz/vacancies/120965",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Республика Каракалпакстан, Амударьинский район, городской посёлок Джумуртау",
+    "title": "O't yoquvchi",
+    "org": "\"amudaryo Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 45-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassas'asi",
+    "district": "Amudaryo tumani",
+    "salary": "1 200 000 dan 1 350 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Karomova Dilrabo",
+    "hr_phone": "+998 88 507 89 00",
+    "date": "26.10.2026",
+    "region_key": "qoraqalpog",
+    "region": "Qoraqalpog'iston Respublikasi",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -7987,27 +8311,14 @@
   "536": "118416"
  },
  "regions": [
-  "toshkent_sh",
-  "toshkent_v",
-  "qoraqalpog",
-  "andijon",
-  "buxoro",
-  "jizzax",
-  "qashqadaryo",
-  "navoiy",
-  "namangan",
-  "samarqand",
-  "surxondaryo",
-  "sirdaryo",
-  "fargona",
-  "xorazm"
+  "namangan"
  ],
  "stats": {
-  "time": "26.10.2026 10:34",
-  "scanned": 0,
-  "sent": 0,
+  "time": "26.10.2026 10:40",
+  "scanned": 21,
+  "sent": 6,
   "errors": 0,
-  "total_sent": 151
+  "total_sent": 157
  },
  "fails": {},
  "retry": {},
