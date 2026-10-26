@@ -1,6 +1,6 @@
 {
- "last_id": 121281,
- "offset": 596550318,
+ "last_id": 121304,
+ "offset": 596550320,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -8472,6 +8472,65 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "121304": {
+   "msg_id": 701,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 KRAN MASHINISTI (KRANCHI)\n\n🏢 \"tai Chang Special Steel\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona\n\n📍 Namangan viloyati, Chust tumani\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 500 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: osonish.uz orqali — https://osonish.uz/vacancies/121304\n\n🗓 E'lon sanasi: 26.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 25,
+     "type": "bold"
+    },
+    {
+     "offset": 362,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 382,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 452,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 485,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121304,
+    "url": "https://osonish.uz/vacancies/121304",
+    "kasb": "Kran mashinisti (kranchi)",
+    "slots": 5,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Erkak",
+    "address": "",
+    "title": "Kran mashinisti (kranchi)",
+    "org": "\"tai Chang Special Steel\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona",
+    "district": "Chust tumani",
+    "salary": "3 500 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "26.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -8498,17 +8557,18 @@
   "536": "118416",
   "696": "121255",
   "697": "121255",
-  "698": "121255"
+  "698": "121255",
+  "702": "121304"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "26.10.2026 16:49",
-  "scanned": 0,
-  "sent": 0,
+  "time": "26.10.2026 16:55",
+  "scanned": 1,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 160
+  "total_sent": 161
  },
  "fails": {},
  "retry": {},
