@@ -1,6 +1,6 @@
 {
- "last_id": 121146,
- "offset": 596550304,
+ "last_id": 121162,
+ "offset": 596550310,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -8285,6 +8285,114 @@
     "region": "Qoraqalpog'iston Respublikasi",
     "is_region": true
    }
+  },
+  "121158": {
+   "msg_id": 685,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TOZALOVCHI\n\n🏢 \"Yangiqo'rg'on Tuman Obodonlashtirish Boshqarmasi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: SOTIVOLDIYEV BEXZOD NURMIRZAYEVICH\n+998999780108\n\n🗓 E'lon sanasi: 26.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 10,
+     "type": "bold"
+    },
+    {
+     "offset": 369,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 416,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 449,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121158,
+    "url": "https://osonish.uz/vacancies/121158",
+    "kasb": "Fasad tozalovchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, городской посёлок Янгикурган, Mustaqillik ko'chasi, 1",
+    "title": "Tozalovchi",
+    "org": "\"yangiqo'rg'on Tuman Obodonlashtirish Boshqarmasi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "26.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "121159": {
+   "msg_id": 686,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MUHANDIS-MEXANIK\n\n🏢 \"Yangiqo'rg'on Tuman Obodonlashtirish Boshqarmasi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: SOTIVOLDIYEV BEXZOD NURMIRZAYEVICH\n+998999780108\n\n🗓 E'lon sanasi: 26.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 375,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 422,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 455,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121159,
+    "url": "https://osonish.uz/vacancies/121159",
+    "kasb": "Avtomobillar bo'yicha muhandis-mexanik",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, городской посёлок Янгикурган, Mustaqillik ko'chasi, 1",
+    "title": "muhandis-mexanik",
+    "org": "\"yangiqo'rg'on Tuman Obodonlashtirish Boshqarmasi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SOTIVOLDIYEV BEXZOD NURMIRZAYEVICH",
+    "hr_phone": "+998 99 978 01 08",
+    "date": "26.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -8314,11 +8422,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "26.10.2026 14:34",
-  "scanned": 0,
-  "sent": 0,
+  "time": "26.10.2026 14:40",
+  "scanned": 5,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 157
+  "total_sent": 159
  },
  "fails": {},
  "retry": {},
