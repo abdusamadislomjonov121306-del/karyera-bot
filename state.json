@@ -1,6 +1,6 @@
 {
  "last_id": 121662,
- "offset": 596550336,
+ "offset": 596550338,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -8634,25 +8634,15 @@
    "msg_id": 711,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 46-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 6 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ЁДГОРБЕК\n+998913412925\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"Namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 46-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 6 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ЁДГОРБЕК\n+998913412925\n\n🗓 E'lon sanasi: 27.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
-    {
-     "offset": 3,
-     "length": 12,
-     "type": "bold"
-    },
     {
      "offset": 355,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 403,
-     "length": 29,
-     "type": "bold"
-    },
-    {
-     "offset": 436,
+     "offset": 435,
      "length": 30,
      "type": "url"
     }
@@ -8824,9 +8814,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "27.10.2026 16:51",
-  "scanned": 6,
-  "sent": 1,
+  "time": "27.10.2026 16:58",
+  "scanned": 0,
+  "sent": 0,
   "errors": 0,
   "total_sent": 166
  },
