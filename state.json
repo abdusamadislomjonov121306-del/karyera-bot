@@ -1,6 +1,6 @@
 {
- "last_id": 121662,
- "offset": 596550342,
+ "last_id": 121669,
+ "offset": 596550344,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -8761,6 +8761,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "121665": {
+   "msg_id": 720,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"Namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 3-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: MAMATQULOVA XURSHIDA OLIMJANOVNA\n+998500531986\n\n🗓 E'lon sanasi: 27.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 414,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 461,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 494,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121665,
+    "url": "https://osonish.uz/vacancies/121665",
+    "kasb": "Ta'lim tashkilotlari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Axsi ko'cha 73 uy",
+    "title": "Ta'lim tashkilotlari farroshi",
+    "org": "\"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 3-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Namangan shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MAMATQULOVA XURSHIDA OLIMJANOVNA",
+    "hr_phone": "+998 50 053 19 86",
+    "date": "27.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -8794,11 +8848,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "27.10.2026 17:04",
-  "scanned": 0,
-  "sent": 0,
+  "time": "27.10.2026 17:10",
+  "scanned": 2,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 166
+  "total_sent": 167
  },
  "fails": {},
  "retry": {},
