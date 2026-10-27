@@ -1,5 +1,5 @@
 {
- "last_id": 121640,
+ "last_id": 121656,
  "offset": 596550336,
  "posts": {
   "116336": {
@@ -8629,6 +8629,114 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "121654": {
+   "msg_id": 711,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 46-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 6 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ЁДГОРБЕК\n+998913412925\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 355,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 403,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 436,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121654,
+    "url": "https://osonish.uz/vacancies/121654",
+    "kasb": "O't yoquvchi",
+    "slots": 6,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманган шахар сувживоз уй 12",
+    "title": "O't yoquvchi",
+    "org": "\"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 46-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Namangan shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Ёдгорбек",
+    "hr_phone": "+998 91 341 29 25",
+    "date": "27.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "121655": {
+   "msg_id": 712,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KUTUBXONA XODIMI\n\n🏢 \"namangan Davlat Texnika Universitetining 2-Son Akademik Litseyi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 1 000 000 dan 1 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: SULTANOV BAXTIYOR ALIMJANOVICH\n+998883565609\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 411,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 459,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 492,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121655,
+    "url": "https://osonish.uz/vacancies/121655",
+    "kasb": "Kutubxona xodimi",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Наманганская область, Наманган, 2-й микрорайон",
+    "title": "Kutubxona xodimi",
+    "org": "\"namangan Davlat Texnika Universitetining 2-Son Akademik Litseyi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "1 000 000 dan 1 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SULTANOV BAXTIYOR ALIMJANOVICH",
+    "hr_phone": "+998 88 356 56 09",
+    "date": "27.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -8662,11 +8770,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "27.10.2026 16:33",
-  "scanned": 0,
-  "sent": 0,
+  "time": "27.10.2026 16:39",
+  "scanned": 11,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 163
+  "total_sent": 165
  },
  "fails": {},
  "retry": {},
