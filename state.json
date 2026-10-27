@@ -1,6 +1,6 @@
 {
- "last_id": 121547,
- "offset": 596550333,
+ "last_id": 121579,
+ "offset": 596550334,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -8531,6 +8531,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "121571": {
+   "msg_id": 707,
+   "status": "posted",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIM TASHKILOTI MUSIQA RAHBARI\n\n🏢 \"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 47-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Norin tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: МАМАДАЛИЕВА ДИЛОРАМ\n+998948808853\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 44,
+     "type": "bold"
+    },
+    {
+     "offset": 442,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 490,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 523,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121571,
+    "url": "https://osonish.uz/vacancies/121571",
+    "kasb": "Maktabgacha ta'lim tashkiloti musiqa rahbari",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Норин тумани Бойовул МФЙ",
+    "title": "Maktabgacha ta'lim tashkiloti musiqa rahbari",
+    "org": "\"norin Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 47-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Norin tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "МАМАДАЛИЕВА ДИЛОРАМ",
+    "hr_phone": "+998 94 880 88 53",
+    "date": "27.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -8564,11 +8618,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "27.10.2026 14:45",
-  "scanned": 0,
-  "sent": 0,
+  "time": "27.10.2026 14:51",
+  "scanned": 14,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 161
+  "total_sent": 162
  },
  "fails": {},
  "retry": {},
