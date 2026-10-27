@@ -1,5 +1,5 @@
 {
- "last_id": 121656,
+ "last_id": 121662,
  "offset": 596550336,
  "posts": {
   "116336": {
@@ -8737,6 +8737,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "121658": {
+   "msg_id": 713,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ISH YURITUVCHI\n\n🏢 \"namangan Davlat Texnika Universitetining 2-Son Akademik Litseyi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 800 000 dan 1 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: SULTANOV BAXTIYOR ALIMJANOVICH\n+998883565609\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 14,
+     "type": "bold"
+    },
+    {
+     "offset": 414,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 462,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 495,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121658,
+    "url": "https://osonish.uz/vacancies/121658",
+    "kasb": "Idish yuvuvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманганская область, Наманган, 2-й микрорайон",
+    "title": "Ish yurituvchi",
+    "org": "\"namangan Davlat Texnika Universitetining 2-Son Akademik Litseyi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "800 000 dan 1 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SULTANOV BAXTIYOR ALIMJANOVICH",
+    "hr_phone": "+998 88 356 56 09",
+    "date": "27.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -8770,11 +8824,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "27.10.2026 16:45",
-  "scanned": 0,
-  "sent": 0,
+  "time": "27.10.2026 16:51",
+  "scanned": 6,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 165
+  "total_sent": 166
  },
  "fails": {},
  "retry": {},
