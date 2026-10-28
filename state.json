@@ -1,6 +1,6 @@
 {
  "last_id": 121741,
- "offset": 596550375,
+ "offset": 596550380,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -8982,7 +8982,7 @@
    "msg_id": 738,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 AVTOMOBIL HAYDOVCHISI (YENGIL)\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 09:00–18:00\n\n📞 Bog'lanish: D.TUYCHIBAYEV\n+998902611331\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 AVTOMOBIL HAYDOVCHISI (YENGIL)\n\n🏢 \"Davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 09:00–18:00\n\n📞 Bog'lanish: D.TUYCHIBAYEV\n+998902611331\n\n🗓 E'lon sanasi: 27.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
      "offset": 3,
@@ -8995,12 +8995,12 @@
      "type": "phone_number"
     },
     {
-     "offset": 433,
+     "offset": 432,
      "length": 29,
      "type": "bold"
     },
     {
-     "offset": 466,
+     "offset": 465,
      "length": 30,
      "type": "url"
     }
@@ -9442,7 +9442,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "28.10.2026 10:45",
+  "time": "28.10.2026 10:51",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
