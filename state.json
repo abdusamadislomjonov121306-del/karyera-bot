@@ -1,5 +1,5 @@
 {
- "last_id": 121669,
+ "last_id": 121741,
  "offset": 596550370,
  "posts": {
   "116336": {
@@ -8815,6 +8815,600 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "121680": {
+   "msg_id": 735,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'QUV ISHLARI KOORDINATORI\n\n🏢 \"benefit Voyage\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Samarqand shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: OZOD\n+998932331833\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 26,
+     "type": "bold"
+    },
+    {
+     "offset": 312,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 360,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 393,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121680,
+    "url": "https://osonish.uz/vacancies/121680",
+    "kasb": "O'quv ishlari koordinatori",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "Samarqand shahri",
+    "title": "O'quv ishlari koordinatori",
+    "org": "\"benefit Voyage\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Samarqand shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Ozod",
+    "hr_phone": "+998 93 233 18 33",
+    "date": "27.10.2026",
+    "region_key": "samarqand",
+    "region": "Samarqand viloyati",
+    "is_region": true
+   }
+  },
+  "121682": {
+   "msg_id": 736,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ИШЧИ\n\n🏢 \"ko'rkam Diyor Msk1\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Sirdaryo viloyati, Oqoltin tumani\n\n👥 Bo'sh o'rinlar: 150 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 360 000 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 09:00–18:00\n\n📞 Bog'lanish: DEXKANOVA BARNO MAMARAIMOVNA\n+998940710473\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 4,
+     "type": "bold"
+    },
+    {
+     "offset": 363,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 411,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 444,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121682,
+    "url": "https://osonish.uz/vacancies/121682",
+    "kasb": "Yordamchi ishchi",
+    "slots": 150,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 09:00 - 18:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Сырдарьинская область, Акалтынский район, городской посёлок Сардоба, улица Файз",
+    "title": "ИШЧИ",
+    "org": "\"ko'rkam Diyor Msk1\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Oqoltin tumani",
+    "salary": "1 360 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "DEXKANOVA BARNO MAMARAIMOVNA",
+    "hr_phone": "+998 94 071 04 73",
+    "date": "27.10.2026",
+    "region_key": "sirdaryo",
+    "region": "Sirdaryo viloyati",
+    "is_region": true
+   }
+  },
+  "121684": {
+   "msg_id": 737,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"40-umumiy O'rta Ta'lim Maktabi \" Davlat Muassasasi\n\n📍 Qashqadaryo viloyati, Shaxrisabz tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 so'mdan boshlab\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 06:00–04:00\n\n📞 Bog'lanish: XAYRULLAYEV AZAMAT NURBOBOYEVICH\n+998888011675\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 365,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 413,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 446,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121684,
+    "url": "https://osonish.uz/vacancies/121684",
+    "kasb": "O't yoquvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 06:00 - 04:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Кашкадарьинская область, Шахрисабзский район, населённый пункт Катаган",
+    "title": "O't yoquvchi",
+    "org": "\"40-umumiy O'rta Ta'lim Maktabi \" Davlat Muassasasi",
+    "district": "Shaxrisabz tumani",
+    "salary": "1 500 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XAYRULLAYEV AZAMAT NURBOBOYEVICH",
+    "hr_phone": "+998 88 801 16 75",
+    "date": "27.10.2026",
+    "region_key": "qashqadaryo",
+    "region": "Qashqadaryo viloyati",
+    "is_region": true
+   }
+  },
+  "121685": {
+   "msg_id": 738,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 AVTOMOBIL HAYDOVCHISI (YENGIL)\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 09:00–18:00\n\n📞 Bog'lanish: D.TUYCHIBAYEV\n+998902611331\n\n🗓 E'lon sanasi: 27.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 385,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 433,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 466,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121685,
+    "url": "https://osonish.uz/vacancies/121685",
+    "kasb": "Avtomobil haydovchisi (yengil)",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 09:00 - 18:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Navbahor MFY",
+    "title": "Avtomobil haydovchisi (yengil)",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "D.Tuychibayev",
+    "hr_phone": "+998 90 261 13 31",
+    "date": "27.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "121704": {
+   "msg_id": 739,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"9-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Surxondaryo viloyati, Sariosiyo tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: BOBOYEVA GULRUXSOR AXMADJONOVNA\n+998930716377\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 339,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 387,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 420,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121704,
+    "url": "https://osonish.uz/vacancies/121704",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Сурхандарьинская область, Сариасийский район, Шаргунь",
+    "title": "Qorovul",
+    "org": "\"9-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Sariosiyo tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "BOBOYEVA GULRUXSOR AXMADJONOVNA",
+    "hr_phone": "+998 93 071 63 77",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "121713": {
+   "msg_id": 740,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 INFORMATIKA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"surxondaryo Viloyati Angor Tumani 9-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Surxondaryo viloyati, Angor tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 000 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: SUVONOVA HANIFA SHERNAZAROVNA\n+998915841366\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 39,
+     "type": "bold"
+    },
+    {
+     "offset": 446,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 494,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 527,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121713,
+    "url": "https://osonish.uz/vacancies/121713",
+    "kasb": "Informatika fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Surxondaryo viloyati Angor tumani 9-maktab",
+    "title": "Informatika fanidan maktab o'qituvchisi",
+    "org": "\"surxondaryo Viloyati Angor Tumani 9-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Angor tumani",
+    "salary": "2 000 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SUVONOVA HANIFA SHERNAZAROVNA",
+    "hr_phone": "+998 91 584 13 66",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "121714": {
+   "msg_id": 741,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TEXNALOGIYA FAN O'QITUVCHI\n\n🏢 41-Sonli Umumiy O'rta Ta'lim Maktabi\n\n📍 Surxondaryo viloyati, Sariosiyo tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 3 500 000 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–18:00\n\n📞 Bog'lanish: 0\n+998997151096\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 26,
+     "type": "bold"
+    },
+    {
+     "offset": 348,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 396,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 429,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121714,
+    "url": "https://osonish.uz/vacancies/121714",
+    "kasb": "Tashkilotchi-pedagog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 18:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Сурхандарьинская область, Сариасийский район",
+    "title": "Texnalogiya fan o'qituvchi",
+    "org": "41-Sonli Umumiy O'rta Ta'lim Maktabi",
+    "district": "Sariosiyo tumani",
+    "salary": "3 500 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "0",
+    "hr_phone": "+998 99 715 10 96",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "121719": {
+   "msg_id": 742,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 INFORMATIKA FAN O'QITUVCH\n\n🏢 41-Sonli Umumiy O'rta Ta'lim Maktabi\n\n📍 Surxondaryo viloyati, Sariosiyo tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 000 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–15:00\n\n📞 Bog'lanish: 0\n+998997151096\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 25,
+     "type": "bold"
+    },
+    {
+     "offset": 355,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 403,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 436,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121719,
+    "url": "https://osonish.uz/vacancies/121719",
+    "kasb": "Tashkilotchi-pedagog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 15:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Сурхандарьинская область, Сариасийский район",
+    "title": "Informatika fan o'qituvch",
+    "org": "41-Sonli Umumiy O'rta Ta'lim Maktabi",
+    "district": "Sariosiyo tumani",
+    "salary": "2 000 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "0",
+    "hr_phone": "+998 99 715 10 96",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "121720": {
+   "msg_id": 743,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TASHKILOTCHI-PEDAGOG\n\n🏢 41-Sonli Umumiy O'rta Ta'lim Maktabi\n\n📍 Surxondaryo viloyati, Sariosiyo tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 500 000 dan 4 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: 0\n+998997151096\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 20,
+     "type": "bold"
+    },
+    {
+     "offset": 350,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 398,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 431,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121720,
+    "url": "https://osonish.uz/vacancies/121720",
+    "kasb": "Tashkilotchi-pedagog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Сурхандарьинская область, Сариасийский район",
+    "title": "Tashkilotchi-pedagog",
+    "org": "41-Sonli Umumiy O'rta Ta'lim Maktabi",
+    "district": "Sariosiyo tumani",
+    "salary": "2 500 000 dan 4 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "0",
+    "hr_phone": "+998 99 715 10 96",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "121723": {
+   "msg_id": 744,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 HUQUQ FAN O'QITUVCHI\n\n🏢 41-Sonli Umumiy O'rta Ta'lim Maktabi\n\n📍 Surxondaryo viloyati, Sariosiyo tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 3 000 000 dan 4 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: 0\n+998997151096\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 20,
+     "type": "bold"
+    },
+    {
+     "offset": 350,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 398,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 431,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121723,
+    "url": "https://osonish.uz/vacancies/121723",
+    "kasb": "Tashkilotchi-pedagog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Сурхандарьинская область, Сариасийский район",
+    "title": "Huquq fan o'qituvchi",
+    "org": "41-Sonli Umumiy O'rta Ta'lim Maktabi",
+    "district": "Sariosiyo tumani",
+    "salary": "3 000 000 dan 4 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "0",
+    "hr_phone": "+998 99 715 10 96",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "121726": {
+   "msg_id": 745,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TA'LIM TASHKILOTLARI FARROSHI\n\n🏢 \"farg'ona Shahar Maktabgacha Va Maktab Ta'limi Bo'limi 11-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Farg'ona shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–14:00\n\n📞 Bog'lanish: OLIMOVA MOXINUR TOIRJON QIZI\n+998936462697\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 430,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 478,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 511,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 121726,
+    "url": "https://osonish.uz/vacancies/121726",
+    "kasb": "Ta'lim tashkilotlari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 14:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Farg'ona shahar Iste'dod ko'chasi 9a uy",
+    "title": "Ta'lim tashkilotlari farroshi",
+    "org": "\"farg'ona Shahar Maktabgacha Va Maktab Ta'limi Bo'limi 11-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Farg'ona shahar",
+    "salary": "1 000 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Olimova Moxinur Toirjon qizi",
+    "hr_phone": "+998 93 646 26 97",
+    "date": "28.10.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -8861,11 +9455,11 @@
   "xorazm"
  ],
  "stats": {
-  "time": "28.10.2026 10:32",
-  "scanned": 0,
-  "sent": 0,
+  "time": "28.10.2026 10:39",
+  "scanned": 20,
+  "sent": 11,
   "errors": 0,
-  "total_sent": 167
+  "total_sent": 178
  },
  "fails": {},
  "retry": {},
