@@ -1,5 +1,5 @@
 {
- "last_id": 122128,
+ "last_id": 122198,
  "offset": 596550395,
  "posts": {
   "116336": {
@@ -9890,6 +9890,114 @@
     "region": "Navoiy viloyati",
     "is_region": true
    }
+  },
+  "122183": {
+   "msg_id": 778,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 000 000 dan 1 200 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–07:30\n\n📞 Bog'lanish: SAMATOV IBROXIM ABDULAXADOVICH\n+998934038627\n\n🗓 E'lon sanasi: 29.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 435,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 483,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 516,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122183,
+    "url": "https://osonish.uz/vacancies/122183",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "5/2, 08:00 - 07:30",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманган, улица Ахсикент, 42A",
+    "title": "O't yoquvchi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "1 000 000 dan 1 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SAMATOV IBROXIM ABDULAXADOVICH",
+    "hr_phone": "+998 93 403 86 27",
+    "date": "29.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "122187": {
+   "msg_id": 779,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KUTUBXONA XODIMI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 1 000 000 dan 1 400 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–17:00\n\n📞 Bog'lanish: SAMATOV IBROXIM ABDULAXADOVICH\n+998934038627\n\n🗓 E'lon sanasi: 29.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 451,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 499,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 532,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122187,
+    "url": "https://osonish.uz/vacancies/122187",
+    "kasb": "Kutubxona xodimi",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 17:00",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Наманган, улица Ахсикент, 42A",
+    "title": "Kutubxona xodimi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "1 000 000 dan 1 400 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SAMATOV IBROXIM ABDULAXADOVICH",
+    "hr_phone": "+998 93 403 86 27",
+    "date": "29.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -9923,11 +10031,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "29.10.2026 10:40",
-  "scanned": 0,
-  "sent": 0,
+  "time": "29.10.2026 10:47",
+  "scanned": 35,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 187
+  "total_sent": 189
  },
  "fails": {},
  "retry": {},
