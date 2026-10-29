@@ -1,6 +1,6 @@
 {
  "last_id": 122260,
- "offset": 596550396,
+ "offset": 596550398,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -9893,7 +9893,7 @@
   },
   "122183": {
    "msg_id": 778,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 000 000 dan 1 200 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–07:30\n\n📞 Bog'lanish: SAMATOV IBROXIM ABDULAXADOVICH\n+998934038627\n\n🗓 E'lon sanasi: 29.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -9949,7 +9949,7 @@
    "msg_id": 779,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 KUTUBXONA XODIMI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 1 000 000 dan 1 400 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–17:00\n\n📞 Bog'lanish: SAMATOV IBROXIM ABDULAXADOVICH\n+998934038627\n\n🗓 E'lon sanasi: 29.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 KUTUBXONA XODIMI va O'T YOQUVCHI\n\n🏢 \"Davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n🎓 KUTUBXONA XODIMI\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: O'rta-maxsus\n⏳ Tajriba: 1–3 yil\n\nO'T YOQUVCHI\n👥 Bo'sh o'rinlar: 1 ta\n🎓 Ma'lumot: Ahamiyatsiz\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 400 000 so'mgacha qolgani kelishuv asosida\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–17:00\n\n📞 Bog'lanish: SAMATOV IBROXIM ABDULAXADOVICH\n+998934038627\n\n🗓 E'lon sanasi: 29.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
      "offset": 3,
@@ -9957,17 +9957,32 @@
      "type": "bold"
     },
     {
-     "offset": 451,
+     "offset": 23,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 209,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 296,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 600,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 499,
+     "offset": 647,
      "length": 29,
      "type": "bold"
     },
     {
-     "offset": 532,
+     "offset": 680,
      "length": 30,
      "type": "url"
     }
@@ -10025,14 +10040,13 @@
   "696": "121255",
   "697": "121255",
   "698": "121255",
-  "702": "121304",
-  "780": "122187"
+  "702": "121304"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "29.10.2026 11:37",
+  "time": "29.10.2026 11:44",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
