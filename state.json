@@ -1,6 +1,6 @@
 {
- "last_id": 122097,
- "offset": 596550388,
+ "last_id": 122128,
+ "offset": 596550395,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -9404,6 +9404,492 @@
     "region": "Farg'ona viloyati",
     "is_region": true
    }
+  },
+  "122098": {
+   "msg_id": 763,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 FERMER XO'JALIGIDA TURLI ISHLAR YORDAMCHI ISHCHISI\n\n🏢 \"dilimbetov\" Fermer Xo'jaligi\n\n📍 Xorazm viloyati, Gurlan tumani\n\n👥 Bo'sh o'rinlar: 4 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 300 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SHAVKAT DILIMBETOV URAZMATOVICH\n+998974533745\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 50,
+     "type": "bold"
+    },
+    {
+     "offset": 361,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 409,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 442,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122098,
+    "url": "https://osonish.uz/vacancies/122098",
+    "kasb": "Fermer xo'jaligida turli ishlar yordamchi ishchisi",
+    "slots": 4,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Хорезмская область, Гурленский район, населённый пункт Вазир, улица Янги Кадам",
+    "title": "Fermer xo'jaligida turli ishlar yordamchi ishchisi",
+    "org": "\"dilimbetov\" Fermer Xo'jaligi",
+    "district": "Gurlan tumani",
+    "salary": "1 300 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SHAVKAT DILIMBETOV URAZMATOVICH",
+    "hr_phone": "+998 97 453 37 45",
+    "date": "28.10.2026",
+    "region_key": "xorazm",
+    "region": "Xorazm viloyati",
+    "is_region": true
+   }
+  },
+  "122118": {
+   "msg_id": 766,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 SUVOQCHI\n\n🏢 \" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Surxondaryo viloyati, Qiziriq tumani\n\n👥 Bo'sh o'rinlar: 35 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: fuqarolik-huquqiy shartnoma asosida\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–18:00\n\n📞 Bog'lanish: ABDULLAYEV SALIM\n+998972433388\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 8,
+     "type": "bold"
+    },
+    {
+     "offset": 352,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 400,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 433,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122118,
+    "url": "https://osonish.uz/vacancies/122118",
+    "kasb": "Suvoqchi",
+    "slots": 35,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Ishbay",
+    "employment": "Fuqarolik-huquqiy shartnoma asosida",
+    "mode": "Ish joyi o'zgaruvchan (mobil ishchi)",
+    "schedule": "6/1, 09:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Сурхандарьинская область, Кизирикский район",
+    "title": "Suvoqchi",
+    "org": "\" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Qiziriq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Abdullayev Salim",
+    "hr_phone": "+998 97 243 33 88",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "122119": {
+   "msg_id": 767,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOSH ELEKTRIK\n\n🏢 \" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Surxondaryo viloyati, Qiziriq tumani\n\n👥 Bo'sh o'rinlar: 15 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: fuqarolik-huquqiy shartnoma asosida\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–18:00\n\n📞 Bog'lanish: ABDULLAYEV SALIM\n+998972433388\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 13,
+     "type": "bold"
+    },
+    {
+     "offset": 349,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 397,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 430,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122119,
+    "url": "https://osonish.uz/vacancies/122119",
+    "kasb": "Bosh elektrik",
+    "slots": 15,
+    "experience": "1-3 yil",
+    "pay_form": "Ishbay",
+    "employment": "Fuqarolik-huquqiy shartnoma asosida",
+    "mode": "Ish joyi o'zgaruvchan (mobil ishchi)",
+    "schedule": "6/1, 09:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Сурхандарьинская область, Кизирикский район",
+    "title": "Bosh elektrik",
+    "org": "\" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Qiziriq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Abdullayev Salim",
+    "hr_phone": "+998 97 243 33 88",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "122120": {
+   "msg_id": 768,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 SUV TA'MINOTI VA SANTEXNIK TIZIMLARNI O'RNATUVCHI\n\n🏢 \" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Surxondaryo viloyati, Qiziriq tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: fuqarolik-huquqiy shartnoma asosida\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–18:00\n\n📞 Bog'lanish: ABDULLAYEV SALIM\n+998972433388\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 49,
+     "type": "bold"
+    },
+    {
+     "offset": 385,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 433,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 466,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122120,
+    "url": "https://osonish.uz/vacancies/122120",
+    "kasb": "Suv ta'minoti va santexnik tizimlarni o'rnatuvchi",
+    "slots": 10,
+    "experience": "1-3 yil",
+    "pay_form": "Ishbay",
+    "employment": "Fuqarolik-huquqiy shartnoma asosida",
+    "mode": "Ish joyi o'zgaruvchan (mobil ishchi)",
+    "schedule": "6/1, 09:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Сурхандарьинская область, Кизирикский район",
+    "title": "Suv ta'minoti va santexnik tizimlarni o'rnatuvchi",
+    "org": "\" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Qiziriq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Abdullayev Salim",
+    "hr_phone": "+998 97 243 33 88",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "122121": {
+   "msg_id": 770,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 QOVURG'A (KARKAS) TAYYORLOVCHI\n\n🏢 \" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Surxondaryo viloyati, Qiziriq tumani\n\n👥 Bo'sh o'rinlar: 20 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: fuqarolik-huquqiy shartnoma asosida\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–18:00\n\n📞 Bog'lanish: ABDULLAYEV SALIM\n+998972433388\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 366,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 414,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 447,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122121,
+    "url": "https://osonish.uz/vacancies/122121",
+    "kasb": "Qovurg'a (karkas) tayyorlovchi",
+    "slots": 20,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Fuqarolik-huquqiy shartnoma asosida",
+    "mode": "Ish joyi o'zgaruvchan (mobil ishchi)",
+    "schedule": "6/1, 09:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Сурхандарьинская область, Кизирикский район",
+    "title": "Qovurg'a (karkas) tayyorlovchi",
+    "org": "\" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Qiziriq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Abdullayev Salim",
+    "hr_phone": "+998 97 243 33 88",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "122122": {
+   "msg_id": 771,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOSH PAYVANDCHI\n\n🏢 \" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Surxondaryo viloyati, Qiziriq tumani\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: fuqarolik-huquqiy shartnoma asosida\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–18:00\n\n📞 Bog'lanish: ABDULLAYEV SALIM\n+998972433388\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 15,
+     "type": "bold"
+    },
+    {
+     "offset": 350,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 398,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 431,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122122,
+    "url": "https://osonish.uz/vacancies/122122",
+    "kasb": "Bosh payvandchi",
+    "slots": 5,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Fuqarolik-huquqiy shartnoma asosida",
+    "mode": "Ish joyi o'zgaruvchan (mobil ishchi)",
+    "schedule": "6/1, 09:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Сурхандарьинская область, Кизирикский район",
+    "title": "Bosh payvandchi",
+    "org": "\" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Qiziriq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Abdullayev Salim",
+    "hr_phone": "+998 97 243 33 88",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "122123": {
+   "msg_id": 772,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BETONCHI\n\n🏢 \" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Surxondaryo viloyati, Qiziriq tumani\n\n👥 Bo'sh o'rinlar: 20 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: fuqarolik-huquqiy shartnoma asosida\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–18:00\n\n📞 Bog'lanish: ABDULLAYEV SALIM\n+998972433388\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 8,
+     "type": "bold"
+    },
+    {
+     "offset": 347,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 395,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 428,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122123,
+    "url": "https://osonish.uz/vacancies/122123",
+    "kasb": "Betonchi",
+    "slots": 20,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Fuqarolik-huquqiy shartnoma asosida",
+    "mode": "Ish joyi o'zgaruvchan (mobil ishchi)",
+    "schedule": "6/1, 09:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Сурхандарьинская область, Кизирикский район",
+    "title": "Betonchi",
+    "org": "\" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Qiziriq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Abdullayev Salim",
+    "hr_phone": "+998 97 243 33 88",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "122124": {
+   "msg_id": 773,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'TGA CHIDAMLI G'ISHT TERUVCHI\n\n🏢 \" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Surxondaryo viloyati, Qiziriq tumani\n\n👥 Bo'sh o'rinlar: 50 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: fuqarolik-huquqiy shartnoma asosida\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–18:00\n\n📞 Bog'lanish: ABDULLAYEV SALIM\n+998972433388\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 30,
+     "type": "bold"
+    },
+    {
+     "offset": 366,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 414,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 447,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122124,
+    "url": "https://osonish.uz/vacancies/122124",
+    "kasb": "O'tga chidamli g'isht teruvchi",
+    "slots": 50,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Fuqarolik-huquqiy shartnoma asosida",
+    "mode": "Ish joyi o'zgaruvchan (mobil ishchi)",
+    "schedule": "6/1, 09:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Сурхандарьинская область, Кизирикский район",
+    "title": "O'tga chidamli g'isht teruvchi",
+    "org": "\" Denov Me'mori\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Qiziriq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Abdullayev Salim",
+    "hr_phone": "+998 97 243 33 88",
+    "date": "28.10.2026",
+    "region_key": "surxondaryo",
+    "region": "Surxondaryo viloyati",
+    "is_region": true
+   }
+  },
+  "122128": {
+   "msg_id": 775,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 AVTOMOBIL HAYDOVCHISI\n\n🏢 \"o'zbekiston Respublikasi Madaniyat Vazirligi Huzuridagi O'zbekiston Davlat Filarmoniyasi\" Davlat Muassasasi\n\n📍 Navoiy viloyati, Yunusobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 2 000 000 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: XALXODJAYEV JASUR BAXTIYAROVICH\n+998909903708\n\n🗓 E'lon sanasi: 28.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 21,
+     "type": "bold"
+    },
+    {
+     "offset": 407,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 455,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 488,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122128,
+    "url": "https://osonish.uz/vacancies/122128",
+    "kasb": "Avtomobil haydovchisi",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "ул. Алишера Навои, 2Б, Ташкент",
+    "title": "Avtomobil haydovchisi",
+    "org": "\"o'zbekiston Respublikasi Madaniyat Vazirligi Huzuridagi O'zbekiston Davlat Filarmoniyasi\" Davlat Muassasasi",
+    "district": "Yunusobod tumani",
+    "salary": "2 000 000 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XALXODJAYEV JASUR BAXTIYAROVICH",
+    "hr_phone": "+998 90 990 37 08",
+    "date": "28.10.2026",
+    "region_key": "navoiy",
+    "region": "Navoiy viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -9434,27 +9920,14 @@
   "702": "121304"
  },
  "regions": [
-  "toshkent_sh",
-  "toshkent_v",
-  "qoraqalpog",
-  "andijon",
-  "buxoro",
-  "jizzax",
-  "qashqadaryo",
-  "navoiy",
-  "namangan",
-  "samarqand",
-  "surxondaryo",
-  "sirdaryo",
-  "fargona",
-  "xorazm"
+  "namangan"
  ],
  "stats": {
-  "time": "29.10.2026 09:31",
-  "scanned": 0,
-  "sent": 0,
+  "time": "29.10.2026 09:37",
+  "scanned": 17,
+  "sent": 9,
   "errors": 0,
-  "total_sent": 178
+  "total_sent": 187
  },
  "fails": {},
  "retry": {},
