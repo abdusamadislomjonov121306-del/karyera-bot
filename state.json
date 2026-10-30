@@ -1,6 +1,6 @@
 {
  "last_id": 122740,
- "offset": 596550407,
+ "offset": 596550410,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -10018,7 +10018,7 @@
    "msg_id": 786,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 MAXSUS PEDAGOGIKA VA INKLYUZIV TA'LIM\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 24-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 4 000 000 dan 5 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–15:00\n\n📞 Bog'lanish: ANORKULOV AVAZBEK MARIBJONOVICH\n+998998464586\n\n🗓 E'lon sanasi: 30.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 MAXSUS PEDAGOGIKA VA INKLYUZIV TA'LIM\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 24-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Tajribali\n\n💰 Maosh: 4 000 000 dan 5 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–15:00\n\n📞 Bog'lanish: ANORKULOV AVAZBEK MARIBJONOVICH\n+998998464586\n\n🗓 E'lon sanasi: 30.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
      "offset": 3,
@@ -10026,17 +10026,27 @@
      "type": "bold"
     },
     {
-     "offset": 467,
+     "offset": 215,
+     "length": 4,
+     "type": "bold"
+    },
+    {
+     "offset": 281,
+     "length": 33,
+     "type": "bold"
+    },
+    {
+     "offset": 461,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 514,
+     "offset": 508,
      "length": 29,
      "type": "bold"
     },
     {
-     "offset": 547,
+     "offset": 541,
      "length": 30,
      "type": "url"
     }
@@ -10070,7 +10080,7 @@
   },
   "122685": {
    "msg_id": 787,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 QOROVUL\n\n🏢 \"Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 22-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: DEXKANOVA SHAXNOZA\n+998943075356\n\n🗓 E'lon sanasi: 30.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -10155,9 +10165,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "30.10.2026 10:36",
-  "scanned": 22,
-  "sent": 2,
+  "time": "30.10.2026 10:42",
+  "scanned": 0,
+  "sent": 0,
   "errors": 0,
   "total_sent": 191
  },
