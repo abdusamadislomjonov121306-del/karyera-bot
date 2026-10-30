@@ -1,6 +1,6 @@
 {
- "last_id": 122676,
- "offset": 596550402,
+ "last_id": 122740,
+ "offset": 596550407,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -10013,6 +10013,114 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "122678": {
+   "msg_id": 786,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAXSUS PEDAGOGIKA VA INKLYUZIV TA'LIM\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 24-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 4 000 000 dan 5 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–15:00\n\n📞 Bog'lanish: ANORKULOV AVAZBEK MARIBJONOVICH\n+998998464586\n\n🗓 E'lon sanasi: 30.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 37,
+     "type": "bold"
+    },
+    {
+     "offset": 467,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 514,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 547,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122678,
+    "url": "https://osonish.uz/vacancies/122678",
+    "kasb": "Bolalarni psixologik qo'llab-quvvatlash va inklyuziv ta'lim bo'yicha metodist",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 15:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Папский район, населённый пункт Кенагас",
+    "title": "Maxsus pedagogika va inklyuziv ta'lim",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 24-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "4 000 000 dan 5 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ANORKULOV AVAZBEK MARIBJONOVICH",
+    "hr_phone": "+998 99 846 45 86",
+    "date": "30.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "122685": {
+   "msg_id": 787,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 22-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: DEXKANOVA SHAXNOZA\n+998943075356\n\n🗓 E'lon sanasi: 30.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 387,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 434,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 467,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 122685,
+    "url": "https://osonish.uz/vacancies/122685",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганский район, махаллинский сход граждан Кичик курама, населённый пункт Кичик-Курама",
+    "title": "Qorovul",
+    "org": "\"namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 22-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "DEXKANOVA SHAXNOZA",
+    "hr_phone": "+998 94 307 53 56",
+    "date": "30.10.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -10040,17 +10148,18 @@
   "696": "121255",
   "697": "121255",
   "698": "121255",
-  "702": "121304"
+  "702": "121304",
+  "788": "122678"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "30.10.2026 10:30",
-  "scanned": 0,
-  "sent": 0,
+  "time": "30.10.2026 10:36",
+  "scanned": 22,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 189
+  "total_sent": 191
  },
  "fails": {},
  "retry": {},
