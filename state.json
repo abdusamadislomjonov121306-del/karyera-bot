@@ -1,6 +1,6 @@
 {
  "last_id": 123332,
- "offset": 596550417,
+ "offset": 596550419,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -10136,25 +10136,15 @@
    "msg_id": 804,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 QADOQLOVCHI\n\n🏢 \"uztex Group\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona\n\n📍 Namangan viloyati, Uchqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 200 000 dan 2 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: MIRZAXMEDOVA DILRABO TOJIDINOVNA\n+998998944030\n\n🗓 E'lon sanasi: 30.10.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 QADOQLOVCHI\n\n🏢 \"Uztex Group\" Mas'uliyati Cheklangan Jamiyat Qo'shma Korxona\n\n📍 Namangan viloyati, Uchqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 200 000 dan 2 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: MIRZAXMEDOVA DILRABO TOJIDINOVNA\n+998998944030\n\n🗓 E'lon sanasi: 30.10.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
-    {
-     "offset": 3,
-     "length": 11,
-     "type": "bold"
-    },
     {
      "offset": 381,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 429,
-     "length": 29,
-     "type": "bold"
-    },
-    {
-     "offset": 462,
+     "offset": 461,
      "length": 30,
      "type": "url"
     }
@@ -10219,7 +10209,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "31.10.2026 18:56",
+  "time": "31.10.2026 19:02",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
