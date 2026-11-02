@@ -1,5 +1,5 @@
 {
- "last_id": 123749,
+ "last_id": 123773,
  "offset": 596550426,
  "posts": {
   "116336": {
@@ -10352,6 +10352,114 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "123763": {
+   "msg_id": 817,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"uychi Tuman 3-Son Texnikumi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Uychi tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 200 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ҚУРБОНОВА МАЛИКА\n+998990479137\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 313,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 361,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 394,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123763,
+    "url": "https://osonish.uz/vacancies/123763",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Namangan viloyat Uychi tuman Mustaqillikmahalla",
+    "title": "O't yoquvchi",
+    "org": "\"uychi Tuman 3-Son Texnikumi\" Davlat Muassasasi",
+    "district": "Uychi tumani",
+    "salary": "1 000 000 dan 1 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Қурбонова Малика",
+    "hr_phone": "+998 99 047 91 37",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "123772": {
+   "msg_id": 818,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"davlatobod Tuman Maktabgacha Ta'lim Bo'limi Tasarrufidagi 19-Sonli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 900 000 dan 1 000 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–16:00\n\n📞 Bog'lanish: MALLABAYEVA NAZIRA MAXMUDOVNA\n+998902184224\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 430,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 478,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 511,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123772,
+    "url": "https://osonish.uz/vacancies/123772",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Shartnomaviy",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 16:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманган, махаллинский сход граждан Орзу",
+    "title": "O't yoquvchi",
+    "org": "\"davlatobod Tuman Maktabgacha Ta'lim Bo'limi Tasarrufidagi 19-Sonli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "900 000 dan 1 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MALLABAYEVA NAZIRA MAXMUDOVNA",
+    "hr_phone": "+998 90 218 42 24",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -10386,11 +10494,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "02.11.2026 16:06",
-  "scanned": 0,
-  "sent": 0,
+  "time": "02.11.2026 16:12",
+  "scanned": 11,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 195
+  "total_sent": 197
  },
  "fails": {},
  "retry": {},
