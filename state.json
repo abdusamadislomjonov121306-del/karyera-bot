@@ -1,6 +1,6 @@
 {
- "last_id": 123815,
- "offset": 596550429,
+ "last_id": 123862,
+ "offset": 596550430,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -10355,7 +10355,7 @@
   },
   "123763": {
    "msg_id": 817,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
    "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"uychi Tuman 3-Son Texnikumi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Uychi tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 200 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ҚУРБОНОВА МАЛИКА\n+998990479137\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -10568,6 +10568,330 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "123819": {
+   "msg_id": 821,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MUSIQA RAHBARI\n\n🏢 \"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 6-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: MO'MIDDINOVA SAIDA QURVONBOYEVNA\n+998913444705\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 14,
+     "type": "bold"
+    },
+    {
+     "offset": 428,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 476,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 509,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123819,
+    "url": "https://osonish.uz/vacancies/123819",
+    "kasb": "Musiqa rahbari",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "Oliy bakalavr",
+    "gender": "Ayol",
+    "address": "Namangan shahar",
+    "title": "Musiqa rahbari",
+    "org": "\"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 6-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MO'MIDDINOVA SAIDA QURVONBOYEVNA",
+    "hr_phone": "+998 91 344 47 05",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "123820": {
+   "msg_id": 822,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 6-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: MO'MIDDINOVA SAIDA QURVONBOYEVNA\n+998913444705\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 424,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 472,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 505,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123820,
+    "url": "https://osonish.uz/vacancies/123820",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Namangan shahar",
+    "title": "O't yoquvchi",
+    "org": "\"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 6-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MO'MIDDINOVA SAIDA QURVONBOYEVNA",
+    "hr_phone": "+998 91 344 47 05",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "123821": {
+   "msg_id": 823,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 39-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 800 000 dan 2 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 05:00–16:00\n\n📞 Bog'lanish: ASKARALIYEV USMANDJON XXX\n+998941591111\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 452,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 500,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 533,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123821,
+    "url": "https://osonish.uz/vacancies/123821",
+    "kasb": "O't yoquvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 05:00 - 16:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "ул. Дустлик, 3B, махаллинский сход граждан Гулистон, Наманган",
+    "title": "O't yoquvchi",
+    "org": "\"namangan Shahar Yangi Namangan Tuman Maktabgacha Va Maktab Ta'lim Bo'limiga Qarashli 39-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 800 000 dan 2 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ASKARALIYEV USMANDJON XXX",
+    "hr_phone": "+998 94 159 11 11",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "123825": {
+   "msg_id": 824,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 RUS TILI VA ADABIYOTI FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 69-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 2 800 000 dan 3 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–17:00\n\n📞 Bog'lanish: ISAKOV MUXTOR MARUFOVICH\n+998913497052\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 49,
+     "type": "bold"
+    },
+    {
+     "offset": 470,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 518,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 551,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123825,
+    "url": "https://osonish.uz/vacancies/123825",
+    "kasb": "Rus tili va adabiyoti fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Yangi Namangan tumani 69 maktab",
+    "title": "Rus tili va adabiyoti fanidan maktab o'qituvchisi",
+    "org": "\"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 69-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "2 800 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ISAKOV MUXTOR MARUFOVICH",
+    "hr_phone": "+998 91 349 70 52",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "123827": {
+   "msg_id": 825,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 69-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 800 000 dan 2 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 05:00–16:00\n\n📞 Bog'lanish: ISAKOV MUXTOR MARUFOVICH\n+998913497052\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 436,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 484,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 517,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123827,
+    "url": "https://osonish.uz/vacancies/123827",
+    "kasb": "O't yoquvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 05:00 - 16:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Yangi Namangan tumani 69 maktab",
+    "title": "O't yoquvchi",
+    "org": "\"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 69-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 800 000 dan 2 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ISAKOV MUXTOR MARUFOVICH",
+    "hr_phone": "+998 91 349 70 52",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "123853": {
+   "msg_id": 826,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 SUPURUVCHI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 37-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 200 000 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: NUJINA NELLYA ALEKSANDROVNA\n+998934913711\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 10,
+     "type": "bold"
+    },
+    {
+     "offset": 402,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 450,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 483,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123853,
+    "url": "https://osonish.uz/vacancies/123853",
+    "kasb": "Ko'cha supuruvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Папский район, городской посёлок Халкабад",
+    "title": "supuruvchi",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 37-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "1 200 000 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "NUJINA NELLYA ALEKSANDROVNA",
+    "hr_phone": "+998 93 491 37 11",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -10602,11 +10926,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "02.11.2026 19:43",
-  "scanned": 0,
-  "sent": 0,
+  "time": "02.11.2026 19:49",
+  "scanned": 26,
+  "sent": 6,
   "errors": 0,
-  "total_sent": 199
+  "total_sent": 205
  },
  "fails": {},
  "retry": {},
