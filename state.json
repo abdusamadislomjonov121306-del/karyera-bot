@@ -1,5 +1,5 @@
 {
- "last_id": 123773,
+ "last_id": 123781,
  "offset": 596550426,
  "posts": {
   "116336": {
@@ -10460,6 +10460,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "123774": {
+   "msg_id": 819,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTABGACHA TA'LIMDA TARBIYACHI YORDAMCHISI\n\n🏢 \"davlatobod Tuman Maktabgacha Ta'lim Bo'limi Tasarrufidagi 19-Sonli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 07:30–17:30\n\n📞 Bog'lanish: MALLABAYEVA NAZIRA MAXMUDOVNA\n+998902184224\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 43,
+     "type": "bold"
+    },
+    {
+     "offset": 478,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 526,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 559,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123774,
+    "url": "https://osonish.uz/vacancies/123774",
+    "kasb": "Maktabgacha ta'limda tarbiyachi yordamchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 07:30 - 17:30",
+    "education": "O'rta-maxsus",
+    "gender": "Ayol",
+    "address": "Наманган, махаллинский сход граждан Орзу",
+    "title": "Maktabgacha ta'limda tarbiyachi yordamchisi",
+    "org": "\"davlatobod Tuman Maktabgacha Ta'lim Bo'limi Tasarrufidagi 19-Sonli Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MALLABAYEVA NAZIRA MAXMUDOVNA",
+    "hr_phone": "+998 90 218 42 24",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -10494,11 +10548,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "02.11.2026 16:12",
-  "scanned": 11,
-  "sent": 2,
+  "time": "02.11.2026 16:18",
+  "scanned": 5,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 197
+  "total_sent": 198
  },
  "fails": {},
  "retry": {},
