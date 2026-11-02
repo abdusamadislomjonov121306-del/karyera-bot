@@ -1,5 +1,5 @@
 {
- "last_id": 123626,
+ "last_id": 123703,
  "offset": 596550426,
  "posts": {
   "116336": {
@@ -10190,6 +10190,168 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "123627": {
+   "msg_id": 814,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAKTAB MASLAHATCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 35-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: NISHANBAEVA KARIMAXAN TUMANBAEVNA\n+998772516021\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 18,
+     "type": "bold"
+    },
+    {
+     "offset": 443,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 491,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 524,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123627,
+    "url": "https://osonish.uz/vacancies/123627",
+    "kasb": "Biznes maslahatchi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Mo'g'ol MFY",
+    "title": "Maktab maslahatchi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 35-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "NISHANBAEVA KARIMAXAN TUMANBAEVNA",
+    "hr_phone": "+998 77 251 60 21",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "123645": {
+   "msg_id": 815,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"yangiqo'rg'on Tuman Xalq Ta'limi Bo'limiga Qarashli 23-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 300 000 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: TUXTABOYEV GAFIRJON TURSUNBOYEVICH\n+998934058872\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 390,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 438,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 471,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123645,
+    "url": "https://osonish.uz/vacancies/123645",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Namangan viloyati Yangiqo'rg'on tumani",
+    "title": "Qorovul",
+    "org": "\"yangiqo'rg'on Tuman Xalq Ta'limi Bo'limiga Qarashli 23-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "1 300 000 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TUXTABOYEV GAFIRJON TURSUNBOYEVICH",
+    "hr_phone": "+998 93 405 88 72",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "123647": {
+   "msg_id": 816,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAXSUS PEDAGOG O'QITUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Xalq Ta'limi Bo'limiga Qarashli 23-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 5 000 000 dan 6 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: TUXTABOYEV GAFIRJON TURSUNBOYEVICH\n+998934058872\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 25,
+     "type": "bold"
+    },
+    {
+     "offset": 427,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 475,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 508,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 123647,
+    "url": "https://osonish.uz/vacancies/123647",
+    "kasb": "Maxsus pedagogik-psixologiya mutaxassisligi bo'yicha psixolog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Namangan viloyati Yangiqo'rg'on tumani",
+    "title": "Maxsus pedagog o'qituvchi",
+    "org": "\"yangiqo'rg'on Tuman Xalq Ta'limi Bo'limiga Qarashli 23-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "5 000 000 dan 6 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TUXTABOYEV GAFIRJON TURSUNBOYEVICH",
+    "hr_phone": "+998 93 405 88 72",
+    "date": "02.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -10224,11 +10386,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "02.11.2026 14:55",
-  "scanned": 0,
-  "sent": 0,
+  "time": "02.11.2026 15:01",
+  "scanned": 35,
+  "sent": 3,
   "errors": 0,
-  "total_sent": 192
+  "total_sent": 195
  },
  "fails": {},
  "retry": {},
