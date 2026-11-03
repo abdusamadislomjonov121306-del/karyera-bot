@@ -1,6 +1,6 @@
 {
- "last_id": 123862,
- "offset": 596550432,
+ "last_id": 123877,
+ "offset": 596550435,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -10571,27 +10571,17 @@
   },
   "123819": {
    "msg_id": 821,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
-   "caption": "🎓 MUSIQA RAHBARI\n\n🏢 \"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 6-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: MO'MIDDINOVA SAIDA QURVONBOYEVNA\n+998913444705\n\n🗓 E'lon sanasi: 02.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 MUSIQA RAHBARI\n\n🏢 \"Namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 6-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: MO'MIDDINOVA SAIDA QURVONBOYEVNA\n+998913444705\n\n🗓 E'lon sanasi: 02.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 14,
-     "type": "bold"
-    },
-    {
-     "offset": 428,
+     "offset": 400,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 476,
-     "length": 29,
-     "type": "bold"
-    },
-    {
-     "offset": 509,
+     "offset": 480,
      "length": 30,
      "type": "url"
     }
@@ -10926,8 +10916,8 @@
   "namangan"
  ],
  "stats": {
-  "time": "03.11.2026 09:06",
-  "scanned": 0,
+  "time": "03.11.2026 09:12",
+  "scanned": 5,
   "sent": 0,
   "errors": 0,
   "total_sent": 205
