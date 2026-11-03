@@ -1,6 +1,6 @@
 {
- "last_id": 124119,
- "offset": 596550436,
+ "last_id": 124148,
+ "offset": 596550443,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -10936,6 +10936,138 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "124121": {
+   "msg_id": 830,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MUSIQA RAHBARI\n\n🏢 \"Namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 66-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YUSUPOVA NIGORA XAMIDOVNA\n+998507222590\n\n🗓 E'lon sanasi: 03.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 422,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 502,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124121,
+    "url": "https://osonish.uz/vacancies/124121",
+    "kasb": "Musiqa rahbari",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "Oliy bakalavr",
+    "gender": "Ayol",
+    "address": "sunbula 5",
+    "title": "Musiqa rahbari",
+    "org": "\"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 66-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "YUSUPOVA NIGORA XAMIDOVNA",
+    "hr_phone": "+998 50 722 25 90",
+    "date": "03.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "124123": {
+   "msg_id": 831,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOLALAR PSIXOLOGI\n\n🏢 \"Namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 66-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YUSUPOVA NIGORA XAMIDOVNA\n+998507222590\n\n🗓 E'lon sanasi: 03.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 425,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 505,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124123,
+    "url": "https://osonish.uz/vacancies/124123",
+    "kasb": "Bolalar psixologi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "Oliy bakalavr",
+    "gender": "Ayol",
+    "address": "sunbula 5",
+    "title": "Bolalar psixologi",
+    "org": "\"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 66-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "YUSUPOVA NIGORA XAMIDOVNA",
+    "hr_phone": "+998 50 722 25 90",
+    "date": "03.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "124128": {
+   "msg_id": 832,
+   "status": "posted",
+   "variant": 0,
+   "caption": "🎓 XO'JALIK MUDIRI\n\n🏢 \"Namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 66-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YUSUPOVA NIGORA XAMIDOVNA\n+998507222590\n\n🗓 E'lon sanasi: 03.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 423,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 503,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124128,
+    "url": "https://osonish.uz/vacancies/124128",
+    "kasb": "Xo'jalik mudiri",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2",
+    "education": "Oliy bakalavr",
+    "gender": "Ayol",
+    "address": "sunbula 5",
+    "title": "Xo'jalik mudiri",
+    "org": "\"namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 66-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Namangan shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "YUSUPOVA NIGORA XAMIDOVNA",
+    "hr_phone": "+998 50 722 25 90",
+    "date": "03.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -10970,11 +11102,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "03.11.2026 15:39",
-  "scanned": 0,
-  "sent": 0,
+  "time": "03.11.2026 15:45",
+  "scanned": 16,
+  "sent": 3,
   "errors": 0,
-  "total_sent": 206
+  "total_sent": 209
  },
  "fails": {},
  "retry": {},
