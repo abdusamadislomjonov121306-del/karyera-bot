@@ -1,5 +1,5 @@
 {
- "last_id": 124084,
+ "last_id": 124119,
  "offset": 596550436,
  "posts": {
   "116336": {
@@ -10882,6 +10882,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "124085": {
+   "msg_id": 829,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 3-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 4 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 290 000 so'mdan boshlab\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 2 kun ish, 1 kun dam\n\n📞 Bog'lanish: MAVLONOV BAXTIYOR BOTIRXO'JAYEVICH\n+998949453344\n\n🗓 E'lon sanasi: 03.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 427,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 475,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 508,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124085,
+    "url": "https://osonish.uz/vacancies/124085",
+    "kasb": "O't yoquvchi",
+    "slots": 4,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "2/1",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Namangan viloyati Yangiqo'rg'on tumani Rovut MFY Namangan ko'chasi 120-uy 3-sonli maktab",
+    "title": "O't yoquvchi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 3-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "1 290 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MAVLONOV BAXTIYOR BOTIRXO'JAYEVICH",
+    "hr_phone": "+998 94 945 33 44",
+    "date": "03.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -10916,11 +10970,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "03.11.2026 15:01",
-  "scanned": 0,
-  "sent": 0,
+  "time": "03.11.2026 15:07",
+  "scanned": 20,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 205
+  "total_sent": 206
  },
  "fails": {},
  "retry": {},
