@@ -1,6 +1,6 @@
 {
  "last_id": 124176,
- "offset": 596550453,
+ "offset": 596550456,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -10939,17 +10939,17 @@
   },
   "124121": {
    "msg_id": 830,
-   "status": "pending",
+   "status": "posted",
    "variant": 0,
-   "caption": "🎓 MUSIQA RAHBARI\n\n🏢 \"Namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 66-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YUSUPOVA NIGORA XAMIDOVNA\n+998507222590\n\n🗓 E'lon sanasi: 03.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 MUSIQA RAHBARI\n\n🏢 \"Namangan Shahar Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 66-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam\n\n📞 Bog'lanish: YUSUPOVA NIGORA XAMIDOVNA\n+998507222590\n\n🗓 E'lon sanasi: 03.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 422,
+     "offset": 394,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 502,
+     "offset": 474,
      "length": 30,
      "type": "url"
     }
@@ -11102,7 +11102,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "04.11.2026 08:11",
+  "time": "04.11.2026 08:18",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
