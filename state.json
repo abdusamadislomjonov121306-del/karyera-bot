@@ -1,5 +1,5 @@
 {
- "last_id": 124509,
+ "last_id": 124608,
  "offset": 596550464,
  "posts": {
   "116336": {
@@ -11309,6 +11309,173 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "124514": {
+   "msg_id": 858,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 PSIXOLOG\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 30-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: RAXMONOVA MUNIRA ABDUNAZAROVNA\n+998931772442\n\n🗓 E'lon sanasi: 04.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 8,
+     "type": "bold"
+    },
+    {
+     "offset": 411,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 459,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 492,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124514,
+    "url": "https://osonish.uz/vacancies/124514",
+    "kasb": "Psixolog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "Namangan viloyati Yangiqo'rg'on tumani",
+    "title": "Psixolog",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 30-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "RAXMONOVA MUNIRA ABDUNAZAROVNA",
+    "hr_phone": "+998 93 177 24 42",
+    "date": "04.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "124577": {
+   "msg_id": 859,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 44-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 3–5 yil\n\n💰 Maosh: 1 200 000 dan 1 300 000 so'mgacha\n\n📋 Ish turi: muddatli\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: osonish.uz orqali — https://osonish.uz/vacancies/124577\n\n🗓 E'lon sanasi: 04.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 375,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 395,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 465,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 498,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124577,
+    "url": "https://osonish.uz/vacancies/124577",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "3-5 yil",
+    "pay_form": "Oylik",
+    "employment": "Muddatli",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "",
+    "title": "O't yoquvchi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 44-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "1 200 000 dan 1 300 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "04.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "124600": {
+   "msg_id": 860,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAHSUS PEDAGOG (INKLYUZIV TA'LIM)\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 64-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 4 000 000 dan 5 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–15:00\n\n📞 Bog'lanish: ABDUVAXOBOV MUXAMMADJON ABDUG'ANIYEVICH\n+998884412200\n\n🗓 E'lon sanasi: 04.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 33,
+     "type": "bold"
+    },
+    {
+     "offset": 489,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 537,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 570,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124600,
+    "url": "https://osonish.uz/vacancies/124600",
+    "kasb": "Bolalarni psixologik qo'llab-quvvatlash va inklyuziv ta'lim bo'yicha metodist",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 15:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Yangiqo'rg'on tuman Barkamol mfy 1-uy",
+    "title": "Mahsus pedagog (inklyuziv ta'lim)",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 64-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "4 000 000 dan 5 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ABDUVAXOBOV MUXAMMADJON ABDUG'ANIYEVICH",
+    "hr_phone": "+998 88 441 22 00",
+    "date": "04.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -11343,11 +11510,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "04.11.2026 15:44",
-  "scanned": 0,
-  "sent": 0,
+  "time": "04.11.2026 17:04",
+  "scanned": 43,
+  "sent": 3,
   "errors": 0,
-  "total_sent": 213
+  "total_sent": 216
  },
  "fails": {},
  "retry": {},
