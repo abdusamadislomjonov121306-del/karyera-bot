@@ -1,5 +1,5 @@
 {
- "last_id": 124176,
+ "last_id": 124250,
  "offset": 596550456,
  "posts": {
   "116336": {
@@ -11068,6 +11068,119 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "124199": {
+   "msg_id": 845,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAXSUS PEDAGOG\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 6- Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 2 500 000 so'mdan boshlab\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: SAYYORA\n+998505718592\n\n🗓 E'lon sanasi: 03.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 14,
+     "type": "bold"
+    },
+    {
+     "offset": 414,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 462,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 495,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124199,
+    "url": "https://osonish.uz/vacancies/124199",
+    "kasb": "Maxsus pedagogik-psixologiya mutaxassisligi bo'yicha psixolog",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Nurafshon MFY",
+    "title": "Maxsus pedagog",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 6- Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "2 500 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Sayyora",
+    "hr_phone": "+998 50 571 85 92",
+    "date": "03.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "124212": {
+   "msg_id": 846,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 BOLALARNI PSIXOLOGIK QO'LLAB-QUVVATLASH VA INKLYUZIV TA'LIM BO'YICHA METODIST\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 14-Sonli Ayrim Fanlarga Ixtisoslashtirilgan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: osonish.uz orqali — https://osonish.uz/vacancies/124212\n\n🗓 E'lon sanasi: 03.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 77,
+     "type": "bold"
+    },
+    {
+     "offset": 533,
+     "length": 10,
+     "type": "url"
+    },
+    {
+     "offset": 553,
+     "length": 35,
+     "type": "url"
+    },
+    {
+     "offset": 623,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 656,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124212,
+    "url": "https://osonish.uz/vacancies/124212",
+    "kasb": "Bolalarni psixologik qo'llab-quvvatlash va inklyuziv ta'lim bo'yicha metodist",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "",
+    "title": "Bolalarni psixologik qo'llab-quvvatlash va inklyuziv ta'lim bo'yicha metodist",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 14-Sonli Ayrim Fanlarga Ixtisoslashtirilgan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "1 000 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "",
+    "hr_phone": "",
+    "date": "03.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -11102,11 +11215,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "04.11.2026 09:34",
-  "scanned": 0,
-  "sent": 0,
+  "time": "04.11.2026 09:40",
+  "scanned": 39,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 209
+  "total_sent": 211
  },
  "fails": {},
  "retry": {},
