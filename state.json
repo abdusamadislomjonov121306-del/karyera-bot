@@ -1,6 +1,6 @@
 {
  "last_id": 124722,
- "offset": 596550467,
+ "offset": 596550470,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -11194,7 +11194,7 @@
   },
   "124258": {
    "msg_id": 851,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 YORDAMCHI ISHCHI\n\n🏢 \"Bekobod Building Invest\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: ISLOMJON OLIMJANOV ODILJON UGLI\n+998931778007\n\n🗓 E'lon sanasi: 04.11.2026\n\n📢 Ushbu e’lonni tanishlaringizga ham ulashing!\n\n🔔 Kanalimizni kuzatib boring — yangi ish o’rinlarini birinchilardan bo’lib bilib oling!\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -11255,30 +11255,40 @@
    "msg_id": 852,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 ISHCHI\n\n🏢 \"Bekobod Building Invest\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: ISLOMJON OLIMJANOV ODILJON UGLI\n+998931778007\n\n🗓 E'lon sanasi: 04.11.2026\n\n📢 Ushbu e’lonni tanishlaringizga ham ulashing!\n\n🔔 Kanalimizni kuzatib boring — yangi ish o’rinlarini birinchilardan bo’lib bilib oling!\n👉 https://t.me/karyerauznamangan",
+   "caption": "ISHCHI va YORDAMCHI ISHCHI\n\n🏢 \"Bekobod Building Invest\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta ishchi va 5 ta yordamchi ishchi\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: ISLOMJON OLIMJANOV ODILJON UGLI\n+998931778007\n\n🗓 E'lon sanasi: 04.11.2026\n\n📢 Ushbu e’lonni tanishlaringizga ham ulashing!\n\n🔔 Kanalimizni kuzatib boring — yangi ish o’rinlarini birinchilardan bo’lib bilib oling!\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
+     "offset": 0,
      "length": 6,
      "type": "bold"
     },
     {
-     "offset": 363,
+     "offset": 10,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 152,
+     "length": 36,
+     "type": "bold"
+    },
+    {
+     "offset": 412,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 407,
+     "offset": 456,
      "length": 141,
      "type": "bold"
     },
     {
-     "offset": 548,
+     "offset": 597,
      "length": 30,
      "type": "url"
     },
     {
-     "offset": 548,
+     "offset": 597,
      "length": 30,
      "type": "bold"
     }
@@ -11672,7 +11682,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "05.11.2026 09:52",
+  "time": "05.11.2026 09:58",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
