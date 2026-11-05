@@ -1,5 +1,5 @@
 {
- "last_id": 124902,
+ "last_id": 124916,
  "offset": 596550505,
  "posts": {
   "116336": {
@@ -11737,8 +11737,8 @@
   "namangan"
  ],
  "stats": {
-  "time": "05.11.2026 14:31",
-  "scanned": 0,
+  "time": "05.11.2026 14:37",
+  "scanned": 2,
   "sent": 0,
   "errors": 0,
   "total_sent": 220
