@@ -1,5 +1,5 @@
 {
- "last_id": 124814,
+ "last_id": 124902,
  "offset": 596550504,
  "posts": {
   "116336": {
@@ -11648,6 +11648,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "124835": {
+   "msg_id": 868,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 8-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 200 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: 08:00 - 18:00\n\n📞 Bog'lanish: MADRAXIMOVA NARGIZA ABDURASULOVNA\n+998945084674\n\n🗓 E'lon sanasi: 05.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 426,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 474,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 507,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 124835,
+    "url": "https://osonish.uz/vacancies/124835",
+    "kasb": "O't yoquvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "08:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "41.187721, 71.728134",
+    "title": "O't yoquvchi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 8-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "1 200 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Madraximova Nargiza Abdurasulovna",
+    "hr_phone": "+998 94 508 46 74",
+    "date": "05.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -11682,11 +11736,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "05.11.2026 14:06",
-  "scanned": 0,
-  "sent": 0,
+  "time": "05.11.2026 14:12",
+  "scanned": 35,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 219
+  "total_sent": 220
  },
  "fails": {},
  "retry": {},
