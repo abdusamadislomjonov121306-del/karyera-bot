@@ -1,6 +1,6 @@
 {
  "last_id": 124722,
- "offset": 596550477,
+ "offset": 596550504,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -11322,7 +11322,7 @@
   },
   "124514": {
    "msg_id": 858,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 PSIXOLOG\n\n🏢 \"Yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 30-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: RAXMONOVA MUNIRA ABDUNAZAROVNA\n+998931772442\n\n🗓 E'lon sanasi: 04.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -11435,7 +11435,7 @@
   },
   "124600": {
    "msg_id": 860,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 MAHSUS PEDAGOG (INKLYUZIV TA'LIM)\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 64-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 4 000 000 dan 5 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–15:00\n\n📞 Bog'lanish: ABDUVAXOBOV MUXAMMADJON ABDUG'ANIYEVICH\n+998884412200\n\n🗓 E'lon sanasi: 04.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -11682,7 +11682,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "05.11.2026 10:17",
+  "time": "05.11.2026 10:23",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
