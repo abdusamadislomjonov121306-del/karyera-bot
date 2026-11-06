@@ -1,6 +1,6 @@
 {
- "last_id": 125080,
- "offset": 596550514,
+ "last_id": 125134,
+ "offset": 596550523,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -11702,6 +11702,438 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "125096": {
+   "msg_id": 880,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 YORDAMCHI ISHCHI\n\n🏢 \"yangihayot Tumani 333-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Yangihayot tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 2 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ZIYADINOVA XURSHIDA NORBEKOVNA\n+998999810769\n\n🗓 E'lon sanasi: 05.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 378,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 426,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 459,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125096,
+    "url": "https://osonish.uz/vacancies/125096",
+    "kasb": "Yordamchi ishchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Ташкентская ул., 50-51, махаллинский сход граждан Хушнуд, Янгихаётский район, Ташкент",
+    "title": "Yordamchi ishchi",
+    "org": "\"yangihayot Tumani 333-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangihayot tumani",
+    "salary": "1 500 000 dan 2 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ZIYADINOVA XURSHIDA NORBEKOVNA",
+    "hr_phone": "+998 99 981 07 69",
+    "date": "05.11.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "125109": {
+   "msg_id": 882,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 GAZ XO'JALIGI, ISITISH PECHLARI VA QOZONXONALAR USTASI\n\n🏢 \"47-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Bekobod tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 400 000 dan 1 600 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: USMANOV MUZAFFAR RUSTAMQULOVICH\n+998996305476\n\n🗓 E'lon sanasi: 05.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 54,
+     "type": "bold"
+    },
+    {
+     "offset": 381,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 429,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 462,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125109,
+    "url": "https://osonish.uz/vacancies/125109",
+    "kasb": "Gaz xo'jaligi, isitish pechlari va qozonxonalar ustasi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Ташкентская область, Бекабадский район, махаллинский сход граждан Ачамайли",
+    "title": "Gaz xo'jaligi, isitish pechlari va qozonxonalar ustasi",
+    "org": "\"47-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Bekobod tumani",
+    "salary": "1 400 000 dan 1 600 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "USMANOV MUZAFFAR RUSTAMQULOVICH",
+    "hr_phone": "+998 99 630 54 76",
+    "date": "05.11.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "125111": {
+   "msg_id": 885,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAVSUMIY ISHCHI\n\n🏢 \"g'ijduvon Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 58-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Buxoro viloyati, G'ijduvon tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 00:00–00:00\n\n📞 Bog'lanish: AMONOVA GULSHOD HAKIMOVNA\n+998912442907\n\n🗓 E'lon sanasi: 05.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 15,
+     "type": "bold"
+    },
+    {
+     "offset": 414,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 462,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 495,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125111,
+    "url": "https://osonish.uz/vacancies/125111",
+    "kasb": "Elektr va issiqlik tarmoqlarini ta'mirlash va ularga xizmat ko'rsatish bo'yicha ishchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 00:00 - 00:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Бухарская область, Гиждуванский район, населённый пункт Жанубий-Янгирабат",
+    "title": "Mavsumiy ishchi",
+    "org": "\"g'ijduvon Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 58-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "G'ijduvon tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Amonova Gulshod Hakimovna",
+    "hr_phone": "+998 91 244 29 07",
+    "date": "05.11.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "125112": {
+   "msg_id": 886,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TEXNONOLOGIYA FANI O'QITUVCHISI\n\n🏢 \"g'ijduvon Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 58-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Buxoro viloyati, G'ijduvon tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:30–14:00\n\n📞 Bog'lanish: AMONOVA GULSHOD HAKIMOVNA\n+998912442907\n\n🗓 E'lon sanasi: 05.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 31,
+     "type": "bold"
+    },
+    {
+     "offset": 446,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 494,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 527,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125112,
+    "url": "https://osonish.uz/vacancies/125112",
+    "kasb": "Boshqa fanlardan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:30 - 14:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Бухарская область, Гиждуванский район, населённый пункт Жанубий-Янгирабат",
+    "title": "Texnonologiya fani o'qituvchisi",
+    "org": "\"g'ijduvon Tuman Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 58-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "G'ijduvon tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Amonova Gulshod Hakimovna",
+    "hr_phone": "+998 91 244 29 07",
+    "date": "05.11.2026",
+    "region_key": "buxoro",
+    "region": "Buxoro viloyati",
+    "is_region": true
+   }
+  },
+  "125119": {
+   "msg_id": 887,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MUSIQA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"toshkent Viloyati Ohangaron Tumani Maktabgacha Va Maktab Bo'limi Tasarrufidagi 2-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Oxongaron tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 800 000 dan 3 700 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: BOLGINBAYEV MUSTAFA TUYMAXANOVICH\n+998991712562\n\n🗓 E'lon sanasi: 05.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 34,
+     "type": "bold"
+    },
+    {
+     "offset": 491,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 539,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 572,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125119,
+    "url": "https://osonish.uz/vacancies/125119",
+    "kasb": "Boshqa fanlardan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Ахангаранский район, населённый пункт Гулабад",
+    "title": "Musiqa fanidan maktab o'qituvchisi",
+    "org": "\"toshkent Viloyati Ohangaron Tumani Maktabgacha Va Maktab Bo'limi Tasarrufidagi 2-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Oxongaron tumani",
+    "salary": "1 800 000 dan 3 700 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "BOLGINBAYEV MUSTAFA TUYMAXANOVICH",
+    "hr_phone": "+998 99 171 25 62",
+    "date": "05.11.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "125121": {
+   "msg_id": 889,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TASVIRIY SAN'AT FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"toshkent Viloyati Ohangaron Tumani Maktabgacha Va Maktab Bo'limi Tasarrufidagi 2-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Oxongaron tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 360 000 dan 3 700 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: BOLGINBAYEV MUSTAFA TUYMAXANOVICH\n+998991712562\n\n🗓 E'lon sanasi: 05.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 43,
+     "type": "bold"
+    },
+    {
+     "offset": 500,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 548,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 581,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125121,
+    "url": "https://osonish.uz/vacancies/125121",
+    "kasb": "Boshqa fanlardan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Ахангаранский район, населённый пункт Гулабад",
+    "title": "Tasviriy san'at fanidan maktab o'qituvchisi",
+    "org": "\"toshkent Viloyati Ohangaron Tumani Maktabgacha Va Maktab Bo'limi Tasarrufidagi 2-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Oxongaron tumani",
+    "salary": "1 360 000 dan 3 700 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "BOLGINBAYEV MUSTAFA TUYMAXANOVICH",
+    "hr_phone": "+998 99 171 25 62",
+    "date": "05.11.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
+  },
+  "125131": {
+   "msg_id": 892,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TARBIYACHI\n\n🏢 \"farg'ona Shahar Maktabgacha Va Maktab Ta'limi Bo'limi 36-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Farg'ona shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 2 000 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: muddatli\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–17:00\n\n📞 Bog'lanish: AZIMOVA DILORAM DJURAYEVNA\n+998911280222\n\n🗓 E'lon sanasi: 05.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 10,
+     "type": "bold"
+    },
+    {
+     "offset": 403,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 451,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 484,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125131,
+    "url": "https://osonish.uz/vacancies/125131",
+    "kasb": "Tarbiyachi",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Muddatli",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ayol",
+    "address": "Farg'ona shahar A.Qodiriy ko'chasi 30 uy",
+    "title": "Tarbiyachi",
+    "org": "\"farg'ona Shahar Maktabgacha Va Maktab Ta'limi Bo'limi 36-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Farg'ona shahar",
+    "salary": "2 000 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "AZIMOVA DILORAM DJURAYEVNA",
+    "hr_phone": "+998 91 128 02 22",
+    "date": "05.11.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
+  },
+  "125134": {
+   "msg_id": 893,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TO'GARAK (JAMOA) RAHBARI TURLI YO'NALISHLAR BO'YICHA SAN'AT VA MADANIYAT, SPORT, AXBOROT TEXNOLOGIYALAR YO'NALISHIDA, KASB-HUNAR YO'NALISHLARI, ILM-FAN YO'NALISHLARI, XORIJIY TILLAR VA MAKTABGA TAYYORLOV YO'NALISHLARI BO'YICHA\n\n🏢 \"chirchiq Shahar \"kelajak\" Markazi\" Davlat Muassasasi\n\n📍 Toshkent viloyati, Chirchiq shahar\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: DAVLETOVA ZUXRA SAPARBAYEVNA\n+998901231875\n\n🗓 E'lon sanasi: 06.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 226,
+     "type": "bold"
+    },
+    {
+     "offset": 559,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 607,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 640,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125134,
+    "url": "https://osonish.uz/vacancies/125134",
+    "kasb": "To'garak (jamoa) rahbari",
+    "slots": 5,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Ташкентская область, Чирчик, 3-й микрорайон, 14A",
+    "title": "To'garak (jamoa) rahbari Turli yo'nalishlar bo'yicha San'at va madaniyat, sport, Axborot texnologiyalar yo'nalishida, Kasb-hunar yo'nalishlari, Ilm-fan yo'nalishlari, Xorijiy tillar va maktabga tayyorlov yo'nalishlari bo'yicha",
+    "org": "\"chirchiq Shahar \"kelajak\" Markazi\" Davlat Muassasasi",
+    "district": "Chirchiq shahar",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "DAVLETOVA ZUXRA SAPARBAYEVNA",
+    "hr_phone": "+998 90 123 18 75",
+    "date": "06.11.2026",
+    "region_key": "toshkent_v",
+    "region": "Toshkent viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -11735,27 +12167,14 @@
   "870": "124835"
  },
  "regions": [
-  "toshkent_sh",
-  "toshkent_v",
-  "qoraqalpog",
-  "andijon",
-  "buxoro",
-  "jizzax",
-  "qashqadaryo",
-  "navoiy",
-  "namangan",
-  "samarqand",
-  "surxondaryo",
-  "sirdaryo",
-  "fargona",
-  "xorazm"
+  "namangan"
  ],
  "stats": {
-  "time": "06.11.2026 09:11",
-  "scanned": 0,
-  "sent": 0,
+  "time": "06.11.2026 09:17",
+  "scanned": 25,
+  "sent": 8,
   "errors": 0,
-  "total_sent": 220
+  "total_sent": 228
  },
  "fails": {},
  "retry": {},
