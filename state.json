@@ -1,5 +1,5 @@
 {
- "last_id": 125505,
+ "last_id": 125577,
  "offset": 596550530,
  "posts": {
   "116336": {
@@ -12134,6 +12134,114 @@
     "region": "Toshkent viloyati",
     "is_region": true
    }
+  },
+  "125508": {
+   "msg_id": 898,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 64-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 400 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: 07:00 - 07:00\n\n📞 Bog'lanish: ABDUVAXOBOV MUXAMMADJON ABDUG'ANIYEVICH\n+998884412200\n\n🗓 E'lon sanasi: 06.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 424,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 472,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 505,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125508,
+    "url": "https://osonish.uz/vacancies/125508",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Soatbay",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "07:00 - 07:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Yangiqo'rg'on tuman Barkamol mfy 1-uy",
+    "title": "O't yoquvchi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 64-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "1 000 000 dan 1 400 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ABDUVAXOBOV MUXAMMADJON ABDUG'ANIYEVICH",
+    "hr_phone": "+998 88 441 22 00",
+    "date": "06.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "125518": {
+   "msg_id": 899,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 53-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 360 000 so'mdan boshlab\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: ABDURAXIMOV ELDORBEK XABIBULLAYEVICH\n+998942780983\n\n🗓 E'lon sanasi: 07.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 430,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 478,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 511,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 125518,
+    "url": "https://osonish.uz/vacancies/125518",
+    "kasb": "O't yoquvchi",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Namangan viloyatiYangiqo'rg'on tuman Xadikent",
+    "title": "O't yoquvchi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 53-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "1 360 000 so'mdan boshlab",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ABDURAXIMOV ELDORBEK XABIBULLAYEVICH",
+    "hr_phone": "+998 94 278 09 83",
+    "date": "07.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -12170,11 +12278,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "07.11.2026 18:45",
-  "scanned": 0,
-  "sent": 0,
+  "time": "07.11.2026 18:51",
+  "scanned": 10,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 228
+  "total_sent": 230
  },
  "fails": {},
  "retry": {},
