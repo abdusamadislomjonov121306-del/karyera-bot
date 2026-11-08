@@ -1,6 +1,6 @@
 {
  "last_id": 125595,
- "offset": 596550551,
+ "offset": 596550553,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -12137,7 +12137,7 @@
   },
   "125508": {
    "msg_id": 898,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 64-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 400 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: 07:00 - 07:00\n\n📞 Bog'lanish: ABDUVAXOBOV MUXAMMADJON ABDUG'ANIYEVICH\n+998884412200\n\n🗓 E'lon sanasi: 06.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -12191,7 +12191,7 @@
   },
   "125518": {
    "msg_id": 899,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 53-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 360 000 so'mdan boshlab\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: ABDURAXIMOV ELDORBEK XABIBULLAYEVICH\n+998942780983\n\n🗓 E'lon sanasi: 07.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -12410,7 +12410,7 @@
   "namangan"
  ],
  "stats": {
-  "time": "09.11.2026 01:10",
+  "time": "09.11.2026 01:16",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
