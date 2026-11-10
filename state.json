@@ -1,6 +1,6 @@
 {
- "last_id": 126029,
- "offset": 596550554,
+ "last_id": 126152,
+ "offset": 596550557,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -12374,6 +12374,50 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "126046": {
+   "msg_id": 924,
+   "status": "pending",
+   "variant": 1,
+   "caption": "🎓 IP YEGIRUVCHI\n\n🏢 \"Toshbuloq-Teks\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan tumani\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: MAMADALIYEV BOBURXON MAXAMADINXO'JA O'G'LI\n+998949943272\n\n🗓 E'lon sanasi: 09.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 316,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 396,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 126046,
+    "url": "https://osonish.uz/vacancies/126046",
+    "kasb": "Ip yegiruvchi",
+    "slots": 5,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Smenali ish",
+    "schedule": "",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманганский район, городской посёлок Ташбулак, махаллинский сход граждан Катта Тошбулок",
+    "title": "Ip yegiruvchi",
+    "org": "\"toshbuloq-Teks\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Namangan tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MAMADALIYEV BOBURXON MAXAMADINXO'JA O'G'LI",
+    "hr_phone": "+998 94 994 32 72",
+    "date": "09.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -12410,11 +12454,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "10.11.2026 10:19",
-  "scanned": 0,
-  "sent": 0,
+  "time": "10.11.2026 10:25",
+  "scanned": 60,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 233
+  "total_sent": 234
  },
  "fails": {},
  "retry": {},
