@@ -12467,12 +12467,11 @@
   "xorazm"
  ],
  "stats": {
-  "time": "12.11.2026 14:07",
+  "time": "12.11.2026 14:13",
   "scanned": 0,
   "sent": 0,
-  "errors": 1,
-  "total_sent": 234,
-  "last_error": "ID ro'yxati: osonish.uz'dan birorta ham ID olinmadi (sayt javob bermayapti yoki bloklagan)"
+  "errors": 0,
+  "total_sent": 234
  },
  "fails": {},
  "retry": {},
