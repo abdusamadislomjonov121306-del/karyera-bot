@@ -1,6 +1,6 @@
 {
- "last_id": 127390,
- "offset": 596550590,
+ "last_id": 127479,
+ "offset": 596550594,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -12907,7 +12907,7 @@
   },
   "127369": {
    "msg_id": 959,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangi Namangan Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 60-Sonli Umumiy O'rta Talim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 800 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 05:00–18:00\n\n📞 Bog'lanish: DJALALOVA FIRUZA RASHIDOVNA\n+998910112041\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -12961,7 +12961,7 @@
   },
   "127370": {
    "msg_id": 960,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 QOZONXONA MASHINISTI (O'T YOQUVCHI)\n\n🏢 \"yangi Namangan Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 60-Sonli Umumiy O'rta Talim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 600 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 05:00–18:00\n\n📞 Bog'lanish: DJALALOVA FIRUZA RASHIDOVNA\n+998910112041\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -13174,6 +13174,276 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "127406": {
+   "msg_id": 968,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"to'raqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 47-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, To'raqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 1 800 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Erkin grafik, 08:00 - 08:00\n\n📞 Bog'lanish: QAMBAROVA SHOXISTAXON MAXAMMADNAZAROVNA\n+998912938840\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 447,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 495,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 528,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127406,
+    "url": "https://osonish.uz/vacancies/127406",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "Erkin grafik, 08:00 - 08:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Туракурганский район, махаллинский сход граждан Шохидон, улица Садача, 46",
+    "title": "Qorovul",
+    "org": "\"to'raqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 47-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "To'raqo'rg'on tumani",
+    "salary": "1 500 000 dan 1 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "QAMBAROVA SHOXISTAXON MAXAMMADNAZAROVNA",
+    "hr_phone": "+998 91 293 88 40",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127435": {
+   "msg_id": 969,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 63-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 4 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 3 kun ish, 3 kun dam\n\n📞 Bog'lanish: KARIMOV NOZIMJON USMONOVICH\n+998911779711\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 421,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 469,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 502,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127435,
+    "url": "https://osonish.uz/vacancies/127435",
+    "kasb": "O't yoquvchi",
+    "slots": 4,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "3/3",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Янгикурганский район, городской посёлок Салман",
+    "title": "O't yoquvchi",
+    "org": "\"yangiqo'rg'on Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 63-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "KARIMOV NOZIMJON USMONOVICH",
+    "hr_phone": "+998 91 177 97 11",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127443": {
+   "msg_id": 970,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 DO'KON SOTUVCHISINING YORDAMCHISI\n\n🏢 Yuldashev Gani Usmanovich Yatt\n\n📍 Namangan viloyati, Mingbuloq tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: YULDASHEV GANI\n+998775028866\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 33,
+     "type": "bold"
+    },
+    {
+     "offset": 330,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 378,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 411,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127443,
+    "url": "https://osonish.uz/vacancies/127443",
+    "kasb": "Do'kon sotuvchisining yordamchisi",
+    "slots": 10,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "mustaqillik mfy",
+    "title": "Do'kon sotuvchisining yordamchisi",
+    "org": "Yuldashev Gani Usmanovich Yatt",
+    "district": "Mingbuloq tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Yuldashev Gani",
+    "hr_phone": "+998 77 502 88 66",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127465": {
+   "msg_id": 971,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 DO'KON SOTUVCHISINING YORDAMCHISI\n\n🏢 \"ishonch Milliy Mahsulot \" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Mingbuloq tumani\n\n👥 Bo'sh o'rinlar: 8 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: MUXIDDIN ARZIKULOV YULDASHEVICH\n+998945543030\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 33,
+     "type": "bold"
+    },
+    {
+     "offset": 373,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 421,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 454,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127465,
+    "url": "https://osonish.uz/vacancies/127465",
+    "kasb": "Do'kon sotuvchisining yordamchisi",
+    "slots": 8,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "Курикобод МФЙ",
+    "title": "Do'kon sotuvchisining yordamchisi",
+    "org": "\"ishonch Milliy Mahsulot \" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Mingbuloq tumani",
+    "salary": "1 500 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "MUXIDDIN ARZIKULOV YULDASHEVICH",
+    "hr_phone": "+998 94 554 30 30",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127479": {
+   "msg_id": 972,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KADRLAR BO'YICHA INSPEKTOR\n\n🏢 \"o'zsuvta'minot Aksiyadorlik Jamiyati Suv Ta'minoti Va Oqava Suv Obyektlari Qurlishi Bo'yicha Injiniring Kompaniyasi Unitar Korxonasi Namangan Viloyat Hududiy Boshqarmasi\" Unitar Korxona\n\n📍 Namangan shahar\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 7 000 000 dan 8 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 09:00–18:00\n\n📞 Bog'lanish: ULUG'BEK ADASHOV TURSUNXUJA O'G'LI\n+998996313003\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 26,
+     "type": "bold"
+    },
+    {
+     "offset": 508,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 556,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 589,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127479,
+    "url": "https://osonish.uz/vacancies/127479",
+    "kasb": "Kadrlar bo'yicha inspektor",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 09:00 - 18:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ayol",
+    "address": "Наманган вилоят, Наманган шахар, Навоий кучаси24уй",
+    "title": "Kadrlar bo'yicha inspektor",
+    "org": "\"o'zsuvta'minot Aksiyadorlik Jamiyati Suv Ta'minoti Va Oqava Suv Obyektlari Qurlishi Bo'yicha Injiniring Kompaniyasi Unitar Korxonasi Namangan Viloyat Hududiy Boshqarmasi\" Unitar Korxona",
+    "district": "Namangan shahar",
+    "salary": "7 000 000 dan 8 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ULUG'BEK ADASHOV TURSUNXUJA O'G'LI",
+    "hr_phone": "+998 99 631 30 03",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -13210,11 +13480,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "12.11.2026 15:23",
-  "scanned": 0,
-  "sent": 0,
+  "time": "12.11.2026 15:29",
+  "scanned": 39,
+  "sent": 5,
   "errors": 0,
-  "total_sent": 248
+  "total_sent": 253
  },
  "fails": {},
  "retry": {},
