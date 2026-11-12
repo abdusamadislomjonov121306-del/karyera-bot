@@ -1,6 +1,6 @@
 {
- "last_id": 127367,
- "offset": 596550581,
+ "last_id": 127390,
+ "offset": 596550586,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -12904,6 +12904,276 @@
     "region": "Farg'ona viloyati",
     "is_region": true
    }
+  },
+  "127369": {
+   "msg_id": 959,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"yangi Namangan Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 60-Sonli Umumiy O'rta Talim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 800 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 05:00–18:00\n\n📞 Bog'lanish: DJALALOVA FIRUZA RASHIDOVNA\n+998910112041\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 439,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 487,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 520,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127369,
+    "url": "https://osonish.uz/vacancies/127369",
+    "kasb": "O't yoquvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 05:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "ул. Афросиёб, 25, Наманган",
+    "title": "O't yoquvchi",
+    "org": "\"yangi Namangan Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 60-Sonli Umumiy O'rta Talim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 800 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "DJALALOVA FIRUZA RASHIDOVNA",
+    "hr_phone": "+998 91 011 20 41",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127370": {
+   "msg_id": 960,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOZONXONA MASHINISTI (O'T YOQUVCHI)\n\n🏢 \"yangi Namangan Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 60-Sonli Umumiy O'rta Talim Maktabi\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 2 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 600 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 05:00–18:00\n\n📞 Bog'lanish: DJALALOVA FIRUZA RASHIDOVNA\n+998910112041\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 35,
+     "type": "bold"
+    },
+    {
+     "offset": 462,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 510,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 543,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127370,
+    "url": "https://osonish.uz/vacancies/127370",
+    "kasb": "Qozonxona mashinisti (o't yoquvchi)",
+    "slots": 2,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 05:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "ул. Афросиёб, 25, Наманган",
+    "title": "Qozonxona mashinisti (o't yoquvchi)",
+    "org": "\"yangi Namangan Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 60-Sonli Umumiy O'rta Talim Maktabi\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 600 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "DJALALOVA FIRUZA RASHIDOVNA",
+    "hr_phone": "+998 91 011 20 41",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127382": {
+   "msg_id": 962,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 HUDUD TOZALOVCHISI\n\n🏢 \"samarqand Tuman 13-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Samarqand tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 160 000 so'm\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: ABDULLAYEV TURAKUL XUJAKULOVICH\n+998915530799\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 18,
+     "type": "bold"
+    },
+    {
+     "offset": 365,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 413,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 446,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127382,
+    "url": "https://osonish.uz/vacancies/127382",
+    "kasb": "Hudud tozalovchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Самаркандский район, махаллинский сход граждан Ипакчи",
+    "title": "Hudud tozalovchisi",
+    "org": "\"samarqand Tuman 13-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Samarqand tumani",
+    "salary": "1 160 000 so'm",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ABDULLAYEV TURAKUL XUJAKULOVICH",
+    "hr_phone": "+998 91 553 07 99",
+    "date": "12.11.2026",
+    "region_key": "samarqand",
+    "region": "Samarqand viloyati",
+    "is_region": true
+   }
+  },
+  "127383": {
+   "msg_id": 964,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAXSUS PEDAGOGIK-PSIXOLOGIYA MUTAXASSISLIGI BO'YICHA PSIXOLOG\n\n🏢 \"samarqand Tuman 13-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Samarqand tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 5 000 000 dan 5 300 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–15:00\n\n📞 Bog'lanish: ABDULLAYEV TURAKUL XUJAKULOVICH\n+998915530799\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 61,
+     "type": "bold"
+    },
+    {
+     "offset": 421,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 469,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 502,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127383,
+    "url": "https://osonish.uz/vacancies/127383",
+    "kasb": "Maxsus pedagogik-psixologiya mutaxassisligi bo'yicha psixolog",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 15:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Самаркандский район, махаллинский сход граждан Ипакчи",
+    "title": "Maxsus pedagogik-psixologiya mutaxassisligi bo'yicha psixolog",
+    "org": "\"samarqand Tuman 13-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Samarqand tumani",
+    "salary": "5 000 000 dan 5 300 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ABDULLAYEV TURAKUL XUJAKULOVICH",
+    "hr_phone": "+998 91 553 07 99",
+    "date": "12.11.2026",
+    "region_key": "samarqand",
+    "region": "Samarqand viloyati",
+    "is_region": true
+   }
+  },
+  "127390": {
+   "msg_id": 965,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 YUK KO'TARISHGA\n\n🏢 \"abubakr Anass\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chust tumani\n\n👥 Bo'sh o'rinlar: 4 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: BUTAYEV AKMALJON KODIRJONOVICH\n+998948670000\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 15,
+     "type": "bold"
+    },
+    {
+     "offset": 321,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 369,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 402,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127390,
+    "url": "https://osonish.uz/vacancies/127390",
+    "kasb": "Yordamchi ishchi",
+    "slots": 4,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чустский район, махаллинский сход граждан Боги Эрам, улица Усмон Юсупов, 6",
+    "title": "Yuk ko'tarishga",
+    "org": "\"abubakr Anass\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chust tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Butayev Akmaljon Kodirjonovich",
+    "hr_phone": "+998 94 867 00 00",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -12937,27 +13207,14 @@
   "870": "124835"
  },
  "regions": [
-  "toshkent_sh",
-  "toshkent_v",
-  "qoraqalpog",
-  "andijon",
-  "buxoro",
-  "jizzax",
-  "qashqadaryo",
-  "navoiy",
-  "namangan",
-  "samarqand",
-  "surxondaryo",
-  "sirdaryo",
-  "fargona",
-  "xorazm"
+  "namangan"
  ],
  "stats": {
-  "time": "12.11.2026 14:45",
-  "scanned": 25,
-  "sent": 9,
+  "time": "12.11.2026 14:51",
+  "scanned": 7,
+  "sent": 5,
   "errors": 0,
-  "total_sent": 243
+  "total_sent": 248
  },
  "fails": {},
  "retry": {},
