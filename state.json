@@ -1,6 +1,6 @@
 {
  "last_id": 127479,
- "offset": 596550594,
+ "offset": 596550595,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -12637,7 +12637,7 @@
   },
   "127312": {
    "msg_id": 952,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 QOZONXONA MASHINISTI (O'T YOQUVCHI)\n\n🏢 \"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 74-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 700 000 dan 1 900 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 06:00–18:00\n\n📞 Bog'lanish: ALIJANOVA GULCHEXRA GANIJANOVNA\n+998913687179\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -13480,9 +13480,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "12.11.2026 15:29",
-  "scanned": 39,
-  "sent": 5,
+  "time": "12.11.2026 15:36",
+  "scanned": 0,
+  "sent": 0,
   "errors": 0,
   "total_sent": 253
  },
