@@ -1,6 +1,6 @@
 {
  "last_id": 127259,
- "offset": 596550563,
+ "offset": 596550572,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -12451,16 +12451,30 @@
   "870": "124835"
  },
  "regions": [
-  "namangan"
+  "toshkent_sh",
+  "toshkent_v",
+  "qoraqalpog",
+  "andijon",
+  "buxoro",
+  "jizzax",
+  "qashqadaryo",
+  "navoiy",
+  "namangan",
+  "samarqand",
+  "surxondaryo",
+  "sirdaryo",
+  "fargona",
+  "xorazm"
  ],
  "stats": {
-  "time": "12.11.2026 14:01",
+  "time": "12.11.2026 14:07",
   "scanned": 0,
   "sent": 0,
-  "errors": 0,
-  "total_sent": 234
+  "errors": 1,
+  "total_sent": 234,
+  "last_error": "ID ro'yxati: osonish.uz'dan birorta ham ID olinmadi (sayt javob bermayapti yoki bloklagan)"
  },
  "fails": {},
  "retry": {},
- "last_alert": 1794075371.199291
+ "last_alert": 1794474518.395759
 }
