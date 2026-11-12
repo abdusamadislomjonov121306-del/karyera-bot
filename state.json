@@ -1,6 +1,6 @@
 {
- "last_id": 127259,
- "offset": 596550572,
+ "last_id": 127367,
+ "offset": 596550581,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -12418,6 +12418,492 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "127264": {
+   "msg_id": 946,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"shirin Shahar Tibbiyot Birlashmasi\" Davlat Muassasasi\n\n📍 Sirdaryo viloyati, Shirin shahar\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 564 000 dan 1 700 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: МАРХАБО\n+998909388050\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 345,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 393,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 426,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127264,
+    "url": "https://osonish.uz/vacancies/127264",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "Сырдарьинская область, Ширин",
+    "title": "O't yoquvchi",
+    "org": "\"shirin Shahar Tibbiyot Birlashmasi\" Davlat Muassasasi",
+    "district": "Shirin shahar",
+    "salary": "1 564 000 dan 1 700 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Мархабо",
+    "hr_phone": "+998 90 938 80 50",
+    "date": "12.11.2026",
+    "region_key": "sirdaryo",
+    "region": "Sirdaryo viloyati",
+    "is_region": true
+   }
+  },
+  "127271": {
+   "msg_id": 948,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 47-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 300 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: ABDUSATTAROV ILG'ORJON ABDUNAZAROVICH\n+998941250067\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 428,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 476,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 509,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127271,
+    "url": "https://osonish.uz/vacancies/127271",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманганская область, Папский район, населённый пункт Куштепа",
+    "title": "Qorovul",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 47-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "1 300 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Abdusattarov Ilg'orjon Abdunazarovich",
+    "hr_phone": "+998 94 125 00 67",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127281": {
+   "msg_id": 950,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MUSIQA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 2 500 000 dan 2 800 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: SAMATOV IBROXIM ABDULAXADOVICH\n+998934038627\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 34,
+     "type": "bold"
+    },
+    {
+     "offset": 470,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 518,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 551,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127281,
+    "url": "https://osonish.uz/vacancies/127281",
+    "kasb": "Musiqa fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманган, улица Ахсикент, 42A",
+    "title": "Musiqa fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 97-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "2 500 000 dan 2 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SAMATOV IBROXIM ABDULAXADOVICH",
+    "hr_phone": "+998 93 403 86 27",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127307": {
+   "msg_id": 951,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOROVUL\n\n🏢 \"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 74-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 700 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 07:00–19:00\n\n📞 Bog'lanish: ALIJANOVA GULCHEXRA GANIJANOVNA\n+998913687179\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 7,
+     "type": "bold"
+    },
+    {
+     "offset": 443,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 491,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 524,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127307,
+    "url": "https://osonish.uz/vacancies/127307",
+    "kasb": "Qorovul",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 07:00 - 19:00",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "Наманган, махаллинский сход граждан Мустакилликнинг 5 йиллиги",
+    "title": "Qorovul",
+    "org": "\"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 74-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 700 000 dan 2 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ALIJANOVA GULCHEXRA GANIJANOVNA",
+    "hr_phone": "+998 91 368 71 79",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127312": {
+   "msg_id": 952,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 QOZONXONA MASHINISTI (O'T YOQUVCHI)\n\n🏢 \"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 74-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 700 000 dan 1 900 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 06:00–18:00\n\n📞 Bog'lanish: ALIJANOVA GULCHEXRA GANIJANOVNA\n+998913687179\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 35,
+     "type": "bold"
+    },
+    {
+     "offset": 475,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 523,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 556,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127312,
+    "url": "https://osonish.uz/vacancies/127312",
+    "kasb": "Qozonxona mashinisti (o't yoquvchi)",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 06:00 - 18:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Наманган, махаллинский сход граждан Мустакилликнинг 5 йиллиги",
+    "title": "Qozonxona mashinisti (o't yoquvchi)",
+    "org": "\"yangi Namangan Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 74-Sonli Davlat Maktabgacha Ta'lim Tashkiloti\" Davlat Muassasasi",
+    "district": "Yangi Namangan tumani",
+    "salary": "1 700 000 dan 1 900 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ALIJANOVA GULCHEXRA GANIJANOVNA",
+    "hr_phone": "+998 91 368 71 79",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127319": {
+   "msg_id": 954,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"paxtachi Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 43-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Samarqand viloyati, Paxtachi tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 360 000 dan 1 400 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: NORMAMATOVA NARGIZA BOBOQOSIM QIZI\n+998930723165\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 423,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 471,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 504,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127319,
+    "url": "https://osonish.uz/vacancies/127319",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "6/1",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "Самаркандская область, Пахтачийский район, населённый пункт Сакызугул",
+    "title": "O't yoquvchi",
+    "org": "\"paxtachi Tumani Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 43-umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Paxtachi tumani",
+    "salary": "1 360 000 dan 1 400 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Normamatova Nargiza Boboqosim qizi",
+    "hr_phone": "+998 93 072 31 65",
+    "date": "12.11.2026",
+    "region_key": "samarqand",
+    "region": "Samarqand viloyati",
+    "is_region": true
+   }
+  },
+  "127320": {
+   "msg_id": 956,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 IQTISODIYOT FANLARIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 76-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: SOLIYEV BUNYODJON BAXODIROVICH\n+998950923777\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 42,
+     "type": "bold"
+    },
+    {
+     "offset": 410,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 458,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 491,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127320,
+    "url": "https://osonish.uz/vacancies/127320",
+    "kasb": "Iqtisodiyot fanlaridan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Папский район, населённый пункт Маргузар",
+    "title": "Iqtisodiyot fanlaridan maktab o'qituvchisi",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 76-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SOLIYEV BUNYODJON BAXODIROVICH",
+    "hr_phone": "+998 95 092 37 77",
+    "date": "12.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "127333": {
+   "msg_id": 957,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ISH YURITUVCHI\n\n🏢 \"sarvarbek Umidjon 777\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Farg'ona viloyati, Uchko'prik tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 000 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: TURSINBOY MAMATQULOV ABDUJAMOL O'G'LI\n+998975010306\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 14,
+     "type": "bold"
+    },
+    {
+     "offset": 394,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 442,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 475,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127333,
+    "url": "https://osonish.uz/vacancies/127333",
+    "kasb": "Ish yurituvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Ферганская область, Учкуприкский район, махаллинский сход граждан Чанг, улица Чанг",
+    "title": "Ish yurituvchi",
+    "org": "\"sarvarbek Umidjon 777\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Uchko'prik tumani",
+    "salary": "2 000 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSINBOY MAMATQULOV ABDUJAMOL O'G'LI",
+    "hr_phone": "+998 97 501 03 06",
+    "date": "12.11.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
+  },
+  "127334": {
+   "msg_id": 958,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 DO'KON SOTUVCHISI\n\n🏢 \"sarvarbek Umidjon 777\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Farg'ona viloyati, Uchko'prik tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 000 000 dan 3 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–19:00\n\n📞 Bog'lanish: TURSINBOY MAMATQULOV ABDUJAMOL O'G'LI\n+998975010306\n\n🗓 E'lon sanasi: 12.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 17,
+     "type": "bold"
+    },
+    {
+     "offset": 397,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 445,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 478,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127334,
+    "url": "https://osonish.uz/vacancies/127334",
+    "kasb": "Do'kon sotuvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 19:00",
+    "education": "",
+    "gender": "Erkak",
+    "address": "Ферганская область, Учкуприкский район, махаллинский сход граждан Чанг, улица Чанг",
+    "title": "Do'kon sotuvchisi",
+    "org": "\"sarvarbek Umidjon 777\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Uchko'prik tumani",
+    "salary": "2 000 000 dan 3 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURSINBOY MAMATQULOV ABDUJAMOL O'G'LI",
+    "hr_phone": "+998 97 501 03 06",
+    "date": "12.11.2026",
+    "region_key": "fargona",
+    "region": "Farg'ona viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -12467,11 +12953,11 @@
   "xorazm"
  ],
  "stats": {
-  "time": "12.11.2026 14:39",
-  "scanned": 0,
-  "sent": 0,
+  "time": "12.11.2026 14:45",
+  "scanned": 25,
+  "sent": 9,
   "errors": 0,
-  "total_sent": 234
+  "total_sent": 243
  },
  "fails": {},
  "retry": {},
