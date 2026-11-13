@@ -1,6 +1,6 @@
 {
- "last_id": 127926,
- "offset": 596550609,
+ "last_id": 127971,
+ "offset": 596550611,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -13444,6 +13444,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "127967": {
+   "msg_id": 977,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 YORDAMCHI ISHCHI\n\n🏢 \"asatillayev Dalasi\" Xususiy Korxona\n\n📍 Namangan viloyati, Mingbuloq tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: УСАРОВ ФАХРИДДИН\n+998947130984\n\n🗓 E'lon sanasi: 13.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 16,
+     "type": "bold"
+    },
+    {
+     "offset": 298,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 346,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 379,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 127967,
+    "url": "https://osonish.uz/vacancies/127967",
+    "kasb": "Yordamchi ishchi",
+    "slots": 3,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Ahamiyatsiz",
+    "address": "дамкул",
+    "title": "Yordamchi ishchi",
+    "org": "\"asatillayev Dalasi\" Xususiy Korxona",
+    "district": "Mingbuloq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Усаров Фахриддин",
+    "hr_phone": "+998 94 713 09 84",
+    "date": "13.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -13474,17 +13528,18 @@
   "702": "121304",
   "788": "122678",
   "869": "124835",
-  "870": "124835"
+  "870": "124835",
+  "978": "127967"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "13.11.2026 15:30",
-  "scanned": 0,
-  "sent": 0,
+  "time": "13.11.2026 15:36",
+  "scanned": 9,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 253
+  "total_sent": 254
  },
  "fails": {},
  "retry": {},
