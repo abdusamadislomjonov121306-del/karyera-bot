@@ -1,5 +1,5 @@
 {
- "last_id": 129064,
+ "last_id": 129197,
  "offset": 596550614,
  "posts": {
   "116336": {
@@ -13552,6 +13552,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "129197": {
+   "msg_id": 984,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAHSULOT MARKETINGI VA SOTUVI BO'YICHA OPERATOR\n\n🏢 \"nam Motor Servis\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 4 000 000 dan 7 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–17:00\n\n📞 Bog'lanish: ГАНИЕВА ГУЛНОРА\n+998953031020\n\n🗓 E'lon sanasi: 14.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 47,
+     "type": "bold"
+    },
+    {
+     "offset": 376,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 424,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 457,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 129197,
+    "url": "https://osonish.uz/vacancies/129197",
+    "kasb": "Mahsulot marketingi va sotuvi bo'yicha bo'lim (xizmat, qism) boshlig'i (mudiri)",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 09:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ayol",
+    "address": "Катта Тошбулок МФЙ Мустакиллик 1Б уй",
+    "title": "Mahsulot marketingi va sotuvi bo'yicha operator",
+    "org": "\"nam Motor Servis\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Namangan tumani",
+    "salary": "4 000 000 dan 7 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Ганиева Гулнора",
+    "hr_phone": "+998 95 303 10 20",
+    "date": "14.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -13589,11 +13643,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "14.11.2026 14:47",
-  "scanned": 0,
-  "sent": 0,
+  "time": "14.11.2026 14:53",
+  "scanned": 29,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 255
+  "total_sent": 256
  },
  "fails": {},
  "retry": {},
