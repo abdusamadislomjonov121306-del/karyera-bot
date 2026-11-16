@@ -1,6 +1,6 @@
 {
- "last_id": 130035,
- "offset": 596550618,
+ "last_id": 130065,
+ "offset": 596550620,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -13606,6 +13606,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "130047": {
+   "msg_id": 987,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 XOREOGRAF\n\n🏢 \"Yangiqo'rg'on Tuman 17-Sonli Bolalar Musiqa Va San'at Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Yangiqo'rg'on tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 5 kun ish, 2 kun dam, 08:00–17:00\n\n📞 Bog'lanish: SOBIRJANOV DONIYOR UMAROVICH\n+998936737303\n\n🗓 E'lon sanasi: 16.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 9,
+     "type": "bold"
+    },
+    {
+     "offset": 388,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 435,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 468,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130047,
+    "url": "https://osonish.uz/vacancies/130047",
+    "kasb": "Xoreograf",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "5/2, 08:00 - 17:00",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Янгикурганский район, махаллинский сход граждан Водий",
+    "title": "Xoreograf",
+    "org": "\"yangiqo'rg'on Tuman 17-Sonli Bolalar Musiqa Va San'at Maktabi\" Davlat Muassasasi",
+    "district": "Yangiqo'rg'on tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "SOBIRJANOV DONIYOR UMAROVICH",
+    "hr_phone": "+998 93 673 73 03",
+    "date": "16.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -13645,11 +13699,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "16.11.2026 14:24",
-  "scanned": 0,
-  "sent": 0,
+  "time": "16.11.2026 14:31",
+  "scanned": 11,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 256
+  "total_sent": 257
  },
  "fails": {},
  "retry": {},
