@@ -1,6 +1,6 @@
 {
  "last_id": 129744,
- "offset": 596550614,
+ "offset": 596550618,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -13501,7 +13501,7 @@
   },
   "128867": {
    "msg_id": 983,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 УСТА\n\n🏢 \"universal Invest Servis\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Andijon shahar\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 500 000 dan 2 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam\n\n📞 Bog'lanish: КАМАЛДИНОВ ЖАХОНГИР\n+998901449588\n\n🗓 E'lon sanasi: 14.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -13555,7 +13555,7 @@
   },
   "129197": {
    "msg_id": 984,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 MAHSULOT MARKETINGI VA SOTUVI BO'YICHA OPERATOR\n\n🏢 \"nam Motor Servis\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 4 000 000 dan 7 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 09:00–17:00\n\n📞 Bog'lanish: ГАНИЕВА ГУЛНОРА\n+998953031020\n\n🗓 E'lon sanasi: 14.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -13637,14 +13637,16 @@
   "788": "122678",
   "869": "124835",
   "870": "124835",
-  "978": "127967"
+  "978": "127967",
+  "985": "129197",
+  "986": "129197"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "16.11.2026 11:02",
-  "scanned": 3,
+  "time": "16.11.2026 11:09",
+  "scanned": 0,
   "sent": 0,
   "errors": 0,
   "total_sent": 256
