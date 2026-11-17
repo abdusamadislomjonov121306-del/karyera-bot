@@ -1,6 +1,6 @@
 {
- "last_id": 131000,
- "offset": 596550653,
+ "last_id": 131129,
+ "offset": 596550655,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -14362,6 +14362,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "131052": {
+   "msg_id": 1027,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 XIZMAT XONALARI FARROSHI\n\n🏢 \"Davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 90-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: XOJIYEVA DILFUZA GULOMKODIROVNA\n+998995162570\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 24,
+     "type": "bold"
+    },
+    {
+     "offset": 470,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 488,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 521,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 131052,
+    "url": "https://osonish.uz/vacancies/131052",
+    "kasb": "Xizmat xonalari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманган, махаллинский сход граждан Порлок, улица Ислома Каримова",
+    "title": "Xizmat xonalari farroshi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 90-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "1 000 000 dan 1 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XOJIYEVA DILFUZA GULOMKODIROVNA",
+    "hr_phone": "+998 99 516 25 70",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -14401,11 +14455,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "17.11.2026 15:58",
-  "scanned": 0,
-  "sent": 0,
+  "time": "17.11.2026 16:05",
+  "scanned": 42,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 270
+  "total_sent": 271
  },
  "fails": {},
  "retry": {},
