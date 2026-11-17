@@ -1,5 +1,5 @@
 {
- "last_id": 130637,
+ "last_id": 130703,
  "offset": 596550623,
  "posts": {
   "116336": {
@@ -14200,6 +14200,114 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "130648": {
+   "msg_id": 1002,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MATEMATIKA (ALGEBRA VA GEOMETRIYA) FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 90-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: XOJIYEVA DILFUZA GULOMKODIROVNA\n+998995162570\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 62,
+     "type": "bold"
+    },
+    {
+     "offset": 456,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 504,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 537,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130648,
+    "url": "https://osonish.uz/vacancies/130648",
+    "kasb": "Matematika (algebra va geometriya) fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманган, махаллинский сход граждан Порлок, улица Ислома Каримова",
+    "title": "Matematika (algebra va geometriya) fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 90-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XOJIYEVA DILFUZA GULOMKODIROVNA",
+    "hr_phone": "+998 99 516 25 70",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130653": {
+   "msg_id": 1003,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 INFORMATIKA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 90-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: XOJIYEVA DILFUZA GULOMKODIROVNA\n+998995162570\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 39,
+     "type": "bold"
+    },
+    {
+     "offset": 433,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 481,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 514,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130653,
+    "url": "https://osonish.uz/vacancies/130653",
+    "kasb": "Informatika fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманган, махаллинский сход граждан Порлок, улица Ислома Каримова",
+    "title": "Informatika fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 90-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XOJIYEVA DILFUZA GULOMKODIROVNA",
+    "hr_phone": "+998 99 516 25 70",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -14239,11 +14347,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "17.11.2026 12:04",
-  "scanned": 45,
-  "sent": 9,
+  "time": "17.11.2026 12:11",
+  "scanned": 17,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 267
+  "total_sent": 269
  },
  "fails": {},
  "retry": {},
