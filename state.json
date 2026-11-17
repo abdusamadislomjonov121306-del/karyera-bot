@@ -1,5 +1,5 @@
 {
- "last_id": 130516,
+ "last_id": 130637,
  "offset": 596550623,
  "posts": {
   "116336": {
@@ -13714,6 +13714,492 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "130521": {
+   "msg_id": 993,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KIYIM TIKUVCHI (CHEVAR)\n\n🏢 Meleh Tex Mas'uliyati Cheklangan Jamiyat ,xorijiy Korxona\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 20 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 500 000 dan 3 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:00–17:00\n\n📞 Bog'lanish: КАРИМОВ ОЙБЕК\n+998994650050\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 23,
+     "type": "bold"
+    },
+    {
+     "offset": 368,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 416,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 449,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130521,
+    "url": "https://osonish.uz/vacancies/130521",
+    "kasb": "Kiyim tikuvchi (chevar)",
+    "slots": 20,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 07:00 - 17:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманган, махаллинский сход граждан Оромгох",
+    "title": "Kiyim tikuvchi (chevar)",
+    "org": "Meleh Tex Mas'uliyati Cheklangan Jamiyat ,xorijiy Korxona",
+    "district": "Yangi Namangan tumani",
+    "salary": "2 500 000 dan 3 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Каримов Ойбек",
+    "hr_phone": "+998 99 465 00 50",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130528": {
+   "msg_id": 994,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 RUS SINFI KIMYO FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 42-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 500 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: OZODJONOVA MASTONA SHERALI QIZI\n+998951687273\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 43,
+     "type": "bold"
+    },
+    {
+     "offset": 486,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 534,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 567,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130528,
+    "url": "https://osonish.uz/vacancies/130528",
+    "kasb": "Kimyo fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Галаба, 188, махаллинский сход граждан Халклар Дустлиги, Наманган",
+    "title": "Rus sinfi Kimyo fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 42-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "3 500 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "OZODJONOVA MASTONA SHERALI QIZI",
+    "hr_phone": "+998 95 168 72 73",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130529": {
+   "msg_id": 995,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 DAZMOLLOVCHI\n\n🏢 Meleh Tex Mas'uliyati Cheklangan Jamiyat ,xorijiy Korxona\n\n📍 Yangi Namangan tumani\n\n👥 Bo'sh o'rinlar: 6 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 500 000 dan 3 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 07:00–17:00\n\n📞 Bog'lanish: КАРИМОВ ОЙБЕК\n+998994650050\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 356,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 404,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 437,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130529,
+    "url": "https://osonish.uz/vacancies/130529",
+    "kasb": "Dazmollovchi",
+    "slots": 6,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Ishbay",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 07:00 - 17:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "Наманган, махаллинский сход граждан Оромгох",
+    "title": "Dazmollovchi",
+    "org": "Meleh Tex Mas'uliyati Cheklangan Jamiyat ,xorijiy Korxona",
+    "district": "Yangi Namangan tumani",
+    "salary": "2 500 000 dan 3 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "Каримов Ойбек",
+    "hr_phone": "+998 99 465 00 50",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130536": {
+   "msg_id": 996,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 XIZMAT XONALARI FARROSHI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 42-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 500 000 dan 600 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–12:00\n\n📞 Bog'lanish: OZODJONOVA MASTONA SHERALI QIZI\n+998951687273\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 24,
+     "type": "bold"
+    },
+    {
+     "offset": 466,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 514,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 547,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130536,
+    "url": "https://osonish.uz/vacancies/130536",
+    "kasb": "Xizmat xonalari farroshi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 12:00",
+    "education": "",
+    "gender": "Ayol",
+    "address": "ул. Галаба, 188, махаллинский сход граждан Халклар Дустлиги, Наманган",
+    "title": "Xizmat xonalari farroshi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 42-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "500 000 dan 600 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "OZODJONOVA MASTONA SHERALI QIZI",
+    "hr_phone": "+998 95 168 72 73",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130544": {
+   "msg_id": 997,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MUSIQA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 42-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 000 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: OZODJONOVA MASTONA SHERALI QIZI\n+998951687273\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 34,
+     "type": "bold"
+    },
+    {
+     "offset": 477,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 525,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 558,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130544,
+    "url": "https://osonish.uz/vacancies/130544",
+    "kasb": "Musiqa fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Галаба, 188, махаллинский сход граждан Халклар Дустлиги, Наманган",
+    "title": "Musiqa fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 42-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "3 000 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "OZODJONOVA MASTONA SHERALI QIZI",
+    "hr_phone": "+998 95 168 72 73",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130556": {
+   "msg_id": 998,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 FIZIKA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 42-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 500 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–16:00\n\n📞 Bog'lanish: OZODJONOVA MASTONA SHERALI QIZI\n+998951687273\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 34,
+     "type": "bold"
+    },
+    {
+     "offset": 477,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 525,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 558,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130556,
+    "url": "https://osonish.uz/vacancies/130556",
+    "kasb": "Fizika fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 16:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Галаба, 188, махаллинский сход граждан Халклар Дустлиги, Наманган",
+    "title": "Fizika fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 42-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "3 500 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "OZODJONOVA MASTONA SHERALI QIZI",
+    "hr_phone": "+998 95 168 72 73",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130588": {
+   "msg_id": 999,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 KIMYO FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 48-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 1 200 000 dan 1 500 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–12:00\n\n📞 Bog'lanish: TURABAYEVA LOLAXON LATIBJANOVNA\n+998939120228\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 33,
+     "type": "bold"
+    },
+    {
+     "offset": 476,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 524,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 557,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130588,
+    "url": "https://osonish.uz/vacancies/130588",
+    "kasb": "Kimyo fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 12:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Диёнат, 66, Наманган",
+    "title": "Kimyo fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 48-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "1 200 000 dan 1 500 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURABAYEVA LOLAXON LATIBJANOVNA",
+    "hr_phone": "+998 93 912 02 28",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130590": {
+   "msg_id": 1000,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 GEOGRAFIYA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 48-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 500 000 dan 4 000 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: TURABAYEVA LOLAXON LATIBJANOVNA\n+998939120228\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 38,
+     "type": "bold"
+    },
+    {
+     "offset": 481,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 529,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 562,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130590,
+    "url": "https://osonish.uz/vacancies/130590",
+    "kasb": "Geografiya fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1 yilgacha",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Диёнат, 66, Наманган",
+    "title": "Geografiya fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 48-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "3 500 000 dan 4 000 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURABAYEVA LOLAXON LATIBJANOVNA",
+    "hr_phone": "+998 93 912 02 28",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "130595": {
+   "msg_id": 1001,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 TARIX FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 48-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1–3 yil\n\n💰 Maosh: 3 500 000 dan 4 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: TURABAYEVA LOLAXON LATIBJANOVNA\n+998939120228\n\n🗓 E'lon sanasi: 17.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 33,
+     "type": "bold"
+    },
+    {
+     "offset": 473,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 521,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 554,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 130595,
+    "url": "https://osonish.uz/vacancies/130595",
+    "kasb": "Tarix fanidan maktab o'qituvchisi",
+    "slots": 1,
+    "experience": "1-3 yil",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "6/1, 08:00 - 17:00",
+    "education": "Oliy bakalavr",
+    "gender": "Ahamiyatsiz",
+    "address": "ул. Диёнат, 66, Наманган",
+    "title": "Tarix fanidan maktab o'qituvchisi",
+    "org": "\"davlatobod Tumani Maktabgacha Va Maktab Ta'limi Bo'limi Tasarrufidagi 48-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Davlatobod tumani",
+    "salary": "3 500 000 dan 4 200 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURABAYEVA LOLAXON LATIBJANOVNA",
+    "hr_phone": "+998 93 912 02 28",
+    "date": "17.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -13753,11 +14239,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "17.11.2026 11:58",
-  "scanned": 0,
-  "sent": 0,
+  "time": "17.11.2026 12:04",
+  "scanned": 45,
+  "sent": 9,
   "errors": 0,
-  "total_sent": 258
+  "total_sent": 267
  },
  "fails": {},
  "retry": {},
