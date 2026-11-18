@@ -1,6 +1,6 @@
 {
  "last_id": 131479,
- "offset": 596550663,
+ "offset": 596550666,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -14455,13 +14455,14 @@
   "namangan"
  ],
  "stats": {
-  "time": "18.11.2026 11:18",
+  "time": "18.11.2026 11:25",
   "scanned": 0,
   "sent": 0,
-  "errors": 0,
-  "total_sent": 271
+  "errors": 1,
+  "total_sent": 271,
+  "last_error": "ID ro'yxati: osonish.uz'dan birorta ham ID olinmadi (sayt javob bermayapti yoki bloklagan)"
  },
  "fails": {},
  "retry": {},
- "last_alert": 1794474518.395759
+ "last_alert": 1794983112.4167686
 }
