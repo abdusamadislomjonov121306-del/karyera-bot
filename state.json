@@ -1,6 +1,6 @@
 {
  "last_id": 132370,
- "offset": 596550674,
+ "offset": 596550675,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -14419,7 +14419,7 @@
   },
   "132341": {
    "msg_id": 1039,
-   "status": "pending",
+   "status": "rejected",
    "variant": 0,
    "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"pop Saxovat\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 300 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: KARIMOV UMIDJON ISMOILOVICH\n+998949052442\n\n🗓 E'lon sanasi: 19.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
@@ -14564,9 +14564,9 @@
   "namangan"
  ],
  "stats": {
-  "time": "19.11.2026 13:59",
-  "scanned": 20,
-  "sent": 2,
+  "time": "19.11.2026 14:05",
+  "scanned": 0,
+  "sent": 0,
   "errors": 0,
   "total_sent": 273
  },
