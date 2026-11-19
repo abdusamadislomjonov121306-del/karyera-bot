@@ -1,6 +1,6 @@
 {
- "last_id": 132282,
- "offset": 596550672,
+ "last_id": 132370,
+ "offset": 596550674,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -14416,6 +14416,114 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "132341": {
+   "msg_id": 1039,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"pop Saxovat\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 300 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: KARIMOV UMIDJON ISMOILOVICH\n+998949052442\n\n🗓 E'lon sanasi: 19.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 299,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 347,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 380,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 132341,
+    "url": "https://osonish.uz/vacancies/132341",
+    "kasb": "O't yoquvchi",
+    "slots": 300,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Pop tumani",
+    "title": "O't yoquvchi",
+    "org": "\"pop Saxovat\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "KARIMOV UMIDJON ISMOILOVICH",
+    "hr_phone": "+998 94 905 24 42",
+    "date": "19.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "132370": {
+   "msg_id": 1040,
+   "status": "rejected",
+   "variant": 0,
+   "caption": "🎓 QOZONXONA MASHINISTI (O'T YOQUVCHI)\n\n🏢 \"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 8-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: OTAVALIYEV OTABEK ISROILOVICH\n+998507527375\n\n🗓 E'lon sanasi: 19.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 35,
+     "type": "bold"
+    },
+    {
+     "offset": 450,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 498,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 531,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 132370,
+    "url": "https://osonish.uz/vacancies/132370",
+    "kasb": "Qozonxona mashinisti (o't yoquvchi)",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Mavsumiy",
+    "mode": "Smenali ish",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартак, махаллинский сход граждан Алишер Навоий, улица Тадбиркор, 11",
+    "title": "Qozonxona mashinisti (o't yoquvchi)",
+    "org": "\"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 8-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "OTAVALIYEV OTABEK ISROILOVICH",
+    "hr_phone": "+998 50 752 73 75",
+    "date": "19.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -14449,17 +14557,18 @@
   "870": "124835",
   "978": "127967",
   "985": "129197",
-  "986": "129197"
+  "986": "129197",
+  "1041": "132341"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "19.11.2026 13:52",
-  "scanned": 0,
-  "sent": 0,
+  "time": "19.11.2026 13:59",
+  "scanned": 20,
+  "sent": 2,
   "errors": 0,
-  "total_sent": 271
+  "total_sent": 273
  },
  "fails": {},
  "retry": {},
