@@ -1,6 +1,6 @@
 {
- "last_id": 135155,
- "offset": 596550695,
+ "last_id": 135249,
+ "offset": 596550697,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -14813,6 +14813,50 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "135171": {
+   "msg_id": 1061,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 MAXSUS PEDAGOGIK-PSIXOLOGIYA MUTAXASSISLIGI BO'YICHA PSIXOLOG\n\n🏢 \"Pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 72-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Pop tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy \n\n⏳ Tajriba: Tajribali \n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ABDULLAYEV ATXAMJON LATIPJONOVICH\n+998999038284\n\n🗓 E'lon sanasi: 25.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 426,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 506,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135171,
+    "url": "https://osonish.uz/vacancies/135171",
+    "kasb": "Maxsus pedagogik-psixologiya mutaxassisligi bo'yicha psixolog",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Pop tumani 72-maktab",
+    "title": "Maxsus pedagogik-psixologiya mutaxassisligi bo'yicha psixolog",
+    "org": "\"pop Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 72-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Pop tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ABDULLAYEV ATXAMJON LATIPJONOVICH",
+    "hr_phone": "+998 99 903 82 84",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -14853,11 +14897,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "25.11.2026 16:44",
-  "scanned": 0,
-  "sent": 0,
+  "time": "25.11.2026 16:50",
+  "scanned": 45,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 279
+  "total_sent": 280
  },
  "fails": {},
  "retry": {},
