@@ -1,6 +1,6 @@
 {
  "last_id": 134716,
- "offset": 596550691,
+ "offset": 596550694,
  "posts": {
   "116336": {
    "msg_id": 165,
@@ -14730,25 +14730,15 @@
    "msg_id": 1055,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 QOZONXONA MASHINISTI (O'T YOQUVCHI)\n\n🏢 \"davlatobod Tuman 18-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Maktab-Internati\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 1 000 000 dan 1 400 000 so'mgacha\n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 1 kun ish, 2 kun dam, 08:00–23:30\n\n📞 Bog'lanish: USMANOVA SHOHSANAM BAXTIYOR QIZI\n+998886223553\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 QOZONXONA MASHINISTI (O'T YOQUVCHI)\n\n🏢 \"Davlatobod Tuman 18-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Maktab-Internati\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n💰 Maosh: 1 000 000 dan 1 400 000 so'mgacha qolgani kelishuv asosida \n\n📋 Ish turi: mavsumiy\n\n🕗 Ish tartibi: haftasiga 1 kun ish, 2 kun dam, 08:00–23:30\n\n📞 Bog'lanish: USMANOVA SHOHSANAM BAXTIYOR QIZI\n+998886223553\n\n🗓 E'lon sanasi: 25.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
     {
-     "offset": 3,
-     "length": 35,
-     "type": "bold"
-    },
-    {
-     "offset": 456,
+     "offset": 426,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 504,
-     "length": 29,
-     "type": "bold"
-    },
-    {
-     "offset": 537,
+     "offset": 506,
      "length": 30,
      "type": "url"
     }
@@ -14784,25 +14774,15 @@
    "msg_id": 1056,
    "status": "pending",
    "variant": 0,
-   "caption": "🎓 GEOGRAFIYA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"davlatobod Tuman 18-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Maktab-Internati\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 000 000 dan 3 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: USMANOVA SHOHSANAM BAXTIYOR QIZI\n+998886223553\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "caption": "🎓 GEOGRAFIYA FANIDAN MAKTAB O'QITUVCHISI\n\n🏢 \"Davlatobod Tuman 18-Sonli Ayrim Fanlar Chuqur O'qitiladigan Sinflari Mavjud Maktab-Internati\" Davlat Muassasasi\n\n📍 Namangan viloyati, Davlatobod tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Oliy bakalavr\n\n⏳ Tajriba: 1 yilgacha\n\n💰 Maosh: 3 000 000 dan 3 200 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: haftasiga 6 kun ish, 1 kun dam, 08:00–17:00\n\n📞 Bog'lanish: USMANOVA SHOHSANAM BAXTIYOR QIZI\n+998886223553\n\n🗓 E'lon sanasi: 25.11.2026\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
    "entities": [
-    {
-     "offset": 3,
-     "length": 38,
-     "type": "bold"
-    },
     {
      "offset": 468,
      "length": 13,
      "type": "phone_number"
     },
     {
-     "offset": 516,
-     "length": 29,
-     "type": "bold"
-    },
-    {
-     "offset": 549,
+     "offset": 548,
      "length": 30,
      "type": "url"
     }
@@ -14867,14 +14847,13 @@
   "978": "127967",
   "985": "129197",
   "986": "129197",
-  "1041": "132341",
-  "1057": "134706"
+  "1041": "132341"
  },
  "regions": [
   "namangan"
  ],
  "stats": {
-  "time": "25.11.2026 11:01",
+  "time": "25.11.2026 11:08",
   "scanned": 0,
   "sent": 0,
   "errors": 0,
