@@ -1,5 +1,5 @@
 {
- "last_id": 135937,
+ "last_id": 136031,
  "offset": 596550715,
  "posts": {
   "116336": {
@@ -15397,6 +15397,60 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "136000": {
+   "msg_id": 1079,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ISITISH QURILMALARI NAZORATCHISI\n\n🏢 \"barkamol Dalasi\" Fermer Xo'jaligi\n\n📍 Namangan viloyati, Mingbuloq tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: O'rta-maxsus\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: 2 200 000 dan 2 800 000 so'mgacha\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: ODILJON ERGASHEV XOSHIMOVICH\n+998932929198\n\n🗓 E'lon sanasi: 26.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 32,
+     "type": "bold"
+    },
+    {
+     "offset": 352,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 400,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 433,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 136000,
+    "url": "https://osonish.uz/vacancies/136000",
+    "kasb": "Isitish qurilmalari nazoratchisi",
+    "slots": 10,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "O'rta-maxsus",
+    "gender": "Erkak",
+    "address": "To'psada MFY",
+    "title": "Isitish qurilmalari nazoratchisi",
+    "org": "\"barkamol Dalasi\" Fermer Xo'jaligi",
+    "district": "Mingbuloq tumani",
+    "salary": "2 200 000 dan 2 800 000 so'mgacha",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "ODILJON ERGASHEV XOSHIMOVICH",
+    "hr_phone": "+998 93 292 91 98",
+    "date": "26.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -15438,11 +15492,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "26.11.2026 16:23",
-  "scanned": 0,
-  "sent": 0,
+  "time": "26.11.2026 16:30",
+  "scanned": 32,
+  "sent": 1,
   "errors": 0,
-  "total_sent": 290
+  "total_sent": 291
  },
  "fails": {},
  "retry": {},
