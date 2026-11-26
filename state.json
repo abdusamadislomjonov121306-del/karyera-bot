@@ -15437,13 +15437,14 @@
   "namangan"
  ],
  "stats": {
-  "time": "26.11.2026 11:26",
+  "time": "26.11.2026 11:32",
   "scanned": 0,
   "sent": 0,
-  "errors": 0,
-  "total_sent": 290
+  "errors": 1,
+  "total_sent": 290,
+  "last_error": "ID ro'yxati: osonish.uz'dan birorta ham ID olinmadi (sayt javob bermayapti yoki bloklagan)"
  },
  "fails": {},
  "retry": {},
- "last_alert": 1794983112.4167686
+ "last_alert": 1795674753.8392186
 }
