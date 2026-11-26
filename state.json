@@ -1,5 +1,5 @@
 {
- "last_id": 135375,
+ "last_id": 135411,
  "offset": 596550697,
  "posts": {
   "116336": {
@@ -14965,6 +14965,438 @@
     "region": "Namangan viloyati",
     "is_region": true
    }
+  },
+  "135382": {
+   "msg_id": 1066,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 NAZORATCHI\n\n🏢 \"chortoq Zangori Olov Gaz Servis\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 10 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: TURGUNOV NURIDDIN BOYMIRZAYEVICH\n+998931734146\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 10,
+     "type": "bold"
+    },
+    {
+     "offset": 339,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 387,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 420,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135382,
+    "url": "https://osonish.uz/vacancies/135382",
+    "kasb": "Aloqa uzeli nazoratchisi",
+    "slots": 10,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартак, махаллинский сход граждан Алишер Навоий, улица Дийдор, 40",
+    "title": "Nazoratchi",
+    "org": "\"chortoq Zangori Olov Gaz Servis\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURGUNOV NURIDDIN BOYMIRZAYEVICH",
+    "hr_phone": "+998 93 173 41 46",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "135383": {
+   "msg_id": 1067,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ISHCHI\n\n🏢 \"chortoq Zangori Olov Gaz Servis\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: TURGUNOV NURIDDIN BOYMIRZAYEVICH\n+998931734146\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 6,
+     "type": "bold"
+    },
+    {
+     "offset": 334,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 382,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 415,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135383,
+    "url": "https://osonish.uz/vacancies/135383",
+    "kasb": "Aerodrom ishchisi",
+    "slots": 5,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартак, махаллинский сход граждан Алишер Навоий, улица Дийдор, 40",
+    "title": "Ishchi",
+    "org": "\"chortoq Zangori Olov Gaz Servis\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURGUNOV NURIDDIN BOYMIRZAYEVICH",
+    "hr_phone": "+998 93 173 41 46",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "135385": {
+   "msg_id": 1068,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ISSIQXONA ISHCHISI\n\n🏢 \"temur Region\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 5 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: TURGUNOV NURIDDIN BOYMIRZAYEVICH\n+998931734146\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 18,
+     "type": "bold"
+    },
+    {
+     "offset": 327,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 375,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 408,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135385,
+    "url": "https://osonish.uz/vacancies/135385",
+    "kasb": "Issiqxona ishchisi",
+    "slots": 5,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартак, махаллинский сход граждан Алишер Навоий, улица Узбекистон, 104",
+    "title": "Issiqxona ishchisi",
+    "org": "\"temur Region\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "TURGUNOV NURIDDIN BOYMIRZAYEVICH",
+    "hr_phone": "+998 93 173 41 46",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "135387": {
+   "msg_id": 1069,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 9 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: JAKBAROV ISROIL IKROMJANOVICH\n+998935567030\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 392,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 440,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 473,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135387,
+    "url": "https://osonish.uz/vacancies/135387",
+    "kasb": "O't yoquvchi",
+    "slots": 9,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартакский район, махаллинский сход граждан Алихон",
+    "title": "O't yoquvchi",
+    "org": "\"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 36-Sonli Umumiy O'rta Ta'lim Maktabi\" Davlat Muassasasi",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "JAKBAROV ISROIL IKROMJANOVICH",
+    "hr_phone": "+998 93 556 70 30",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "135391": {
+   "msg_id": 1070,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 12-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti \" Davlat Muassasasi\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 1 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: VOXIDOVA DILNOZA KUPAYSINOVNA\n+998940540181\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 417,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 465,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 498,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135391,
+    "url": "https://osonish.uz/vacancies/135391",
+    "kasb": "O't yoquvchi",
+    "slots": 1,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Chortoq tumani",
+    "title": "O't yoquvchi",
+    "org": "\"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 12-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti \" Davlat Muassasasi",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "VOXIDOVA DILNOZA KUPAYSINOVNA",
+    "hr_phone": "+998 94 054 01 81",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "135392": {
+   "msg_id": 1071,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 O'T YOQUVCHI\n\n🏢 \"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 18-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti \" Davlat Muassasasi\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 3 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: VOXIDOVA DILNOZA KUPAYSINOVNA\n+998940540181\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 12,
+     "type": "bold"
+    },
+    {
+     "offset": 417,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 465,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 498,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135392,
+    "url": "https://osonish.uz/vacancies/135392",
+    "kasb": "O't yoquvchi",
+    "slots": 3,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартак, махаллинский сход граждан Оромгох",
+    "title": "O't yoquvchi",
+    "org": "\"chortoq Tuman Maktabgacha Va Maktab Ta'limi Bo'limiga Qarashli 18-Sonli Umumiy Turdagi Davlat Maktabgacha Ta'lim Tashkiloti \" Davlat Muassasasi",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "VOXIDOVA DILNOZA KUPAYSINOVNA",
+    "hr_phone": "+998 94 054 01 81",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "135393": {
+   "msg_id": 1072,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ISHCHI\n\n🏢 \"norin Sirdaryo Suv Havzasi\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 19 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: XAMRAYEV NOSIRJON SUYUMBEKOVICH\n+998701141776\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 6,
+     "type": "bold"
+    },
+    {
+     "offset": 329,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 377,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 410,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135393,
+    "url": "https://osonish.uz/vacancies/135393",
+    "kasb": "Aerodrom ishchisi",
+    "slots": 19,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Наманганская область, Чартакский район, городской посёлок Караскан, улица Янги Авлод, 1",
+    "title": "ISHCHI",
+    "org": "\"norin Sirdaryo Suv Havzasi\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XAMRAYEV NOSIRJON SUYUMBEKOVICH",
+    "hr_phone": "+998 70 114 17 76",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
+  },
+  "135394": {
+   "msg_id": 1073,
+   "status": "pending",
+   "variant": 0,
+   "caption": "🎓 ISHCHI\n\n🏢 \"chortoq Suv Tamir\" Mas'uliyati Cheklangan Jamiyat\n\n📍 Namangan viloyati, Chortoq tumani\n\n👥 Bo'sh o'rinlar: 19 ta\n\n🎓 Ma'lumot: Ahamiyatsiz\n\n⏳ Tajriba: Talab etilmaydi\n\n💰 Maosh: Kelishiladi\n\n📋 Ish turi: doimiy (shtat asosida)\n\n🕗 Ish tartibi: Kelishiladi\n\n📞 Bog'lanish: XAMRAYEV NOSIRJON SUYUMBEKOVICH\n+998701141776\n\n🗓 E'lon sanasi: 25.11.2026\n\n\n🔗 BIZNI KUZATISHDA DAVOM ETING:\n👉 https://t.me/karyerauznamangan",
+   "entities": [
+    {
+     "offset": 3,
+     "length": 6,
+     "type": "bold"
+    },
+    {
+     "offset": 320,
+     "length": 13,
+     "type": "phone_number"
+    },
+    {
+     "offset": 368,
+     "length": 29,
+     "type": "bold"
+    },
+    {
+     "offset": 401,
+     "length": 30,
+     "type": "url"
+    }
+   ],
+   "v": {
+    "id": 135394,
+    "url": "https://osonish.uz/vacancies/135394",
+    "kasb": "Aerodrom ishchisi",
+    "slots": 19,
+    "experience": "Talab etilmaydi",
+    "pay_form": "Oylik",
+    "employment": "Doimiy (shtat asosida)",
+    "mode": "Odatiy (ish joyida)",
+    "schedule": "",
+    "education": "",
+    "gender": "Ahamiyatsiz",
+    "address": "Chortoq tumani, Mustaqillik MFY",
+    "title": "ISHCHI",
+    "org": "\"chortoq Suv Tamir\" Mas'uliyati Cheklangan Jamiyat",
+    "district": "Chortoq tumani",
+    "salary": "Kelishiladi",
+    "phones": [],
+    "contact_name": "",
+    "hr_name": "XAMRAYEV NOSIRJON SUYUMBEKOVICH",
+    "hr_phone": "+998 70 114 17 76",
+    "date": "25.11.2026",
+    "region_key": "namangan",
+    "region": "Namangan viloyati",
+    "is_region": true
+   }
   }
  },
  "awaiting": {
@@ -15005,11 +15437,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "26.11.2026 09:20",
-  "scanned": 0,
-  "sent": 0,
+  "time": "26.11.2026 09:26",
+  "scanned": 18,
+  "sent": 8,
   "errors": 0,
-  "total_sent": 282
+  "total_sent": 290
  },
  "fails": {},
  "retry": {},
