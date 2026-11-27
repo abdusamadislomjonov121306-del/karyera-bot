@@ -1,5 +1,5 @@
 {
- "last_id": 137058,
+ "last_id": 137074,
  "offset": 596550721,
  "posts": {
   "116336": {
@@ -15492,12 +15492,11 @@
   "namangan"
  ],
  "stats": {
-  "time": "27.11.2026 16:11",
-  "scanned": 0,
+  "time": "27.11.2026 16:17",
+  "scanned": 7,
   "sent": 0,
-  "errors": 1,
-  "total_sent": 291,
-  "last_error": "ID ro'yxati: osonish.uz'dan birorta ham ID olinmadi (sayt javob bermayapti yoki bloklagan)"
+  "errors": 0,
+  "total_sent": 291
  },
  "fails": {},
  "retry": {},
